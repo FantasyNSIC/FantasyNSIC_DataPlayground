@@ -4,7 +4,7 @@ import re
 
 def main():
     # Read the file
-    with open('path/to/data/file/2023', 'r') as file:
+    with open('src/raw_data/2023_stats/example.txt', 'r') as file:
         lines = re.split(r'\n\n', file.read())
 
     # Initialize Header Lists
@@ -107,7 +107,7 @@ def main():
     semi_merged = pd.merge(rushing_df, passing_df, on=["first_name", "last_name", "gp"], how='outer')
     final_df = pd.merge(semi_merged, recieving_df, on=["first_name", "last_name", "gp"], how='outer')
 
-    print(final_df)
+    final_df.to_csv('src/raw_data/2023_stats/example.csv', index=False)
 
 if __name__ == "__main__":
     main()
