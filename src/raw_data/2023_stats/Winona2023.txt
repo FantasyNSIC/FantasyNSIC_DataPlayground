@@ -1,0 +1,48 @@
+Rushing GP ATT GAIN LOSS NET AVG TD LG AVG/G
+Hendred, Cair'ron 11 86 621 17 604 7.0 5 77 54.91
+Gavin, Ty 11 100 424 12 412 4.1 4 40 37.45
+Pringle, Quentin 7 57 353 12 341 6.0 6 75 48.71
+Carlson, Noah 11 35 143 9 134 3.8 0 18 12.18
+Stenstrom, Cole 11 88 269 178 91 1.0 1 29 8.27
+Buri, Josh 7 16 63 6 57 3.6 0 23 8.14
+Root, Tristan 11 1 13 0 13 13.0 0 13 1.18
+Skelly, Kaleb 11 1 6 0 6 6.0 0 6 0.55
+Campbell, Sylvere 11 1 4 0 4 4.0 0 4 0.36
+Schueffner, Clay 11 1 3 0 3 3.0 0 3 0.27
+VanHulzen, Jake 11 3 9 7 2 0.7 0 9 0.18
+Lacy, Aarion 5 3 6 5 1 0.3 0 4 0.20
+Zirpoli, Tyler 11 2 1 0 1 0.5 0 1 0.09
+Matthees, Dakota 10 0 0 0 0 0.0 0 0 0.00
+Pappas, Noah 11 0 0 0 0 0.0 0 0 0.00
+Arendt, Keaton 11 1 0 3 -3 -3.0 0 0 -0.27
+Holcomb, Cayden 11 2 3 6 -3 -1.5 0 3 -0.27
+
+Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
+Stenstrom, Cole 11 129.34 183-323-12 56.66% 2452 16 79 222.91
+Van hulzen, Jake 11 100.51 6-11-1 54.55% 84 0 20 7.64
+Buri, Josh 7 -100.00 0-2-1 0.00% 0 0 0 0.00
+Skelly, Kaleb 11 0.00 0-1-0 0.00% 0 0 0 0.00
+
+Receiving GP NO YDS AVG TD LG AVG/G
+Campbell, Sylvere 11 33 629 19.06 6 79 57.18
+Skelly, Kaleb 11 45 571 12.69 4 46 51.91
+Arendt, Keaton 11 22 251 11.41 1 34 22.82
+Holcomb, Cayden 11 21 244 11.62 2 51 22.18
+Nelson, Cooper 10 11 157 14.27 1 30 15.70
+Kiesau, Thomas 11 13 129 9.92 1 18 11.73
+Scaife, Aj 7 5 108 21.60 0 45 15.43
+Gavin, Ty 11 11 86 7.82 0 21 7.82
+Matthees, Dakota 10 7 80 11.43 1 21 8.00
+Hendred, Cair'ron 11 7 76 10.86 0 28 6.91
+Durst, James 7 3 72 24.00 0 55 10.29
+Pringle, Quentin 7 1 59 59.00 0 59 8.43
+Carlson, Noah 11 2 19 9.50 0 13 1.73
+Giese, Josh 2 1 19 19.00 0 19 9.50
+Zirpoli, Tyler 11 2 16 8.00 0 16 1.45
+Buri, Josh 7 2 11 5.50 0 9 1.57
+BellJr., Brandon 3 1 9 9.00 0 9 3.00
+Knoll, Easton 6 1 7 7.00 0 7 1.17
+Johnson, Tanner 4 0 0 NaN 0 0 0.00
+Pappas, Noah 11 0 0 NaN 0 0 0.00
+Stenstrom, Cole 11 0 0 NaN 0 0 0.00
+Leszczynksi, Jacob 9 1 -7 -7.00 0 0 -0.78

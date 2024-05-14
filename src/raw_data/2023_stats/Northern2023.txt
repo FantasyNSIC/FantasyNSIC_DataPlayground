@@ -1,0 +1,35 @@
+Rushing GP ATT GAIN LOSS NET AVG TD LG AVG/G
+Brenton, Brett 10 127 623 10 613 4.8 5 30 61.30
+Kraft, Hank 11 53 397 7 390 7.4 3 49 35.45
+HaskinsJr., Stanley 9 68 353 15 338 5.0 4 54 37.56
+Hackel, Colton 10 82 392 138 254 3.1 4 53 25.40
+Van Landingham, Jacob 11 30 69 42 27 0.9 1 10 2.45
+Larson, Dakota 11 1 21 0 21 21.0 0 21 1.91
+DeRize, Hunter 11 2 11 0 11 5.5 0 6 1.00
+Cooper, Levi 3 1 3 0 3 3.0 0 3 1.00
+Hanson, Zach 11 0 0 0 0 0.0 0 0 0.00
+HarrisJr., Anthony 11 0 0 0 0 0.0 0 0 0.00
+Vespo, Anthony 3 15 30 51 -21 -1.4 0 11 -7.00
+
+Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
+Hackel, Colton 10 132.31 81-152-8 53.29% 1306 8 70 130.6
+Van Landingham, Jacob 11 173.38 61-86-3 70.93% 806 8 47 73.27
+Vespo, Anthony 3 130.26 49-83-3 59.04% 618 4 59 206.00
+Thomson, Maxamillion 1 154.60 2-2-0 100.00% 13 0 8 13.00
+Cooper, Levi 3 150.40 2-2-0 100.00% 12 0 10 4.00
+
+Receiving GP NO YDS AVG TD LG AVG/G
+Ingram, Dewaylon 11 70 1220 17.43 11 63 110.91
+Larson, Dakota 11 65 965 14.85 6 70 87.73
+DeRize, Hunter 11 15 179 11.93 1 24 16.27
+Oakley, Bradyn 5 11 135 12.27 0 34 27.00
+Kennewell, Nick 11 9 118 13.11 0 22 10.73
+Brenton, Brett 10 12 61 5.08 0 12 6.10
+VanLandingham, Jacob 11 3 40 13.33 0 29 3.64
+Giesler, Gavin 7 2 15 7.50 1 8 2.14
+Warren, Jackson 2 1 8 8.00 0 8 4.00
+HaskinsJr., Stanley 9 4 5 1.25 0 3 0.56
+Schwartz, Trevor 5 1 4 4.00 0 4 0.80
+Weber, Rob 10 1 4 4.00 0 4 0.40
+Grueneich, Clayton 9 1 1 1.00 1 1 0.11
+Kraft, Hank 11 0 0 NaN 0 0 0.00

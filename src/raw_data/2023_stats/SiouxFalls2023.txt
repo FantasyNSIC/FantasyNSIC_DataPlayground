@@ -1,0 +1,35 @@
+Rushing GP ATT GAIN LOSS NET AVG TD LG AVG/G
+Rudningen, Dylan 11 147 837 20 817 5.6 6 42 74.27
+Dean, Camden 11 133 855 115 740 5.6 6 59 67.27
+Grzybowski, Matt 11 85 354 16 338 4.0 3 16 30.73
+Janis, Christian 10 3 20 0 20 6.7 0 9 2.00
+Mullen, Adam 8 10 36 19 17 1.7 0 11 2.13
+Lockett, Jacqueze 9 18 25 11 14 0.8 0 7 1.56
+Taylor, Jaelon 3 1 11 0 11 11.0 0 11 3.67
+Benoit, Isaac 3 2 9 0 9 4.5 0 5 3.00
+Hutchinson, Adonis 11 1 6 0 6 6.0 0 6 0.55
+Slykhuis, Carter 11 3 9 12 -3 -1.0 0 7 -0.27
+Robertson, Noah 9 1 0 11 -11 -11.0 0 0 -1.22
+
+Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
+Dean, Camden 11 137.71 187-290-10 64.48% 2059 18 75 187.18
+Mullen, Adam 8 115.75 42-73-4 57.53% 444 4 65 55.50
+
+Receiving GP NO YDS AVG TD LG AVG/G
+Slykhuis, Carter 11 70 773 11.04 5 32 70.27
+Leonard, Mark 11 38 440 11.58 4 45 40.00
+Hutchinson, Adonis 11 22 334 15.18 2 51 30.36
+Gouin, Darfnell 11 18 228 12.67 1 65 20.73
+Janis, Christian 10 18 214 11.89 3 75 21.40
+Yohnke, Travis 11 10 110 11.00 2 34 10.00
+Schneider, Hunter 10 11 104 9.45 2 28 10.40
+Rudningen, Dylan 11 8 84 10.50 0 38 7.64
+Palmer, John 4 7 81 11.57 0 25 20.25
+Murrell, Alex 11 7 50 7.14 0 12 4.55
+Taylor, Jaelon 3 4 37 9.25 1 14 12.33
+Grzybowski, Matt 11 7 28 4.00 2 12 2.55
+Lockett, Jacqueze 9 5 17 3.40 0 8 1.89
+Bachmann, Ethan 7 2 14 7.00 0 9 2.00
+Opp, Lance 4 1 9 9.00 0 9 2.25
+Tillak, Nate 11 0 0 NaN 0 0 0.00
+Dean, Camden 11 1 -6 -6.00 0 0 -0.55

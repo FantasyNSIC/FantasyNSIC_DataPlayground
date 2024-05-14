@@ -1,0 +1,34 @@
+Rushing GP ATT GAIN LOSS NET AVG TD LG AVG/G
+Austin, Donald 11 212 994 29 965 4.6 8 37 87.73
+Martin, Marcus 10 91 301 205 96 1.1 2 20 9.60
+Staples, Tomele 7 23 118 34 84 3.7 1 43 12.00
+Lira, Eric 10 6 49 4 45 7.5 0 17 4.50
+Taylor, Treay 10 19 41 6 35 1.8 0 6 3.50
+Osman, Peter 11 6 26 4 22 3.7 0 8 2.00
+Allen, Blake 3 6 21 0 21 3.5 0 6 7.00
+Maher, Colin 9 3 16 0 16 5.3 0 6 1.78
+Schafer, Greg 3 1 16 0 16 16.0 0 16 5.33
+Eddington, Cade 10 1 5 0 5 5.0 0 5 0.50
+Anderson, Jake 11 0 0 0 0 0.0 0 0 0.00
+Cherry, Octavis 5 1 0 6 -6 -6.0 0 0 -1.20
+Carver, Mason 9 2 1 29 -28 -14.0 0 1 -3.11
+
+Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
+Martin, Marcus 10 117.77 162-285-13 56.84% 1984 10 65 198.40
+Staples, Tomele 7 121.66 15-26-0 57.69% 198 0 23 28.29
+
+Receiving GP NO YDS AVG TD LG AVG/G
+Osman, Peter 11 42 533 12.69 2 42 48.45
+Lira, Eric 10 37 410 11.08 2 45 41.00
+Palmer, Rashaan 10 13 278 21.38 2 65 27.80
+Anderson, Jake 11 11 195 17.73 0 53 17.73
+Maher, Colin 9 15 189 12.60 0 22 21.00
+Pampel, Dustin 11 16 142 8.88 1 14 12.91
+Austin, Donald 11 14 133 9.50 1 26 12.09
+Lemon, Albert 7 9 90 10.00 1 15 12.86
+Stearns, Nathan 11 5 64 12.80 0 21 5.82
+Eddington, Cade 10 4 59 14.75 0 34 5.90
+Hardel, Brye 11 6 54 9.00 1 27 4.91
+Taylor, Treay 10 2 28 14.00 0 23 2.80
+Allen, Blake 3 1 5 5.00 0 5 1.67
+Schafer, Greg 3 2 2 1.00 0 5 0.67

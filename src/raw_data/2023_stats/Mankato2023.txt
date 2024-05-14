@@ -1,0 +1,38 @@
+Rushing GP ATT GAIN LOSS NET AVG TD LG AVG/G
+Butler-Lawson, Shen 12 219 1492 46 1446 6.6 15 80 120.50
+Vasser, Christian 10 70 424 3 421 6.0 2 58 42.10
+Ekern, Hayden 12 83 387 57 330 4.0 5 19 27.50
+Anger, Tony 11 41 186 1 185 4.5 5 34 16.82
+Backer, Sam 2 16 68 1 67 4.2 0 12 33.50
+KingIII, William 5 16 61 5 56 3.5 0 13 11.20
+Howard, Jeremiah 12 8 47 12 35 4.4 0 17 2.92
+Perich, Mason 12 1 20 0 20 20.0 0 20 1.67
+Erickson, Casey 9 4 10 0 10 2.5 0 4 1.11
+Borgen, Brady 3 2 4 0 4 2.0 0 3 1.33
+Hagen, Gabe 11 1 1 0 1 1.0 1 1 0.09
+Westley, Keeshawn 12 0 0 0 0 0.0 0 0 0.00
+Daulton, Jacob 12 1 0 4 -4 -4.0 0 0 -0.33
+Goettl, Joey 12 1 0 17 -17 -17.0 0 0 -1.42
+
+Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
+Ekern, Hayden 12 137.99 202-347-11 58.21% 2654 23 90 221.17
+KingIII, William 5 127.90 6-12-0 50.00% 72 1 29 14.40
+
+Receiving GP NO YDS AVG TD LG AVG/G
+Watson, TreShawn 12 36 582 16.17 6 58 48.50
+Emanuel, Isaiah 12 39 516 13.23 2 30 43.00
+Guyett, Grant 12 35 483 13.80 3 35 40.25
+Perich, Mason 12 18 300 16.67 4 90 25.00
+Howard, Jeremiah 12 13 178 13.69 1 30 14.83
+Hagen, Gabe 11 13 161 12.38 1 25 14.64
+Anger, Tony 11 18 145 8.06 3 19 13.18
+Laplant, Andrew 12 8 128 16.00 0 26 10.67
+Butler-Lawson, Shen 12 13 67 5.15 2 26 5.58
+Ferguson, Aiden 11 4 63 15.75 1 26 5.73
+Borgen, Brady 3 3 27 9.00 0 11 9.00
+Vasser, Christian 10 4 24 6.00 0 19 2.40
+Cicero, Jake 9 1 17 17.00 0 17 1.89
+Valainis, Anthony 8 2 12 6.00 1 9 1.50
+Galetich, Brock 11 1 6 6.00 0 6 0.55
+Bonnin, Matteo 4 0 0 NaN 0 0 0.00
+Smith, Dakota 12 0 0 NaN 0 0 0.00
