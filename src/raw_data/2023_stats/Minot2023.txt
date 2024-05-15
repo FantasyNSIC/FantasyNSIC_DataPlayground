@@ -1,0 +1,47 @@
+Rushing GP ATT GAIN LOSS NET AVG TD LG AVG/G
+West, Myles 11 174 806 39 767 4.4 5 49 69.73
+Lovett, Evan 4 46 272 1 271 5.9 2 29 67.75
+Palmquist, Erik 11 62 314 77 237 3.8 2 42 21.55
+Buckhanan, Sam 10 34 153 3 150 4.4 2 20 15.00
+Fair, Dondrae 6 55 209 66 143 2.6 1 31 23.83
+Macleary, Dawson 5 27 141 45 96 3.6 1 39 19.20
+Daniels, Devan 1 17 86 13 73 4.3 0 18 73.00
+Griffin, Isaiah 8 13 74 18 56 4.3 1 22 7.00
+Young, Isaiah 4 6 42 2 40 6.7 0 22 10.00
+Stonebraker, Tyler 6 21 65 33 32 1.5 0 11 5.33
+Noriega, Jonathan 7 4 10 3 7 1.8 0 5 1.00
+Wood, Aaron 4 2 6 0 6 3.0 0 6 1.50
+Hansen, Cole 3 7 8 5 3 0.4 0 7 1.00
+Cash, Justin 11 1 0 0 0 0.0 0 0 0.00
+Fetapai, Vili 10 0 0 0 0 0.0 0 0 0.00
+Norman, Joemah 3 2 4 5 -1 -0.5 0 4 -0.33
+Speraw, Jayden 8 38 84 88 -4 -0.1 1 14 -0.50
+Stokes, Daniel 11 3 0 11 -11 -3.7 0 0 -1.00
+
+Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
+Macleary, Dawson 5 106.17 29-63-1 46.03% 357 3 54 71.40
+Fair, Dondrae 6 97.16 16-40-1 40.00% 296 0 71 49.33
+Speraw, Jayden 8 33.93 5-23-2 21.74% 81 0 43 10.13
+Hansen, Cole 3 118.73 2-6-0 33.33% 61 0 38 20.33
+Palmquist, Erik 11 -200.00 0-1-1 0.00% 0 0 0 0.00
+
+Receiving GP NO YDS AVG TD LG AVG/G
+Stokes, Daniel 11 16 285 17.81 2 54 25.91
+Palmquist, Erik 11 9 167 18.56 0 71 15.18
+Mintmier, James 10 6 124 20.67 1 37 12.40
+Buckhanan, Sam 10 1 43 43.00 0 43 4.30
+Bellino, Johnny 9 3 38 12.67 0 24 4.22
+Norman, Joemah 3 1 38 38.00 0 38 12.67
+Pinello, Josh 7 1 27 27.00 0 27 3.86
+Lovett, Evan 4 3 21 7.00 0 13 5.25
+Stonebraker, Tyler 6 2 19 9.50 0 12 3.17
+Williams, Denzel 10 7 18 2.57 0 9 1.80
+West, Myles 11 2 15 7.50 0 10 1.36
+Daniels, Devan 1 1 0 0.00 0 0 0.00
+Griffin, Isaiah 8 0 0 NaN 0 0 0.00
+Hardy, Ben 4 0 0 NaN 0 0 0.00
+Heinen, Carson 8 0 0 NaN 0 0 0.00
+Miller-Levi, Knylen 11 0 0 NaN 0 0 0.00
+Noriega, Jonathan 7 0 0 NaN 0 0 0.00
+Wood, Aaron 4 0 0 NaN 0 0 0.00
+Young, Isaiah 4 0 0 NaN 0 0 0.00
