@@ -16,7 +16,12 @@ def main():
     try: 
         # Iterate rows, grab player_is
         for index, row in stats_df.iterrows():
-            cur.execute("SELECT player_id FROM nsic_players WHERE first_name = %s AND last_name = %s", (row['first_name'], row['last_name']))
+            cur.execute("""
+                SELECT player_id 
+                FROM nsic_players 
+                WHERE REPLACE(first_name, ' ', '') = %s 
+                AND REPLACE(last_name, ' ', '') = %s
+            """, (row['first_name'].replace(' ', ''), row['last_name'].replace(' ', '')))
             result = cur.fetchone()
             if result is None:
                 print(f"Player not found: {row['first_name']} {row['last_name']}")
