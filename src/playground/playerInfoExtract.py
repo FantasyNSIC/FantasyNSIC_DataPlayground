@@ -44,7 +44,12 @@ def main():
         row['first_name'] = row['first_name'].replace('?', ' ')
         row['last_name'] = row['last_name'].replace('?', ' ')
         row['pos'] = row['pos'].replace('/P', '')
+        row['pos'] = row['pos'].replace('/WR', '')
         row['cls'] = row['cls'].replace('RFr.', 'Fr.')
+        row['cls'] = row['cls'].replace('R-Fr.', 'Fr.')
+        row['cls'] = row['cls'].replace('R-So.', 'So.')
+        row['cls'] = row['cls'].replace('R-Jr.', 'Jr.')
+        row['cls'] = row['cls'].replace('R-Sr.', 'Sr.')
         heightList = row['height'].split('-')
         row['height'] = "{}'{}″".format(heightList[0], heightList[1])
         return row

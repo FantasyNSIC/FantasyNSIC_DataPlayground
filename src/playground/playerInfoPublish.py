@@ -33,7 +33,7 @@ def main():
             FROM nsic_players
         """)
         result = cur.fetchone()
-        if result is None:
+        if result is None or result[0] is None:
             player_id = 1
         else:
             player_id = result[0] + 1

@@ -1,0 +1,83 @@
+0	Edmund Ocansey	DB	6-0	180	Jr.	Champlin, Minn.	Champlin Park	North Dakota
+1	Jeremiah Howard	WR	5-11	190	So.	Merrillville, Ind.	Merrillville	Northern Illinois
+2	Travis Reece	LB	6-3	225	Jr.	Auburn Hills, Mich.	West Bloomfield	Davenport
+3	Drew Smook	K/P	6-0	195	So.	North Mankato, Minn.	Mankato West	Northern State
+4	Cole Rogers	DB	6-1	190	Fr.	Altoona, Iowa	Southeast Polk	
+5	Tony Anger	TE	6-3	225	Jr.	Apple Valley, Minn.	Apple Valley	
+6	TreShawn Watson	WR	6-4	200	So.	Antioch, Ill.	Antioch	Illinois State
+8	Gabe Hagen	TE	6-4	255	Jr.	Blooming Prairie, Minn.	Blooming Prairie	
+9	Shen Butler-Lawson	RB	6-0	215	Jr.	Augusta, Ga.	Waynesville	Missouri Western
+10	William King?III	QB	6-3	215	Jr.	Hugo, Okla.	Hugo	Washburn
+11	Sheldon Butler-Lawson	WR	6-2	170	Fr.	Augusta, Ga.	Junction City	
+12	Mitchell Thompson	QB	6-3	205	Fr.	Kewaunee, Wis.	Kewaunee	
+13	Isaiah Emanuel	WR	6-3	205	So.	Montgomery, Ill.	Southeast Polk	
+14	Sal Balistrieri	DB	6-1	190	Fr.	Mequon, Wis.	Homestead	
+15	Hayden Ekern	QB	6-2	205	Jr.	Chicago, Ill.	St. Rita	South Dakota
+16	Richard Agyekum	DB	5-10	175	So.	Amsterdam, Netherlands	Netherlands CSB	North Dakota
+18	Oliver O'Brien	DB	6-1	170	Fr.	Waseca, Minn.	Waseca	
+19	Matteo Bonnin	WR	6-3	220	So.	Hudson, Wis.	Hudson	South Dakota
+19	Jacory Bates	DB	6-0	180	Fr.	Chaska, Minn.	Eden Prairie	
+20	Antonio Alzheimer	LB	6-1	210	Jr.	Des Moines, Iowa	Theodore Roosevelt	Central Missouri
+21	Joey Goettl	DB	6-3	185	Jr.	Marshfield, Wis.	Marshfield	
+22	Lorenzo Jones	DB	6-0	185	Jr.	Orlando, Fla.	Edgewater	Northwestern College
+23	Christian Vasser	RB	6-2	215	Jr.	Minneapolis, Minn.	Wayzata	
+24	Sam Backer	RB	5-11	190	Fr.	Chatfield, Minn.	Chatfield	
+25	Brock Galetich	DB	5-10	170	So.	Jewell, Iowa	South Hamilton	
+26	Carter Henderson	RB	6-1	200	Fr.	Marion, Iowa	Linn-Mar	
+27	Colin Kadolph	RB	5-11	200	So.	Ankeny, Iowa	Ankeny	
+28	Charlie Butt	DB	6-1	185	Fr.	Warrenville, Ill.	Wheaton Warrenville South	
+30	Karson Dunn	LB	6-0	205	So.	Des Moines, Iowa	Carlisle	
+32	Casey Erickson	LB	6-1	210	So.	Hailey, Idaho	Regis	
+34	Max Sheridan	LB	6-2	205	R-Fr.	Pewaukee, Wis.	Pewaukee	
+35	Riley Marsh	WR	6-4	200	R-Fr.	Waverly, Neb.	Waverly	
+36	Alex Valenzuela	DB	6-0	195	Fr.	St. Charles, Ill.	St. Charles	
+37	Keondre Bryant	WR	6-2	185	Fr.	Rochester, Minn.	John Marshall	
+38	Nathan Drumm	LB	6-1	210	R-Fr.	Mankato, Minn.	Mankato East	
+39	Derek Whaley	DB	6-1	195	R-Fr.	Lansing, Ill.	Mount Carmel	
+40	Matthew Jaeger	K/P	6-1	215	Jr.	Plymouth, Minn.	Robbinsdale Armstrong	Mizzou
+41	Peter Nelson	LB	6-0	190	Fr.	Champlin, Minn.	Champlin Park	
+42	Colton Hoffman	LB	6-1	220	So.	Solon, Iowa	Solon	
+44	Drew Kittelson	WR	6-4	200	R-Fr.	Blooming Prairie, Minn.	Blooming Prairie	
+46	Tanner Olson	DL	6-3	245	R-Fr.	Le Roy, Minn.	Le Roy	
+47	Connor Fournier	K/P	6-1	185	Fr.	Maple Grove, Minn.	Maple Grove	
+48	Aiden Ferguson	TE	6-5	275	Jr.	Rice Lake, Minn.	Rice Lake	Southwest Minnesota State
+50	Daniel Obwaya	DL	6-1	265	So.	Blaine, Minn.	Blaine	Butler
+51	Aiden Wersal	LB	6-2	190	Fr.	Starkville, Miss.	St. Albertus Magnus Academy	
+52	Zach Brady	OL	6-3	305	R-Fr.	Vermillion, S.D.	Vermillion	
+55	Cade Stingle	LB	6-2	190	Fr.	Shiocton, Wis.	Shiocton	
+56	Nathan Gribble	OL	6-5	295	So.	West Salem, Wis.	West Salem	
+57	Carter Walker	DL	6-5	255	Fr.	Buffalo, Minn.	Buffalo	
+60	Henry Warsaw	OL	6-4	285	Fr.	St. Charles, Ill.	St. Charles North	
+61	Joseph Kingston	OL	6-2	295	Fr.	Ankeny, Iowa	Ankeny	
+63	Sam Morgan	OL	6-4	285	Fr.	Peoria, Ill.	Dunlap	
+64	Collin Selk	OL	6-4	280	Fr.	Columbus, Wis.	Columbus	
+65	Hunter Nething	OL	6-3	315	Fr.	Elk River, Minn.	Elk River	
+67	Aidan Betz	OL	6-2	285	Fr.	Elkhorn, Neb.	Elkhorn	
+68	Cole Zwiefel	OL	6-3	305	So.	Chaska, Minn.	Chaska	
+69	Austin Moe	DL	6-4	280	Fr.	Juda, Wis.	Brodhead	
+70	Keats Dyslin	OL	6-6	285	Fr.	McFarland, Wis.	McFarland	
+72	Zach Krause	DL	6-4	295	R-Fr.	Lakeville, Minn.	Lakeville North	
+73	Zach Roggow	OL	6-5	305	Jr.	Brandon, S.D.	Brandon Valley	
+74	Deontae Veney	OL	6-6	295	Jr.	Rochester, Minn.	John Marshall	
+75	Gabe Rousseau	OL	6-2	285	R-Fr.	Stoughton, Wis.	Stoughton	
+76	Trevor Masten	OL	6-6	300	So.	Huntley, Ill.	Huntley	
+77	Colby Hartig	OL	6-4	300	Jr.	Sun Prairie, Wis.	DeForest	
+78	Dom Dietel	OL	6-5	280	R-Fr.	Darwin, Minn.	Litchfield	
+79	Marshall Foerner	OL	6-7	305	Jr.	Plano, Ill.	Marmion Academy	
+80	Andrew Laplant	WR	6-0	205	R-Fr.	West Chicago, Ill.	Wheaton Academy	
+81	Mason Perich	WR	6-3	185	R-Fr.	Esko, Minn.	Esko	
+83	Jermell Taylor	TE	6-5	235	Fr.	Eden Prairie, Minn.	Eden Prairie	
+84	Grant Guyett	WR	6-1	190	So.	Omaha, Neb.	Westside	
+85	Neal May	WR	5-11	185	Fr.	Bradley, Ill.	Bradley Bourbonnais	
+86	Brady Borgen	WR	6-4	195	Jr.	Ada, Minn.	Ada-Borup	North Dakota State College of Science
+87	Jake Cicero	TE	6-6	255	So.	Hanover Park, Ill.	Glenbard North	
+88	Anthony Valainis	TE	6-6	255	Jr.	Davenport, Iowa	Davenport Assumption	
+89	Jonah Hviding	DB	5-10	175	Fr.	Princeton, Minn.	Princeton	
+90	Maven Kretche	DL	6-6	265	Jr.	Sun Prairie, Wis.	Sun Prairie	
+91	Luke Mulder	DL	6-6	250	So.	Oskaloosa, Iowa	Pella Christian	
+92	Cayden Lovett	DL	6-1	285	So.	Asbury, Iowa	Dubuque Hempstead	
+93	Abe Hestdalen	DL	6-2	275	Jr.	Horace, N.D.	West Fargo Sheyenne	MSU Moorhead
+95	Max Lommel	DL	6-1	285	Jr.	Chaska, Minn.	Chaska	
+96	Caleb Paulus	DL	6-3	250	So.	West Des Moines, Iowa	Waukee	
+97	Ian Burau	DL	6-3	285	Fr.	Watertown, Minn.	Watertown-Mayer	
+98	Cody Brown	DL	6-4	275	Jr.	Madison, S.D.	Madison	Dakota State

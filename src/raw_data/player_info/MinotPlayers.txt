@@ -1,0 +1,62 @@
+0	Evan Lovett	RB	6-1	235	Sr.	Tucson, Ariz.	Pusch Ridge Academy	
+1	Carson Cayko	LB	6-2	220	Sr.	Fairview, Mont.	Fairview HS	
+2	Myzel Williams	DB	6-1	200	R-So.	Deltona, Fla.	Deltona HS	Georgia Southern
+7	Isaiah Bigby	DB	5-11	205	Sr.	Las Vegas, Nev.	Clark HS	
+8	Carson Chrisman	DB	6-0	190	Jr.	Stanwood, Wash.	Lakewood HS	
+13	Denzel Williams	WR	6-2	195	R-So.	Greenacres, Fla.	Palm Beach Central HS	
+14	Tyrique Williams	DB	6-3	190	R-So.	Victoria, Minn.	Chanhassen HS	Sioux Falls
+16	Matthew Donovan	QB	5-10	190	So.	Kasson, Minn.	Kasson-Mantorville HS	Bemidji State
+20	AJ Jones	RB	5-10	180	R-So.	Saint Johns, Fla.	Bartram Trail HS	Blinn College
+21	Brayan Augustin	DB	5-9	170	So.	Punta Gorda, Fla.		Virginia University of Lynchburg
+22	Erik Palmquist	WR	5-9	190	Sr.	Yuba City, Calif.	Yuba City HS	
+23	Aaron Wood	RB	5-9	180	R-Sr.	Mesa, Ariz.	Skyline HS	
+24	Cody Raetzman	DB	6-0	180	R-So.	Tucson, Ariz.	Salpointe Catholic HS	
+27	Jason Hogan	RB	6-0	190	R-So.	Port Charlotte, Fla.	Lemon Bay HS	Utica
+28	Deuce Carr	DB	5-10	180	So.	Oakley, Calif.	Liberty HS	
+29	Weston Snyder	RB	5-11	200	Jr.	Bismarck, N.D.	Bismarck Legacy HS	North Dakota State College of Science
+30	Jalen Corprew	LB	6-2	240	Jr.	Raleigh, NC	Green Hope HS	Bakersfield JC / Arkansas State
+31	Deshawn Carter	DB	5-9	160	Sr.	Minneapolis, Minn.	Tartan HS	Minnesota State CTC
+32	Tyler Stonebraker	RB	5-8	190	R-So.	Castle Rock, Colo.	Douglas County HS	
+34	Camden Backman	RB	5-10	190	R-Fr.	Minot, N.D.	Minot HS	
+35	Blake Espino	RB	5-11	235	So.	Fairfield, Calif.	Vacaville HS	
+36	Will Dampier	DB	5-10	170	Jr.	Champlin, Minn.	Champlin Park HS	North Dakota State College of Science
+36	Jonathan Noriega	WR	6-0	205	R-Jr.	Yuma, Ariz.	Gila Ridge HS	
+38	Marquise Hill	DB	6-4	170	R-Fr.	Las Vegas, Nev.	Ed W. Clark HS	
+39	Devan Daniels	RB	5-9	160	R-Fr.	San Leandro, Calif.	San Leandro HS	
+39	Justus Williams	DB	6-0	180	R-Fr.	Gunnison, Colo.	Gunnison HS	
+40	Josh Pinello	TE	6-2	240	R-Jr.	Castle Rock, Colo.	Castle View HS	
+42	Steven Earnest	K/P	6-0	190	So.	Liberty Township, Ohio	Middletown Christian HS	Lincoln University
+43	Brian Weatherford	LB	6-3	220	So.	Aurora, Colo.	Aurora Central HS	
+44	Sam Buckhanan	RB	5-11	225	R-So.	Gunnison, Colo.	Gunnison HS	
+44	Ropati Eneliko	LB	5-11	235	R-Fr.	Long Beach, Calif.	Long Beach Poly HS	
+46	Landon Smith	LB	6-2	220	R-Fr.	Deming, Wash.	Mount Baker HS	
+47	Justin Proffitt	LB	6-4	240	Sr.	Logandale, Nev.	Moapa Valley HS	
+48	Roman Pickens	DB	5-10	180	Sr.	Las Vegas, Nev.	Clark HS	
+49	Connor Raetzman	LB	5-11	200	So.	Tucson, Ariz.	Salpointe Catholic HS	
+50	Isaak Guzman	LB	5-11	220	Sr.	Visalia, Calif.	Porterville HS	College of the Sequoias
+53	Josh Will	DL	6-1	230	So.	Minot, N.D.	Bishop Ryan HS	
+55	Matt Sanchez	OL	6-3	290	Sr.	Tulare, Calif.	Tulare Western HS	College of the Sequoias
+56	Ike Mikaele	LB	6-1	220	So.	Carson, Calif.	Long Beach Poly HS	
+57	Zeth Nastal	LB	6-0	230	R-So.	Mesa, Ariz.	Mesa HS	
+58	Noah Iosefa	LB	6-2	230	R-Jr.	Holt, Mich.	Holt HS	Laney College
+59	Mahonri Tonumaipea	OL	6-0	315	R-Fr.	La Verkin, Utah	Hurricane HS	
+61	Jackson Gridley	LB	6-0	225	R-Fr.	Aurora, Colo.	Cherokee Trail HS	
+62	Aidan Shumate	OL	6-2	280	So.	Cypress, Texas	Cypress Woods HS	
+63	Robert Overton	OL	6-2	280	Fr.	Edmonton, Alberta	East Coast Prep / Saint Francis Xavier	
+64	Max Bray	OL	6-4	300	So.	Mesa, Ariz.	Red Mountain HS	
+65	Emmett Espino	OL	6-1	310	Sr.	Fairfield, Calif.	Armijo HS	
+67	Jake Swirple	OL	6-0	310	Sr.	Livonia, Mich.	Franklin HS	
+69	DJ Schneibel	OL	6-2	315	Sr.	Rugby, N.D.	Rugby	
+75	Jamal Neal	OL	6-3	340	R-Fr.	Commerce, Ga.	East Jackson Comprehensive HS	
+77	Kjell Olsson	OL	6-2	350	R-Fr.	Ekeby, Sweden		
+79	Puka Perriera	OL	6-4	340	R-Fr.	Honolulu, Hawaii	Saint Jeanne de Lestonnac Catholic School	
+81	Jaeger Lundeen	WR	6-2	200	Jr.	Minot, N.D.	Bishop Ryan HS	
+83	Johnny Bellino	WR	5-11	190	R-Fr.	Gilbert, Ariz.	American Leadership Academy	
+85	Travis Wennerholm	K/P	5-10	170	Fr.	Salt Lake City, Utah	Highland HS	
+88	Trevor Catronio	WR	6-0	200	R-Fr.	Coral Springs, Fla.	Davies Western HS	
+89	Damon Darling	TE	6-3	250	R-So.	Colorado Springs, Colo.	Pine Top HS	Colorado State Pueblo
+91	John Dillon	DL	6-6	250	R-Fr.	Lodi, Calif.	Tokay HS	
+92	Canaan Boyd	DL	6-2	275	So.	Poplar, Mont.	Poplar HS	Concordia College
+93	Cody Grossinger	LB	6-2	230	R-So.	Buffalo, Minn.	Buffalo HS	
+95	Blake Thompson	DL	6-1	265	R-Fr.	Green Cove Springs, Fla.	Clay HS	
+99	Vaughn Mamea	DL	6-2	300	Jr.	San Jose, Calif.	Independence HS	Utah State / College of San Mateo
