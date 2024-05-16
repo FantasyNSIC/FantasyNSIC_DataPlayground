@@ -14,7 +14,7 @@ def main():
     cur = conn.cursor()
 
     try: 
-        # Iterate rows, grab player_is
+        # Iterate rows, grab player_ids
         for index, row in stats_df.iterrows():
             cur.execute("""
                 SELECT player_id 
