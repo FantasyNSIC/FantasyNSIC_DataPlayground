@@ -1,12 +1,9 @@
 import pandas as pd
 
-def main():
+def main(team, team_id):
     # Read text player info
-    with open('src/raw_data/player_info/examplePlayers.txt', 'r') as file:
+    with open('src/raw_data/player_info/{}Players.txt'.format(team), 'r') as file:
         lines = file.readlines()
-
-    # Define team ID for extracted players
-    team_id = 0
 
     # Define headers
     infoHeaders = [
@@ -57,12 +54,12 @@ def main():
     playerDF = playerDF.apply(format_row, axis=1)
 
     # Define filter position values
-    positions = {'QB', 'RB', 'WR', 'K'}
+    positions = {'QB', 'RB', 'WR', 'TE', 'K'}
 
     # Filter out rows where pos is not in positions
     playerDF = playerDF[playerDF['pos'].isin(positions)]
 
-    playerDF.to_csv('src/raw_data/player_info/examplePlayers.csv', index=False)
+    playerDF.to_csv('src/raw_data/player_info/{}Players.csv'.format(team), index=False)
 
 if __name__ == "__main__":
-    main()
+    main('Team', 0)

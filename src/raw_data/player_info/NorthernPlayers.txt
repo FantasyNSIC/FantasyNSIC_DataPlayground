@@ -3,7 +3,7 @@
 3	Lynden Williams	DB	6-2	190	R-Sr.	Huron, S.D.	Wolsey Wessington HS	
 5	Andy Blazevich	DB	5-11	180	Sr.	Sioux Falls, S.D.	Lincoln HS	
 5	Colton Hackel	QB	6-2	220	R-So.	Perham, Minn.	Perham HS	
-6	Jacob Van Landingham	TE	5-11	220	6th	Franklin, Tenn.	Fred J. Page HS	Virginia Tech
+6	Jacob Van?Landingham	TE	5-11	220	6th	Franklin, Tenn.	Fred J. Page HS	Virginia Tech
 7	Brady Bauer	DB	5-10	160	Jr.	Mobridge, S.D.	Mobridge-Pollock HS	
 9	Julian Scott	WR	6-0	175	So.	Rapid City, S.D.	Stevens HS	
 10	Ethan Barnett	P	6-3	220	Gr.	Chino Hills, Calif.	Chino Hills HS	
@@ -28,7 +28,7 @@
 39	Wyatt Block	RB	5-7	185	Sr.	Mankato, Minn.	Mankato West HS	
 40	Hunter Auschwitz	LS	5-9	225	Sr.	Las Vegas, Nev.	Barnsdall HS	Northeastern Oklahoma A&M
 41	Carter Hogg	RB	5-8	185	Sr.	Aberdeen, S.D.	Central HS	
-44	Max Van Landingham	DE	6-4	220	Gr.	Franklin, Tenn.	Fred J. Page HS	
+44	Max Van?Landingham	DE	6-4	220	Gr.	Franklin, Tenn.	Fred J. Page HS	
 46	Gaabi Boucha	LB	6-3	220	So.	Warroad, Minn.	Warroad HS	
 48	Trevor Schwartz	TE	6-4	225	Jr.	Scottsbluff, Neb.	Scottsbluff HS	
 50	Daniel Sedlacek?Jr.	LB	6-1	205	Sr.	Custer, S.D.	Custer HS	
@@ -54,7 +54,6 @@
 77	Colt Smith	OL	6-2	290	Sr.	Gretna, Neb.	Gretna HS	
 78	Jacob Schloe	OL	6-7	275	Gr.	Sauk Rapids, Minn.	Sauk Rapids Rice	
 79	Cooper Walder	OL	6-8	355	So.	Sauk Rapids, Minn.	Sauk Rapids Rice	
-80	Max Vande?Kieft	WR	-		Jr.	Rochester, Minn.	Mayo HS	
 82	Alex Tanner	TE/P	6-3	220	So.	Gettysburg, S.D.	Gettysburg HS	
 84	Nick Kennewell	WR	6-3	190	Sr.	Portland, Ore.	Calckamas HS	Golden West Co.
 85	Jack Oedekoven	WR	6-4	200	Sr.	Erie, Pa.	Cathedral Prep	Robert Morris

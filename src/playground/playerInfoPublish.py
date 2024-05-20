@@ -1,10 +1,10 @@
 from connection import connect_to_fantasyDB
 import pandas as pd
 
-def main():
+def main(team):
     
     # Read in new player info
-    with open('src/raw_data/player_info/examplePlayers.csv', 'r') as file:
+    with open('src/raw_data/player_info/{}Players.csv'.format(team), 'r') as file:
         player_info_df = pd.read_csv(file)
 
     # Connect to database
@@ -70,4 +70,4 @@ def main():
     print("Connection closed")
 
 if __name__ == '__main__':
-    main()
+    main('Team')
