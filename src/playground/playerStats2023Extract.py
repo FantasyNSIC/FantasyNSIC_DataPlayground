@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 import re
 
-def main():
+def main(team):
     # Read the file
-    with open('src/raw_data/2023_stats/example.txt', 'r') as file:
+    with open('src/raw_data/2023_stats/{}2023.txt'.format(team), 'r') as file:
         lines = re.split(r'\n\n', file.read())
 
     # Initialize Header Lists
@@ -107,7 +107,7 @@ def main():
     semi_merged = pd.merge(rushing_df, passing_df, on=["first_name", "last_name", "gp"], how='outer')
     final_df = pd.merge(semi_merged, recieving_df, on=["first_name", "last_name", "gp"], how='outer')
 
-    final_df.to_csv('src/raw_data/2023_stats/example.csv', index=False)
+    final_df.to_csv('src/raw_data/2023_stats/{}2023.csv'.format(team), index=False)
 
 if __name__ == "__main__":
-    main()
+    main('Team')
