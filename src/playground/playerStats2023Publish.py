@@ -1,10 +1,10 @@
 from connection import connect_to_fantasyDB
 import pandas as pd
 
-def main():
+def main(team):
 
     # Read in player stats from 2023 season
-    with open('src/raw_data/2023_stats/example.csv', 'r') as file:
+    with open('src/raw_data/2023_stats/{}2023.csv'.format(team), 'r') as file:
         stats_df = pd.read_csv(file)
     
     # Connect to database
@@ -14,7 +14,7 @@ def main():
     cur = conn.cursor()
 
     try: 
-        # Iterate rows, grab player_is
+        # Iterate rows, grab player_ids
         for index, row in stats_df.iterrows():
             cur.execute("""
                 SELECT player_id 
@@ -83,4 +83,4 @@ def main():
     print("Connection closed")
 
 if __name__ == '__main__':
-    main()
+    main('Team')

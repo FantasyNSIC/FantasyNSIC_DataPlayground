@@ -1,0 +1,68 @@
+1	Ivan Martin	DB	5-11	180	Jr.	Glendale, Ariz.	Saguaro HS	
+2	Louie Schwabe	WR	6-5	195	So.	Wind Lake, Wis.	Muskego HS	
+3	Lynden Williams	DB	6-2	190	R-Sr.	Huron, S.D.	Wolsey Wessington HS	
+5	Andy Blazevich	DB	5-11	180	Sr.	Sioux Falls, S.D.	Lincoln HS	
+5	Colton Hackel	QB	6-2	220	R-So.	Perham, Minn.	Perham HS	
+6	Jacob Van?Landingham	TE	5-11	220	6th	Franklin, Tenn.	Fred J. Page HS	Virginia Tech
+7	Brady Bauer	DB	5-10	160	Jr.	Mobridge, S.D.	Mobridge-Pollock HS	
+9	Julian Scott	WR	6-0	175	So.	Rapid City, S.D.	Stevens HS	
+10	Ethan Barnett	P	6-3	220	Gr.	Chino Hills, Calif.	Chino Hills HS	
+11	Tairen Rahe	CB	6-0	180	So.	Lincoln, Neb.	Lincoln Southwest HS	
+11	Anthony Vespo	QB	6-3	220	Sr.	Bolingbrook, Ill.	Bolingbrook HS	Missouri Western State
+13	Kegan Mountain	CB	5-11	180	So.	Omaha, Neb.	Millard West HS	
+13	Maxamillion Thomson	QB	6-3	220	Jr.	Sioux Falls, S.D.	Washington HS	
+14	Luke Gunderson	LB	6-3	215	Sr.	Buffalo, Minn.	Buffalo HS	
+17	Charlie Larson	LB	6-3	205	Sr.	Rapid City, S.D.	St.Thomas More	
+17	Matt Larson	RB	5-10	180	So.	Rapid City, S.D.	Saint Thomas More	
+19	Jaden Feterl	LB	6-3	215	R-Jr.	Sioux Falls, S.D.	Washington HS	North Dakota
+20	Luke Manos	LB	6-0	205	Sr.	San Diego, Calif.	Rancho Bernardo HS	Palomar College
+21	Hank Kraft	RB	5-9	200	So.	Timber Lake, S.D.	Timber Lake HS	
+22	Jackson Warren	WR	6-0	190	Jr.	Lacrosse, Wis.	Lacrosse Central	
+27	Trevor Johnson	DB	6-1	180	Gr.	Buffalo, Minn.	Buffalo HS	
+28	Stanley Haskins?Jr.	RB	5-8	180	Gr.	Britton, S.D.	Britton-Hecla HS	
+30	Michael Norman	DB	6-3	205	Gr.	Rapid City, S.D.	Stevens HS	
+32	Wade James	K	6-1	195	Jr.	Bismarck, N.D.	Century HS	Dickinson State
+33	Carson Barnett	WR	6-3	190	So.	Harrisburg, S.D.	Harrisburg HS	
+34	Trenton Peterson	WR	5-11	185	So.	Sioux Falls, S.D.	Lincoln HS	
+37	Blake Clay	DB	5-11	170	Sr.	Whittier, Calif.	La Serna HS	
+39	Wyatt Block	RB	5-7	185	Sr.	Mankato, Minn.	Mankato West HS	
+40	Hunter Auschwitz	LS	5-9	225	Sr.	Las Vegas, Nev.	Barnsdall HS	Northeastern Oklahoma A&M
+41	Carter Hogg	RB	5-8	185	Sr.	Aberdeen, S.D.	Central HS	
+44	Max Van?Landingham	DE	6-4	220	Gr.	Franklin, Tenn.	Fred J. Page HS	
+46	Gaabi Boucha	LB	6-3	220	So.	Warroad, Minn.	Warroad HS	
+48	Trevor Schwartz	TE	6-4	225	Jr.	Scottsbluff, Neb.	Scottsbluff HS	
+50	Daniel Sedlacek?Jr.	LB	6-1	205	Sr.	Custer, S.D.	Custer HS	
+51	Elijah Jopp	LB	6-2	185	Jr.	Mayer, Minn.	Mayer Lutheran	
+52	Cooper Logan	LB	6-1	200	Jr.	Gettysburg, S.D.	Gettysburg HS	
+53	Graham Borden	LB	6-0	200	Jr.	Geneva, Ill.	Geneva HS	
+54	Jake Adams	LB	6-0	220	So.	Pulaski, Wis.	Pulaski HS	
+55	Gabe Gutierrez	LB	6-2	225	So.	Sioux Falls, S.D.	Lincoln HS	
+56	Aiden Russell	LB	6-1	200	Jr.	Prescott, Wis.	Prescott HS	
+57	Logan Grossinger	DL	6-0	265	R-Sr.	Buffalo, Minn.	Buffalo HS	
+59	Kadyn Turnbow	DE	6-4	235	So.	Berthold, N.D.	Minot HS	
+60	Isaac Johnson	DL	6-0	300	So.	Brandon, S.D.	Brandon Valley HS	
+62	Anthony Harris?Jr.	OL	6-2	280	Gr.	Minneapolis, Minn.	DeLaSalle HS	
+65	Paden Johnson	OL	6-8	300	Jr.	Watertown, S.D.	Watertown HS	
+66	Tanner Reddan	OL	6-7	350	Sr.	Castle Rock, Colo.	Valor Christian HS	
+67	Jake Carbajal	OL	6-2	280	So.	Tempe, Ariz.	Corona Del Sol	
+69	Ross Rowland	OL	6-2	290	So.	De Pere, Wis.	De Pere HS	
+70	Josh Zaccanti	OL	6-6	270	Jr.	Geneva, Ill.	Geneva Community HS	
+72	Aidan Mack	OL	6-5	280	Jr.	Crete, Ill.	Providence Catholic	
+73	Daniel Porisch	OL	6-2	275	Jr.	Edina, Minn.	Benilde-St. Margaret's	
+75	Brian Johnson	DL	6-2	240	So.	Chicago, Ill.	Aberdeen Central HS	
+76	Terrance Reeves	OL	6-6	290	So.	Milwaukee, Wis.	Homestead HS	
+77	Colt Smith	OL	6-2	290	Sr.	Gretna, Neb.	Gretna HS	
+78	Jacob Schloe	OL	6-7	275	Gr.	Sauk Rapids, Minn.	Sauk Rapids Rice	
+79	Cooper Walder	OL	6-8	355	So.	Sauk Rapids, Minn.	Sauk Rapids Rice	
+82	Alex Tanner	TE/P	6-3	220	So.	Gettysburg, S.D.	Gettysburg HS	
+84	Nick Kennewell	WR	6-3	190	Sr.	Portland, Ore.	Calckamas HS	Golden West Co.
+85	Jack Oedekoven	WR	6-4	200	Sr.	Erie, Pa.	Cathedral Prep	Robert Morris
+87	Gavin Giesler	TE	6-2	205	Jr.	Mantorville, Minn.	Kasson-Mantorville HS	
+88	Colin Fritton	WR	5-11	180	So.	Lincoln, Neb.	Lincoln Southwest HS	
+89	Zach Kraft	TE	6-4	230	Sr.	LeMars, Iowa	Gehlen Catholic HS	Iowa State
+90	Noah Hutmacher	DL	6-3	225	So.	Oacoma, S.D.	Chamberlain HS	
+93	Trevon Austell	DE	6-3	220	So.	St. Louis, Mo.	Mitchell HS	
+94	Justin Hernandez	DL	6-3	230	Sr.	Whittier, Calif.	La Serna HS	
+95	Ben Flak	DL	6-5	235	Jr.	Wittenberg, Wis.	Wittenberg-Birnamwood	
+96	Gabriel Lindeman	DE	6-3	340	So.	Dell Rapids, S.D.	Dell Rapids St. Mary	
+98	Brock Longville	DL	6-4	260	Jr.	Brookings, S.D.	Brookings HS

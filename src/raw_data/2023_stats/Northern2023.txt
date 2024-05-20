@@ -3,7 +3,7 @@ Brenton, Brett 10 127 623 10 613 4.8 5 30 61.30
 Kraft, Hank 11 53 397 7 390 7.4 3 49 35.45
 HaskinsJr., Stanley 9 68 353 15 338 5.0 4 54 37.56
 Hackel, Colton 10 82 392 138 254 3.1 4 53 25.40
-Van Landingham, Jacob 11 30 69 42 27 0.9 1 10 2.45
+VanLandingham, Jacob 11 30 69 42 27 0.9 1 10 2.45
 Larson, Dakota 11 1 21 0 21 21.0 0 21 1.91
 DeRize, Hunter 11 2 11 0 11 5.5 0 6 1.00
 Cooper, Levi 3 1 3 0 3 3.0 0 3 1.00
@@ -13,7 +13,7 @@ Vespo, Anthony 3 15 30 51 -21 -1.4 0 11 -7.00
 
 Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
 Hackel, Colton 10 132.31 81-152-8 53.29% 1306 8 70 130.6
-Van Landingham, Jacob 11 173.38 61-86-3 70.93% 806 8 47 73.27
+VanLandingham, Jacob 11 173.38 61-86-3 70.93% 806 8 47 73.27
 Vespo, Anthony 3 130.26 49-83-3 59.04% 618 4 59 206.00
 Thomson, Maxamillion 1 154.60 2-2-0 100.00% 13 0 8 13.00
 Cooper, Levi 3 150.40 2-2-0 100.00% 12 0 10 4.00

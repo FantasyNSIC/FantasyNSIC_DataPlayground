@@ -1,0 +1,81 @@
+0	Isaiah Johnson	DB	6-0	180	Jr.	Chicago Heights, Ill.	Marian Catholic HS	
+1	Jamel Stone	DB	5-9	190	Sr.	Sun Prairie, Wis.	Sun Prairie HS	
+2	Jake Hill	WR	6-0	175	Sr.	Osseo, Minn.	Osseo HS	
+3	Aundreus Griffin	WR	6-2	185	R-Jr.	Milwaukee, Wis.	Martin Luther	Mesabi Range CTC
+4	Drayton Lehman	WR	5-8	185	R-Jr.	Mosinee, Wis.	Mosinee HS	
+5	Maalik Knox	DB	6-0	180	Sr.	Phoenix, Ariz.	Cesar Chavez HS	
+6	Jarrett Gronski	RB	6-1	220	Sr.	Superior, Wis.	Superior HS	
+7	Jacob Drietz	LB	6-0	220	Sr.	Baxter, Minn.	Brainerd	Northern State/MSCTC
+9	Stephen Hoffman	DE	6-4	270	Gr.	St. Paul, Minn.	Park HS	St. Cloud State
+10	Tommy Lujan	DB	5-11	180	R-Jr.	San Antonio, Texas	Rio Rancho HS	Adams State
+11	Michael Schurman	WR	6-1	185	R-So.	River Falls, Wis.	River Falls HS	
+12	Joey Baron	WR	5-8	185	Gr.	St. Peter, Minn.	St. Peter HS	
+13	Elliott Lowney	WR	5-11	185	R-So.	Shawano, Wis.	Shawano HS	
+14	R'Mon Huff	DB	5-8	185	R-Jr.	Santa Clarita, Calif.	Bishop Alemany HS	Henderson State
+15	Tyler Sapit	DE	6-3	230	R-Fr.	Batavia, Ill.	Batavia HS	
+16	Alex Current	WR	6-0	195	R-Jr.	Muskego, Wis.	Muskego HS	
+17	Sam McGath	QB	6-1	215	Sr.	Brookfield, Wis.	Brookfield East HS	
+18	Zach Romak	QB	6-0	180	R-So.	Morris, Ill.	Morris HS	
+19	Connor Carver	QB	6-3	200	R-Fr.	Fort Dodge, Iowa	Fort Dodge	
+20	Kam Gothard	DB	6-0	210	R-Jr.	Sun Prairie, Wis.	Sun Prairie HS	College of Dupage
+21	Savon Cameron	DB	6-1	200	Sr.	Calumet City, Ill.	Thornton Fractional North HS	Southern Illinois
+22	Antonio Brown	RB	5-11	180	R-Fr.	Algonquin, Ill.	Jacobs	
+23	Brice Peters	WR	5-10	190	Sr.	White Bear Lake, Minn.	White Bear Lake HS	
+24	Caden Bolte	DB	5-11	200	R-So.	Bemidji, Minn.	Bemidji HS	
+25	Colton Hinrichs	LB	6-2	225	R-Jr.	Bemidji, Minn.	Bemidji HS	
+26	Ray Iglesias	LB	6-1	225	R-So.	Hesperia, Calif.	Oak Hills HS	Black Hills State
+27	Vicar Pyne	DB	5-10	175	R-So.	Rosemount, Minn.	Rosemount HS	
+28	Landon Arends	K/WR	6-2	205	So.	Osage, Iowa	Osage	
+30	Jadon Hellerud	ATH	5-10	210	R-Fr.	Shakopee, Minn.	Shakopee	
+31	L'Shawn Taylor	DB	5-10	165	R-Fr.	Milwaukee, Wis.	Martin Luther	
+32	Uriah Glynn	RB	5-9	175	R-So.	Oxnard, Calif.	Stevens HS	
+33	Jayden Washington	RB	5-7	200	R-So.	Apple Valley, Minn.	Rosemount HS	
+35	Demarco Evans	DB	5-11	165	R-Fr.	Milwaukee, Wis.	Milwaukee Marshall	
+36	Marcus Hansen	DE	5-11	240	R-Jr.	Waseca, Minn.	Waseca HS	
+38	Tyrell Thomas	DB	5-9	175	R-Fr.	Brooklyn Park, Minn.	Park Center	
+39	Justin Clyde	LB	6-1	205	Fr.	Laporte, Minn.	Laporte HS	
+40	Eli Pfeiffer	FB/LS	6-1	200	R-Fr.	Walker, Minn.	Walker	
+41	Joey Prondzinski	K/P	5-10	190	R-Jr.	Brookfield, Wis.	Brookfield East HS	Winona State
+42	Spencer Shaver	LB	5-10	220	Gr.	Savage, Minn.	Prior Lake HS	
+43	Marcus Johnson	FB/TE	6-0	260	Fr.	Blackduck, Minn.	Kelliher HS	
+44	Charlie Peterson	DB	6-2	215	R-So.	Forest Lake, Minn.	Forest Lake HS	
+45	Levi Daniel	LB	6-2	215	R-Fr.	Iowa City, Iowa	Iowa City Regina	
+46	Ryan Damitio	LS	6-0	215	Jr.	Olympia, Wash.	Timerline	Presentation (S.D.)
+48	Sam Kanne	TE/FB	6-0	245	R-Jr.	Winona, Minn.	Winona HS	
+50	Ridge Flatness	LB	6-0	205	R-Fr.	Blackduck, Minn.	Blackduck	
+51	Kaden Cook	DE/LB	6-4	205	R-Fr.	Brooklyn Park, Minn.	Park Center	
+53	Owen Dukowitz	LB	6-2	220	R-So.	Osseo, Minn.	Osseo HS	
+54	Nolan Olson	DL	6-2	270	R-Fr.	Sun Prairie, Wis.	Sun Prairie East	
+55	Theodus Ringgold	LB	6-1	230	Gr.	Oconomowoc, Wis.	Oconomowoc HS	
+56	Liam Collopy	OL	6-4	300	R-So.	St. Anthony, Minn.	St. Anthony Village HS	
+58	Nick Gerlach	OL	6-3	260	Sr.	East Bethel, Minn.	St. Francis HS	Northern State
+60	Zach Ott	OL	6-2	305	R-Jr.	Mason City, Iowa	Rockford HS	
+62	Jake Gannon	OL	6-2	295	R-Jr.	Franklin, Wis.	Franklin HS	
+64	Clayton Birdsall	OL	5-11	250	Jr.	Alexandria, Minn.	Alexandria HS	
+65	Arian Garcia	OL	6-1	300	R-Jr.	Gretna, Neb.	Gretna HS	
+66	Henry Eaton	OL	6-3	300	R-Fr.	St. Louis Park, Minn.	St. Louis Park	
+67	Deon Kelson	OL	6-3	295	R-Fr.	Apple Valley, Minn.	Apple Valley	
+68	Will Lemire	OL	6-2	300	Sr.	White Bear Lake, Minn.	White Bear Lake HS	
+69	Conor Kovas	OL	6-2	290	R-Jr.	Joliet, Ill.	Joliet Catholic Academy	
+70	Dante Draghicchio	OL	6-3	297	R-Fr.	Green Bay, Wis.	Bay Port	
+71	Blake Carlson	OL	6-2	275	R-So.	Goodhue, Minn.	Goodhue HS	
+72	Isaac Hagstrom	OL	6-5	300	R-Jr.	Annandale, Minn.	Annandale HS	
+73	Bill Ketola	OL	6-4	305	R-Jr.	New Brighton, Minn.	Mounds View HS	
+75	Beau Sward	OL	6-2	250	R-Jr.	Duluth, Minn.	Duluth East HS	
+77	Cole Hotz	OL	6-2	285	R-So.	Waverly, Iowa	Waverly-Shell Rock HS	
+78	Quincy Mabin	OL	6-1	290	R-Jr.	Farmington, Minn.	Farmington HS	
+79	Zack Seitz	OL	6-3	275	R-Fr.	Stratford, Wis.	Stratford HS	
+80	Ethan Biehn	WR	5-10	170	R-Fr.	Bemidji, Minn.	Bemidji	
+81	Kaleb Miller	WR	5-8	180	R-Fr.	Bolingbrook, Ill.	Bolingbrook	
+87	Kurt Heerdegen	TE	6-3	230	R-So.	Grayslake, Ill.	Grayslake Central HS	
+88	Gavin Luksik	TE	6-5	245	R-So.	Bemidji, Minn.	Bemidji HS	
+89	Mason Ailie	TE	6-3	255	R-So.	Dassel, Minn.	Dassel-Cokato HS	
+90	Ty Hamre	DE	6-5	255	R-Jr.	Crookston, Minn.	Crookston HS	
+91	Darnell McCrea	DT	6-0	275	Sr.	Minneapolis, Minn.	Minneapolis North HS	
+92	Luke Hessenauer	DT	6-2	285	R-Jr.	Milton, Wis.	Milton HS	
+94	Eli Coenen	DE	6-7	235	R-Fr.	Baldwin, Wis.	Baldwin-Woodville	
+95	Elijah Brown	DL	5-11	280	Sr.	Minneapolis, Minn.	Benilde-St. Margaret's HS	
+96	Elijah Boswell	DL	6-4	340	Fr.	Minneapolis, Minn.	Rosemount HS	
+97	Cade Barrett	DL	6-5	265	Sr.	Lake Shore, Minn.	Pillager HS	
+98	Fikayo Afolarin	DT	6-2	300	R-So.	Batavia, Ill.	Batavia HS	
+99	Marco Cavallaro	DT	6-4	295	Sr.	Newport, Minn.	East Ridge HS
