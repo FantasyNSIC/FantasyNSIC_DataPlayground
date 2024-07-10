@@ -4,7 +4,7 @@ import pandas as pd
 def main(week_num, team_name):
 
     # Read in player stats from 2023 season
-    with open(f'src/raw_data/2023_stats/week{week_num}/{team_name}{week_num}.csv', 'r') as file:
+    with open(f'src/raw_data/weekly_stats/week{week_num}/{team_name}{week_num}.csv', 'r') as file:
         stats_df = pd.read_csv(file)
     
     # Connect to database
@@ -14,7 +14,7 @@ def main(week_num, team_name):
     cur = conn.cursor()
 
     try: 
-        # Iterate rows, grab player_is
+        # Iterate rows, grab player_ids
         for index, row in stats_df.iterrows():
             cur.execute("""
                 SELECT player_id 
@@ -50,20 +50,25 @@ def main(week_num, team_name):
         stats_df['pass_int'] = stats_df['pass_int'].fillna(0).astype(int)
         stats_df['recieve_rec'] = stats_df['recieve_rec'].fillna(0).astype(int)
         stats_df['recieve_yds'] = stats_df['recieve_yds'].fillna(0).astype(int)
+        stats_df['recieve_avg'] = stats_df['recieve_avg'].fillna(0).astype(float).round(1)
         stats_df['recieve_td'] = stats_df['recieve_td'].fillna(0).astype(int)
+        stats_df['fg_att'] = 0
+        stats_df['fg_made'] = 0
 
         print(stats_df)
 
         # Write DataFrame to database
-        # TODO: Will have to change this writing to database to account for the new table structure
+        current_week = f'week_{week_num}'
         with open('src/queries/stats_insert_week.sql', 'r') as query:
-            sql = query.read()
+            sql_temp = query.read()
+        sql = sql_temp.format(current_week=current_week)
         for index, row in stats_df.iterrows():
             cur.execute("SELECT player_id FROM player_stats_2023 WHERE player_id = %s", (row['player_id'],))
             if cur.fetchone() is None:
                 cur.execute(sql, tuple(row))
+                print(f"Player added to weekly stats: {row['player_id']}")
             else:
-                print(f"Player already in database: {row['player_id']}")
+                print(f"Player already in weekly stats: {row['player_id']}")
 
         conn.commit()
 

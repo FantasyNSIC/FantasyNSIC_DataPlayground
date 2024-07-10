@@ -1,4 +1,4 @@
-INSERT INTO player_stats_2023 (
+INSERT INTO player_stats_{current_week} (
     player_id,
     rush_att,
     rush_yds,

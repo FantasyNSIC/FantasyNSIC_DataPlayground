@@ -4,7 +4,7 @@ import re
 
 def main(week_num, team_name):
     # Read the file
-    with open(f'src/raw_data/2023_stats/week{week_num}/{team_name}{week_num}.txt', 'r') as file:
+    with open(f'src/raw_data/weekly_stats/week{week_num}/{team_name}{week_num}.txt', 'r') as file:
         lines = re.split(r'\n\n', file.read())
 
     # Initialize Header Lists
@@ -32,6 +32,7 @@ def main(week_num, team_name):
         "last_name",
         "recieve_rec",
         "recieve_yds",
+        "recieve_avg",  # "recieve_avg" is not in the data, so it is not included in the header.
         "recieve_td",
     ]
 
@@ -84,11 +85,14 @@ def main(week_num, team_name):
         line = line.replace(',', ' ')
         line = line.replace('NaN', '0.0')
         line = line.split()
+        # Calculate recieve_avg
+        recieve_avg = round(float(line[3]) / int(line[2]), 1)
         newEntry = [
             line[1],    # first_name
             line[0],    # last_name
             line[2],    # recieve_rec
             line[3],    # recieve_yds
+            str(recieve_avg),    # recieve_avg (calculated from recieve_yds/recieve_rec)
             line[4]     # recieve_td
         ]
 
@@ -99,7 +103,7 @@ def main(week_num, team_name):
     semi_merged = pd.merge(rushing_df, passing_df, on=["first_name", "last_name"], how='outer')
     final_df = pd.merge(semi_merged, recieving_df, on=["first_name", "last_name"], how='outer')
 
-    final_df.to_csv(f'src/raw_data/2023_stats/week{week_num}/{team_name}{week_num}.csv', index=False)
+    final_df.to_csv(f'src/raw_data/weekly_stats/week{week_num}/{team_name}{week_num}.csv', index=False)
 
 if __name__ == "__main__":
     main(1, 'Augustana')
