@@ -1,0 +1,69 @@
+1	Sylvere Campbell	WR	6-2	215	Sr.	Milwaukee, Wis.	Martin Luther H.S.	Carthage College
+2	Kaleb Skelly	WR	6-4	190	Sr.	Blaine, Minn.	Spring Lake Park	Northern State
+4	Ty Gavin	RB	5-11	195	R-Jr.	Chicago, Ill.	Notre Dame College Prep	
+5	Griffin Wiegel	DB	6-0	185	R-Jr.	Combined Locks, Wis.	Kimberly	
+6	Thomas Kiesau	WR	6-2	200	Sr.	La Crescent, Minn.	La Crescent	Upper Iowa
+8	Jacob Scott	K/P	6-1	180	Sr.	Flower Mound, Texas	Marcus	Cisco (Texas) Junior College
+8	Cameron Wnek	WR	6-2	185	R-So.	Kimberly, Wis.	Kimberly High School	
+9	Tristan Root	S/P	5-10	190	Sr.	Eau Claire, Wis.	Regis	Minnesota Duluth
+12	Justin Wohlers	QB	6-6	225	R-So.	Lake City, Minn.	Lake City	
+13	Jonathan Mann	WR	6-3	225	Sr.	Rosemount, Minn.	Rosemount	
+14	Carson Sippel	CB	6-1	180	R-So.	Sherwood, Wis.	Kaukauna High School	
+16	Cole Stenstrom	QB	6-0	215	Sr.	Arden Hills, Minn.	Mounds View High School	University of South Dakota
+18	Cayden Holcomb	WR	5-10	180	Jr.	Rochester, Minn.	Rochester Mayo	
+20	Easton Knoll	WR	5-11	200	Sr.	Kasson, Minn.	Kasson - Mantorville	
+21	Quentin Pringle	RB	5-9	198	Gr.	Bolingbrook, Ill.	Bolingbrook High School	Eastern Kentucky University
+22	Voshon Porte	CB	5-10	190	R-Jr.	Atlanta, Ga.	Dacula High School	
+23	Nick Bucaro	S	6-0	190	Sr.	Bartlett, Ill.	Bartlett High School	College of Dupage
+24	James Williams	CB	5-11	180	Gr.	Saint Paul, Minn.	Cretin Derham-Hall	Minnestoa State- Mankato
+25	Jamon Williams	CB	5-10	170	Jr.	Country Club Hills, Ill.	Hillcrest	
+26	Cair'ron Hendred	RB	5-9	195	Sr.	Cedar Rapids, Iowa	Kennedy	
+27	Lincoln Snitker	LB	5-11	210	R-So.	Waukon, Iowa	Waukon High School	
+28	Josh Buri	RB	5-11	220	R-Jr.	Stewartville, Minn.	Stewartville High School	South Dakota State University
+29	Ethan Torgrimson	RB	6-1	225	R-Jr.	Sartell, Minn.	Sartell High School	
+30	Eliajah Randle	CB	5-10	180	So.	Minneapolis, Minn.	Richfield	
+34	Austin Morris	FB	6-0	225	Jr.	Marshall, Minn.	Marshall High School	
+35	Isaiah Siem-Davis	DL	6-2	205	Sr.	Des Plaines, Ill.	Maine West	
+36	Colton Geurink	FB	5-11	225	Jr.	Wausau, Wis.	Wausau West High School	
+37	Drew Goettl	DB	6-0	190	Sr.	Eau Claire, Wis.	Regis	
+40	Ben Kingsbury	LB	5-10	200	Sr.	Frankfurt, Ill.	Lincoln Way East	
+41	Vernon Porte	DB	5-11	185	R-So.	Dacula, GA	Dacula	
+42	Sam Shutter	LB	6-3	205	R-Sr.	Plymouth, Wis.	Plymouth	
+43	Blake Schraufnagel	LB	6-0	200	So.	Mayville, Wis.	Mayville High School	
+44	Bronson Schofield	DL	6-1	235	Sr.	Chetek, Wis.	Chetek-Weyerhaeuser	
+47	Brent Jeske	LB	6-1	220	R-So.	Colby, Wis.	Colby High School	
+48	Ben Bowe	LB	6-0	210	Jr.	Chaska, Minn.	Chaska High School	
+51	Trey Borske	LB	6-1	220	Sr.	Naperville, Ill.	Neuqua Valley High School	
+54	Myles Hawthorne	LB	6-0	215	R-Sr.	Osseo, Minn.	Osseo	
+56	Enrique De?Leon	DL	6-3	280	Sr.	Chippewa Falls, Wis.	Chippewa Falls				
+60	Ben Forcier	OL	6-1	275	Jr.	Hudson, Wis.	Hudson High School	
+61	Mason Carnell	OL	6-2	275	Jr.	Nashotah, Wis.	Arrowhead	
+62	Devin Arriaga	OT	6-4	275	R-So.	Menasha, Wis.	Menasha High School	
+63	Magnus Nelson	OL	6-1	255	R-So.	Brookings, S.D.	Brookings High School	
+64	Jack Larson	OL	6-3	315	R-So.	Sun Prairie, Wis.	Sun Prairie High School	
+65	Clay Craker	OL	6-5	310	Sr.	Middleton, Wis.	Middleton	
+66	Blake Haus	OL	6-5	295	R-So.	Sartell, Minn.	Sartell High School	
+68	Brecken Klein	OL	6-4	317	So.	Lakeville, Minn.	Lakeville South High School	
+69	Riley Johnson	OL	6-4	275	Jr.	Brooklyn Park, Minn.	Park Center	
+70	Jordan Haddad	C	6-3	270	Gr.	Mequon, Wis.	Homestead	
+71	Alec Morris	OL	6-5	300	Gr.	La Crosse, Wis.	La Crosse Central	
+72	Jauron Hall	OL	6-5	270	R-Jr.	St. Paul, Minn.	Central High School	
+73	Patrick Wright?Jr.	OL	6-6	290	Sr.	Milwaukee, Wis.	Riverside	
+74	Jake Ziemniarski	OL	6-3	305	So.	New Lenox, Ill.	Lincoln-Way West	
+75	Jacob Leszczynski	OL	6-4	335	Gr.	Muskego, Wis.	Muskego	
+77	Noah Pappas	OL	6-6	325	Jr.	Plymouth, Minn.	Robbinsdale Armstrong	
+78	Garit Wollan	OL	6-4	265	R-Jr.	Minnesota City, Minn.	Winona Senior High School	
+79	Austin Zeeveld	OL	6-3	285	R-Jr.	Cascade, Wis.	Plymouth	
+80	Ty Johnson	WR	6-2	175	R-Jr.	Burlington, Wis.	Waterford Union High School	
+81	James Durst	TE	6-5	235	Jr.	Byron, Minn.	Byron High School	
+82	AJ Scaife	TE	6-4	215	R-Sr.	St. Paul, Minn.	Roseville Area	
+83	Joe Sikma	WR	5-11	180	R-Jr.	Waukesha, Wis.	Catholic Memorial	
+85	Brandon Bell?Jr.	WR	5-10	160	Jr.	Wheaton, Ill.	Wheaton Warrenville South	
+86	Tyler Wilken	WR	6-2	190	R-Jr.	Cedar Rapids, Iowa	Xaiver	
+90	John Berry	DL	6-5	250	R-Jr.	San Antonio, Texas	Brainerd High School	
+91	Kyjuan Vengrowsky	DL	6-2	230	R-Jr.	De Pere, Wis.	De Pere	
+92	David Nies	DE	6-5	245	R-So.	Patch Grove, Wis.	River Ridge	
+95	Conner Haggerty	DE	6-2	255	R-Jr.	Onalaska, Wis.	Onalaska	
+96	Morgan McKnight	DT	6-2	260	Jr.	Waukesha, Wis.	Catholic Memorial High School	
+98	Carson Thompson	DL	5-11	255	R-So.	Rushford, Minn.	Rushford-Peterson High School	
+99	Joseph Demro	DL	6-3	255	R-Jr.	Plymouth, Minn.	Wayzata

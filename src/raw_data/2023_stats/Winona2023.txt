@@ -19,7 +19,7 @@ Holcomb, Cayden 11 2 3 6 -3 -1.5 0 3 -0.27
 
 Passing GP Rating COMP-ATT-INT PCT YDS TD LG AVG/G
 Stenstrom, Cole 11 129.34 183-323-12 56.66% 2452 16 79 222.91
-Van hulzen, Jake 11 100.51 6-11-1 54.55% 84 0 20 7.64
+VanHulzen, Jake 11 100.51 6-11-1 54.55% 84 0 20 7.64
 Buri, Josh 7 -100.00 0-2-1 0.00% 0 0 0 0.00
 Skelly, Kaleb 11 0.00 0-1-0 0.00% 0 0 0 0.00
 
