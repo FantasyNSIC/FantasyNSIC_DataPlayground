@@ -8,7 +8,7 @@ def update_user_records(week_num):
 
     with open('src/queries/increase_user_record_wins.sql', 'r') as query:
         win_sql = query.read()
-    with open('src/queries/increase_user_record_losses.sql', 'r') as query:
+    with open('src/queries/increase_user_record_loss.sql', 'r') as query:
         loss_sql = query.read()
 
     try:
@@ -22,7 +22,7 @@ def update_user_records(week_num):
         # Filter out duplicate matchups
         matchups = []
         for res in results:
-            if res[1] != any(match[2] for match in matchups):
+            if not any(res[1] == match[2] for match in matchups):
                 matchups.append(res)
 
         # Iterate over matchups, update user records
@@ -49,13 +49,14 @@ def update_user_records(week_num):
 
             # Determine winner and set records
             if team_1_points > team_2_points:
-                cur.execute(win_sql, (team_1_id,))
-                cur.execute(loss_sql, (team_2_id,))
+                cur.execute(win_sql, (team_1_points, team_2_points, team_1_id))
+                cur.execute(loss_sql, (team_2_points, team_1_points, team_2_id))
             elif team_2_points > team_1_points:
-                cur.execute(win_sql, (team_2_id,))
-                cur.execute(loss_sql, (team_1_id,))
+                cur.execute(win_sql, (team_2_points, team_1_points, team_2_id))
+                cur.execute(loss_sql, (team_1_points, team_2_points, team_1_id))
             else:
                 print("Tie game")
+            print(f"Updated user_team_id: {team_1_id} and {team_2_id}")
 
         conn.commit()
 
