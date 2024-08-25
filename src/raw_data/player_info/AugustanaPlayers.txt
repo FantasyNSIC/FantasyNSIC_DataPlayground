@@ -1,93 +1,118 @@
-0	Myles Taylor	DL	6-1	275	Sr.	Coon Rapids, Minn.	Coon Rapids	
+0	Jarod Epperson	RB	6-0	195	Sr.	Omaha, Neb.	Skutt Catholic	
 1	Isaiah Huber	WR	5-10	190	Jr.	Rochester, Minn.	Century	
-2	Austin Johnston	WR	6-1	185	RFr.	Mesa, Ariz.	Eastmark	
-3	Sam Scholten	WR	5-11	175	Jr.	Brandon, S.D.	Brandon Valley	
-4	Canyon Bauer	WR	6-0	200	Sr.	Sioux Falls, S.D.	O'Gorman	South Dakota State
-5	Braxton Baker	QB	6-3	200	RFr.	Lewisville, Texas	Hebron	
-5	Brady Belisle	DB	6-2	195	RFr.    Saint Croix Falls, Wis.	Saint Croix Falls	
-6	Jack Fisher	WR	6-2	200	Sr.	Rochester, Minn.	Century	
-7	Jermaine Hampton?Jr.	DB	6-2	180	RFr.	Chicago, Ill.	Mount Carmel	
-7	Mack Molander	QB	6-2	210	RFr.	Phoenix, Ariz.	Eastmark	
-8	Peyton Buckley	DB	6-1	205	Sr.	Rice Lake, Wis.	Rice Lake	St. Cloud State
-9	Liam Francis	WR	5-11	210	Jr.	Thornton, Colo.	Horizon	
-10	Trey Malone?III	DB	6-2	175	RFr.	Bourbonnais, Ill.	Bradley-Bourbonnais Community	
+1	Camron Maciejewski	LB	6-1	200	Fr.	Hot Springs, S.D.	Hot Springs	
+2	Wyatt Hamersma	DB	6-0	200	Fr.	Berlin, Wis.	Berlin	
+2	Austin Johnston	WR	6-1	190	RFr.	Mesa, Ariz.	Eastmark	
+3	Sam Scholten	WR	5-11	185	So.	Brandon, S.D.	Brandon Valley	
+3	Adam Skifton	QB	6-2	195	Fr.	Onalaska, Wis.	Onalaska	
+4	Canyon Bauer	WR	6-1	203	Sr.	Sioux Falls, S.D.	O'Gorman	South Dakota State
+4	Teagan Fox	LB	6-2	190	Fr.	Franklin, Wis.	Franklin	
+5	Braxton Baker	QB	6-3	203	RFr.	Lewisville, Texas	Hebron	
+5	Brady Belisle	DB	6-2	215	RFr.	Saint Croix Falls, Wis.	Saint Croix Falls	
+6	Jack Fisher	WR	6-1	200	Sr.	Rochester, Minn.	Century	
+6	Myles Taylor	DT	6-0	270	Sr.	Coon Rapids, Minn.	Coon Rapids	
+7	Jermaine Hampton?Jr.	DB	6-2	185	RFr.	Chicago, Ill.	Mount Carmel	
+7	Max Minor	WR	6-4	200	Jr.	Scottsdale, Ariz.	Chaparral	
+8	Peyton Buckley	DB	6-1	207	Sr.	Rice Lake, Wis.	Rice Lake	St. Cloud State
+8	Mack Molander	QB	6-3	210	RFr.	Phoenix, Ariz.	Eastmark	
+9	Liam Francis	WR	5-11	205	Jr.	Thornton, Colo.	Horizon	
+9	Brody Koberoski	DB	6-1	185	Fr.	Mankato, Minn.	Mankato West	
+10	Trey Malone?III	DB	6-2	185	RFr.	Bourbonnais, Ill.	Bradley-Bourbonnais Community	
 10	Thomas Scholten	QB	6-3	215	Sr.	Brandon, S.D.	Brandon Valley	
-11	Gunnar Hensley	QB	6-2	195	So.	Carlsbad, Calif.	Mission Hills	
-12	Lincoln Boetel	DB	6-1	200	Sr.	Harrisburg, S.D.	Harrisburg	
+11	Noah Gunion	DB	6-0	175	Fr.	Overland Park, Kan.	Shawnee Mission	
+11	Gunnar Hensley	QB	6-2	205	So.	Carlsbad, Calif.	Mission Hills	
+12	Lincoln Boetel	DB	6-0	200	Sr.	Harrisburg, S.D.	Harrisburg	
+12	Marcus Parker	TE	6-4	250	Fr.	Kansas City, Mo.	Park Hill	
 13	Matt Francis	TE	6-2	230	Gr.	Thornton, Colo.	Horizon	
-14	Jaxon Haynes	WR	5-10	160	RFr.	Chandler, Ariz.	Hamilton	
+14	Jaxon Haynes	WR	5-9	170	RFr.	Chandler, Ariz.	Hamilton	
+14	Zach Ladu	DB	6-3	180	Fr.	Rochester, Minn.	John Marshall	
 15	Evan Bearth	QB	6-3	210	So.	Cottage Grove, Minn.	Park	
-16	RJ Holliday	DB	5-9	155	So.	Denver, Colo.	Riverdale Ridge	
-17	Manny Struck	WR	6-2	190	So.	Sioux Falls, S.D.	O'Gorman	
-18	Klayton Sattler	WR	6-6	220	So.	Tea, S.D.	Tea Area	
-19	Ethyn Rollinger	WR	6-3	205	Jr.	Harrisburg, S.D.	Harrisburg	
-20	JayVian Farr	DB	5-10	190	Sr.	Racine, Wis.	J.I. Case	
+15	Dante Brown?Jr.	DB	6-0	165	Fr.	Milwaukee, Wis.	Milwaukee Marshall	
+16	Breylon Blount	RB	5-6	160	Fr.	Chandler, Ariz.	Hamilton	
+16	RJ Holliday	DB	5-9	165	So.	Denver, Colo.	Riverdale Ridge	
+17	Dom Castagnetto	DT	5-9	280	Fr.	Chanhassen, Minn.	Chanhassen	
+17	Manny Struck	WR	6-2	205	So.	Sioux Falls, S.D.	O'Gorman	
+18	Klayton Sattler	TE	6-6	240	So.	Tea, S.D.	Tea Area	
+19	Ben Goodwater	WR	6-3	185	Fr.	Bellevue, Neb.	Bellevue West	
+19	Ethyn Rollinger	TE	6-3	225	Jr.	Harrisburg, S.D.	Harrisburg	
+20	Max Carlson	WR	5-10	190	Fr.	Sioux Falls, S.D.	Harrisburg	
+20	JayVian Farr	DB	5-9	192	Sr.	Racine, Wis.	J.I. Case	
 21	Levi Teetzel	DB	6-0	200	RFr.	Hutchinson, Minn.	Hutchinson	
-22	TJ Murray	DB	6-0	185	Jr.	Baltimore, Md.	Boys Town	
-23	Ty Polson	DB	6-1	175	Jr.	Reno, Nev.	Damonte Ranch	
-24	Ryan Kenny	RB	5-10	190	RFr.	Parker, Colo.	Lutheran	
-25	Jake Pecina	K	5-10	175	So.	Forney, Texas	Sunnyvale	
+22	TJ Murray	DB	6-0	180	Jr.	Baltimore, Md.	Boys Town	
+23	Ty Polson	DB	6-0	175	Jr.	Reno, Nev.	Damonte Ranch	
+24	Ryan Kenny	RB	5-8	195	RFr.	Parker, Colo.	Lutheran	
+25	Jake Pecina	K/P	5-10	180	So.	Forney, Texas	Sunnyvale	
 26	Kyle Graham	RB	5-10	190	Sr.	Las Vegas, Nev.	Arbor View	
-27	Logan Leonard	DB	6-4	205	Jr.	Minnetrista, Minn.	Mount Westonka	
-28	Anthony Brewer	DB	6-4	200	Jr.	Chandler, Ariz.	Chandler	
-29	Kael Ryan	DB	6-0	195	RFr.	Sterling, Ill.	Sterling	
-30	Rashad Lampkin	RB	5-9	215	Jr.	Milwaukee, Wis.	Brookfield Central	Illinois State
-31	Luke Leonard	DB	6-2	200	RFr.	Minnetrista, Minn.	Mound Westonka	
-32	Kade Lynott	LB	6-1	220	Jr.	Hawarden, Iowa	West Sioux	Iowa State
-33	Isaiah Ryan	DB	6-0	195	Sr.	Sterling, Ill.	Sterling			
-35	Antonio Tablante	RB	6-1	205	RFr.	Sterling, Ill.	Sterling	
+27	Logan Leonard	DB	6-4	208	Jr.	Minnetrista, Minn.	Mount Westonka	
+28	Anthony Brewer	DB	6-3	205	Jr.	Chandler, Ariz.	Chandler	
+29	Kael Ryan	DB	6-0	200	RFr.	Sterling, Ill.	Sterling	
+30	Rashad Lampkin	RB	5-9	210	Jr.	Milwaukee, Wis.	Brookfield Central	Illinois State
+31	Luke Leonard	DB	6-3	205	RFr.	Minnetrista, Minn.	Mound Westonka	
+32	Kade Lynott	LB	6-1	225	Sr.	Hawarden, Iowa	West Sioux	Iowa State
+33	Isaiah Ryan	DB	5-11	200	Sr.	Sterling, Ill.	Sterling	
+34	Max Grand	RB	5-8	205	So.	Ellsworth, Wis.	Ellsworth	Minnesota
+35	Luke Fraser	RB	5-10	185	Fr.	Arlington, S.D.	Hamlin	
 36	DeMaris Williamson	DB	6-0	185	Jr.	Indianapolis, Ind.	Arsenal Technical	
-37	Keegan Andriano	DB	5-11	200	So.	Ankeny, Iowa	Centennial	
-38	Jack Teigen	RB	6-1	190	Jr.	Harrisburg, S.D.	Harrisburg	
-39	Alex Belongia	DB	6-2	200	So.	Rice Lake, Wis.	Rice Lake	
-40	Ayden Rhodes	LB	6-2	200	Jr.	Nevada, Iowa	Nevada		
-42	Ty Strehlow	DB	6-0	200	So.	Weston, Wis.	D.C. Everest Schofield	
-43	Avery Book	P	5-10	190	Sr.	Ironton, Ohio	Ironton	Glenville State
-44	Quinton Adams	LB	6-4	220	Jr.	Lincoln, Neb.	East	
-45	Nate Ratzlaff	LB	6-1	230	RFr.	Sioux Falls, S.D.	O'Gorman	
-46	Wes Overton	LB	6-2	190	RFr.	Rockford, Minn.	Rockford	
-47	Brock Salm	LB	6-2	210	RFr.	Appleton, Wis.	Appleton North	
-48	Jack Detert	DL	6-3	225	RFr.	Sioux Falls, S.D.	Harrisburg				
-50	Isaak Sipple	LB	6-0	200	Jr.	St. Cloud, Minn.	Tech	
-51	Haden Wallace	LB	6-2	215	Sr.	Kansas City, Mo.	Park Hill	
-52	Zach Nickels	LS	6-3	215	Sr.	Rochester, Minn.	Lourdes	
-53	Ryan Zatechka	DL	6-0	295	So.	Omaha, Neb.	Westside	
-57	Will Davis	DL	6-5	250	Sr.	Edina, Minn.	Edina	
-58	Jett Lamb	DL	6-3	300	Sr.	Onida, S.D.	Sully Buttes	
-59	Chase Emsick	DL	6-3	275	So.	Elkhorn, Neb.	South	
-60	Jorey Sorenson	K/P	6-1	180	Sr.	Brandon, S.D.	Brandon Valley	
+37	Keegan Andriano	DB	5-11	195	So.	Ankeny, Iowa	Centennial	
+38	Jack Teigen	RB	6-0	185	Jr.	Harrisburg, S.D.	Harrisburg	
+39	Alex Belongia	DB	6-0	207	So.	Rice Lake, Wis.	Rice Lake	
+40	Ayden Rhodes	DB	6-2	200	Jr.	Nevada, Iowa	Nevada	
+41	Cade Larson	LB	6-2	225	So.	Harrisburg, S.D.	Harrisburg	
+42	Ty Strehlow	DB	6-2	202	So.	Weston, Wis.	D.C. Everest Schofield	
+43	Jorey Sorenson	K/P	6-1	185	Sr.	Brandon, S.D.	Brandon Valley	
+44	Quinton Adams	LB	6-3	220	Jr.	Lincoln, Neb.	East	
+45	Nate Ratzlaff	LB	6-1	225	RFr.	Sioux Falls, S.D.	O'Gorman	
+46	Ashton Toll	LB	6-3	210	Fr.	Comfrey, Minn.	Comfrey	
+47	Brock Salm	LB	6-2	220	RFr.	Appleton, Wis.	Appleton North	
+48	Jack Detert	DE	6-2	230	RFr.	Sioux Falls, S.D.	Harrisburg	
+49	Lathan Wilcox	DE	6-4	230	Fr.	Sioux Falls, S.D.	O'Gorman	
+50	Isaak Sipple	LB	5-11	205	Jr.	St. Cloud, Minn.	Tech	
+51	Haden Wallace	LB	6-2	220	Sr.	Kansas City, Mo.	Park Hill	
+52	Zach Nickels	LS	6-2	225	Sr.	Rochester, Minn.	Lourdes	
+53	Ryan Zatechka	DL	6-0	300	So.	Omaha, Neb.	Westside	
+54	Kaleb Davis	OL	6-2	300	So.	Dallas, Texas	Mansfield Timberview	Houston
+55	RJ Eckhardt	DE	6-2	240	Fr.	Omaha, Neb.	Westside	
+56	Wes Coates	DT	6-3	285	Fr.	Madison, Wis.	Edgewood	
+57	Will Davis	DL	6-5	267	Sr.	Edina, Minn.	Edina	
+58	Jett Lamb	DL	6-3	290	Sr.	Onida, S.D.	Sully Buttes	
+59	Chase Emsick	DL	6-3	280	So.	Elkhorn, Neb.	South	
+60	Stylz Blackmon	OL	6-4	290	Fr.	Grain Valley, Mo.	Grain Valley	
 61	Brock Fox	OL	6-6	345	Sr.	Treynor, Iowa	Treynor	
-62	Brady Pfeifer	K/P	6-1	220	Sr.	Tea, S.D.	Tea Area	
-65	Sawyer Tordsen	OL	6-6	275	RFr.	Fairmont, Minn.	Fairmont	
-67	Ryan Retzer	OL	6-3	295	RFr.	Belle Plaine, Minn.	Belle Plaine	
-68	Benjamin Roots	OL	6-4	270	Sr.	Scottsdale, Ariz.	Desert Mountain	
-69	Elliott Renville	OL	6-3	290	RFr.	Sioux Falls, S.D.	Lincoln	
-70	Joey Schulz	OL	6-4	255	RFr.	Northfield, Minn.	Northfield	
-71	Jacob Wagner	OL	6-6	290	Jr.	Salem, S.D.	McCook Central	
-72	Carson Wilson	OL	6-1	265	Sr.	Sioux Falls, S.D.	Washington	
-74	C.J. James	OL	6-6	305	Sr.	Des Moines, Iowa	East	
-75	Preston Kellogg	OL	6-7	345	Sr.	Omaha, Neb.	Papillion La-Vista	
-76	Shan Acharya	OL	6-5	310	So.	Omaha, Neb.	Elkhorn North	
-77	Corbin Wirkus	OL	6-5	315	So.	Baltic, S.D.	Baltic	
-78	Parker Fontaine	OL	6-7	315	So.	Oshkosh, Wis.	Oshkosh West	
-79	Mario Oliva	OL	6-4	280	So.	Terra Verde, FL.	IMG Academy	
-80	Christian Jepperson	TE	6-4	230	So.	Sioux Falls, S.D.	Brandon Valley	
-81	Cody Oswald	WR	6-3	190	RFr.	Yankton, S.D.	Yankton	
-82	Max Minor	WR	6-4	190	Jr.	Scottsdale, Ariz.	Chaparral	
+62	Brady Pfeifer	K/P	6-4	240	Sr.	Tea, S.D.	Tea Area	
+63	Jayden Cathey	OL	6-5	295	Fr.	Mesa, Ariz.	Desert Ridge	
+64	Jake Zitek	OL	6-5	275	Fr.	Lakeville, Minn.	Academy of Holy Angels	
+65	Sawyer Tordsen	OL	6-7	305	RFr.	Fairmont, Minn.	Fairmont	
+66	Jameson Nebel	DT	6-4	290	Fr.	Hayti, S.D.	Hamlin	
+67	Ryan Retzer	OL	6-3	305	RFr.	Belle Plaine, Minn.	Belle Plaine	
+68	Benjamin Roots	OL	6-4	275	Sr.	Scottsdale, Ariz.	Desert Mountain	
+69	Elliott Renville	OL	6-4	300	RFr.	Sioux Falls, S.D.	Lincoln	
+70	Joey Schulz	OL	6-4	305	RFr.	Northfield, Minn.	Northfield	
+71	Jacob Wagner	OL	6-6	310	Jr.	Salem, S.D.	McCook Central	
+72	Carson Wilson	OL	6-1	270	Sr.	Sioux Falls, S.D.	Washington	
+73	Adam Behrend	OL	6-5	300	Fr.	Sioux Falls	Lincoln	
+74	C.J. James	OL	6-5	310	Sr.	Des Moines, Iowa	East	
+75	Preston Kellogg	OL	6-7	320	Sr.	Omaha, Neb.	Papillion La-Vista	
+76	Shan Acharya	OL	6-5	305	So.	Omaha, Neb.	Elkhorn North	
+77	Corbin Wirkus	OL	6-5	310	So.	Baltic, S.D.	Baltic	
+78	Parker Fontaine	OL	6-7	355	RFr.	Oshkosh, Wis.	Oshkosh West	
+79	Mario Oliva	OL	6-4	300	So.	Terra Verde, FL.	IMG Academy	
+80	Jacob Remmert	TE	6-6	235	Jr.	Cedar Falls, Iowa	Cedar Falls	South Dakota
+81	Cody Oswald	WR	6-2	200	RFr.	Yankton, S.D.	Yankton	
+82	Tytan Tryon	WR	6-1	180	Fr.	Harrisburg, S.D.	Harrisburg	
 83	Lincoln Carlson	WR	5-10	175	So.	Sioux Falls, S.D.	Harrisburg	
-84	Jackson Adams	WR	5-11	185	RFr.	Waukee, Iowa	Waukee Northwest	
-85	Liam Porter	TE	6-4	265	Jr.	Rapid City, S.D.	Central	
-86	Brock Stiles	TE	6-3	235	Sr.	Altoona, Iowa	Southeast Polk	
+84	Christian Jepperson	TE	6-4	250	So.	Sioux Falls, S.D.	Brandon Valley	
+85	Liam Porter	TE	6-3	260	Jr.	Rapid City, S.D.	Central	
+86	Brock Stiles	TE	6-2	235	Sr.	Altoona, Iowa	Southeast Polk	
 87	Will Lynch	TE	6-4	245	So.	Cedar Falls, Iowa	Cedar Falls	
-88	Jackson Stewart	TE	6-5	240	RFr.	Delano, Minn.	Delano	
-89	Will Boyles	WR	6-6	185	Jr.	Lubbock, Texas	Coronado	
-90	Tyler Birn	DL	6-5	260	So.	Appleton, Wis.	East	
-91	Sam Siegfried	DL	6-3	240	RFr.	Sioux Falls, S.D.	Jefferson	
-92	Gradee Sherman	DL	6-5	255	Jr.	Viborg, S.D.	Viborg-Hurley	
-93	Josh Buddenhagen	DL	6-4	295	Sr.	Hartford, Wisc.	Hartford Union	
-94	Christian Connelly	DL	6-3	220	So.	Byron, Minn.	Byron	
-95	Joshua Lee-O'Bryant	DL	6-3	295	RFr.	Milwaukee, Wis.	Grafton	
-96	Connor Akey	DL	6-4	275	RFr.	Wisconsin Rapids, Wis.	Lincoln	
-97	Nolan Milius	DL	6-4	240	Jr.	Lincoln, Neb.	Southwest	
-98	Zachary Richardson	DL	6-3	285	Jr.	Canton, S.D.	Canton	
-99	Ishmael Togi	DL	6-0	285	Sr.
+88	Jackson Stewart	TE	6-6	245	RFr.	Delano, Minn.	Delano	
+89	Will Boyles	WR	6-6	195	So.	Lubbock, Texas	Coronado	
+90	Tyler Birn	DL	6-5	265	So.	Appleton, Wis.	East	
+91	Sam Siegfried	DL	6-4	245	RFr.	Sioux Falls, S.D.	Jefferson	
+92	Gradee Sherman	DL	6-5	260	Jr.	Viborg, S.D.	Viborg-Hurley	
+93	Josh Buddenhagen	DL	6-4	290	Sr.	Hartford, Wisc.	Hartford Union	
+94	Christian Connelly	DL	6-3	235	So.	Byron, Minn.	Byron	
+95	Joshua Lee-O'Bryant	DL	6-3	300	RFr.	Milwaukee, Wis.	Grafton	
+96	Connor Akey	DL	6-4	295	RFr.	Wisconsin Rapids, Wis.	Lincoln	
+97	Nolan Milius	DL	6-4	245	Jr.	Lincoln, Neb.	Southwest	
+98	Zachary Richardson	DL	6-3	275	Jr.	Canton, S.D.	Canton	
+99	Ishmael Togi	DL	6-0	280	Sr.	White Center, Wash.	Highline	Simon Fraser

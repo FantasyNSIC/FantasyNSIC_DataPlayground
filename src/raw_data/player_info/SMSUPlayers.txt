@@ -1,46 +1,104 @@
-3	Diego Maldonado	DB	5-11	189	Jr.	Las Vegas, Nev.	Spring Valley	
-6	Marquise Ogletree	DB	5-10	154	Sr.	Pasadena, Calif.	Northview	University of Arkansas-Pine Bluff
-14	Kendon Krogman	QB	6-4	188	RFr.	Eau Claire, Wis.	Eau Claire Regis	
-16	Cade Eddington	WR	5-10	175	Sr.	Rochester, Ill.	Rochester	Western Illinois
-17	Nathan Stearns	WR	6-6	192	Sr.	Olathe, Kan.	Olathe South	
-20	Amarion Meshack	DB	5-10	162	So.	Henderson, Nev.	Foothill	
-21	Tate Gaul	DB	6-2	188	Sr.	Worthington, Minn.	Worthington	Minnesota West CTC
-22	Josiah Hedensten	LB	6-1	189	Jr.	Faribault, Minn.	Medford	
-24	Parker Knutson	DB	6-1	183	RFr.	Sartell, Minn.	Sartell	
-26	Johnston Freeman	DB	5-10	173	Sr.	Minneapolis, Minn.	Champlin Park	Upper Iowa
-28	Keegan Patterson	DB	6-3	173	RFr.	Sauk Rapids, Minn.	Sauk Rapids-Rice	
-29	Bailey Cowell	WR	6-0	175	Sr.	Luverne, Minn.	Luverne	Minnesota West CTC
-30	Treay Taylor	RB	5-10	185	So.	Winthrop, Minn.	Gibbon-Fairfax-Winthrop	
-31	Brian Martin?Jr.	LB	6-0	220	So.	Imperial, Calif.	Central Union	Imperial Valley College
-32	Jeremiah Truitt	DB	6-0	191	RFr.	Omaha, Neb.	Omaha Westside	
-33	Carter Schmitz	LB	6-1	234	Jr.	Adams, Minn.	Southland	
-34	Octavis Cherry	RB	5-9	152	Sr.	Milwaukee, Wis.	Martin Luther	Vermillion Community College
-37	DaNari Connors	RB	5-8	160	RFr.	Brooklyn Center, Minn.	Robbinsdale Cooper	
+3	Diego Maldonado	DB	5-11	190	Jr.	Las Vegas, Nev.	Spring Valley	
+6	Marquise Ogletree	DB	5-11	151	Sr.	Pasadena, Calif.	Northview	University of Arkansas-Pine Bluff
+14	Kendon Krogman	QB	6-4	200	RFr.	Eau Claire, Wis.	Eau Claire Regis	
+16	Cade Eddington	WR	5-10	181	Sr.	Rochester, Ill.	Rochester	Western Illinois
+17	Nathan Stearns	WR	6-6	200	Sr.	Olathe, Kan.	Olathe South	
+20	Amarion Meshack	DB	5-10	153	So.	Henderson, Nev.	Foothill	
+21	Tate Gaul	DB	6-3	193	Sr.	Worthington, Minn.	Worthington	Minnesota West CTC
+22	Josiah Hedensten	LB	6-1	190	Jr.	Faribault, Minn.	Medford	
+24	Parker Knutson	DB	6-1	187	RFr.	Sartell, Minn.	Sartell	
+26	Johnston Freeman	DB	5-10	177	Sr.	Minneapolis, Minn.	Champlin Park	Upper Iowa
+28	Keegan Patterson	DB	6-3	186	RFr.	Sauk Rapids, Minn.	Sauk Rapids-Rice	
+30	Treay Taylor	RB	5-10	198	So.	Winthrop, Minn.	Gibbon-Fairfax-Winthrop	
+31	Brian Martin?Jr.	LB	6-0	218	So.	Imperial, Calif.	Central Union	Imperial Valley College
+32	Jeremiah Truitt	DB	6-0	180	RFr.	Omaha, Neb.	Omaha Westside	
+33	Carter Schmitz	LB	6-1	245	Jr.	Adams, Minn.	Southland	
+34	Octavis Cherry	RB	5-9	145	Sr.	Milwaukee, Wis.	Martin Luther	Vermillion Community College
+37	DaNari Connors	RB	5-9	173	RFr.	Brooklyn Center, Minn.	Robbinsdale Cooper	
 39	Mason Carver	P	6-3	166	So.	Cherokee, Iowa	Cherokee-Washington	
-44	Thomas Mergen	LB	6-0	224	Sr.	Rochester, Minn.	Rochester Century	
-45	Kellen Wright	LB	5-11	192	So.	West Salem, Wis.	West Salem	
-46	Eniedi Isuk	LB	6-2	217	So.	Brooklyn Park, Minn.	Champlin Park	
-47	Gideon Ervasti	LB	6-0	214	Jr.	Verndale, Minn.	Verndale	
-48	Aiden Planer	LB	6-0	200	RFr.	Lincoln, Neb.	Lincoln East	
-49	Zander Wolf	RB	6-1	187	RFr.	Scotia, Neb.	Central Valley	
-51	Logan Booth	LB	5-11	225	Jr.	Ames, Neb.	Logan View	
-55	Alex Maxwell	OL	6-4	316	Jr.	Lynnwood, Wash.	Meadowdale	
-63	Jake Schetinski	OL	6-4	292	Jr.	White Bear Lake, Minn.	Mahtomedi	
-74	Eddie Garcia	OL	6-3	310	So.	Marshall, Minn.	Marshall	
-75	Tyler Nebelung	OL	6-5	333	Jr.	Ramsey, Minn.	Anoka	
-76	Brock Ward	OL	6-3	315	Jr.	Appleton, Wis.	Appleton East	
-78	Roman Ordoñez	OL	6-6	315	Jr.	Holtville, Calif.	Holtville	
-80	Greg Schafer	WR	5-9	165	RFr.	Cottonwood, Minn.	Lakeview	
-81	Colin Maher	WR	6-2	188	Jr.	San Diego, Calif.	Burleson	
-82	Jeremy Greer	WR	6-0	176	So.	Litchfield, Minn.	Litchfield	
-83	Lincoln Benson	TE	6-3	245	Jr.	St. Cloud, Minn.	St. Cloud Tech	
-84	Tryg Auten	WR	6-0	181	RFr.	Sioux Falls, S.D.	Sioux Falls Washington	
-85	Matt Willis	TE	6-4	211	So.	Goodyear, Ariz.	Desert Edge	
-88	Jake Anderson	WR	6-2	194	Jr.	Prior Lake, Minn.	Prior Lake	
-89	Erik Vedoy	TE	6-5	283	RFr.	Blaine, Minn.	Spring Lake Park	
-91	Jon Thornton	DL	6-4	271	Jr.	Davenport, Iowa	Davenport West	Iowa Central C.C.
-92	Treverran Mack	DL	6-0	272	Jr.	Eastvale, Calif.	Eastvale Roosevelt	
-95	Jojo Kloeppel	DL	6-3	245	Jr.	Jordan, Minn.	Jordan	
-96	Joe Buelow	DL	6-0	262	Jr.	Maple Grove, Minn.	Maple Grove	
-97	Jason Samec	DL	6-3	257	Sr.	Stillwater, Minn.	St. Thomas Academy	University of South Dakota
-99	Avery Johnson	DL	6-4	232	Jr.	Lomira, Wis.	Lomira
+44	Thomas Mergen	LB	6-0	221	Sr.	Rochester, Minn.	Rochester Century	
+45	Kellen Wright	LB	6-0	207	So.	West Salem, Wis.	West Salem	
+46	Eniedi Isuk	LB	6-2	222	So.	Brooklyn Park, Minn.	Champlin Park	
+47	Gideon Ervasti	LB	6-0	217	Jr.	Verndale, Minn.	Verndale	
+48	Aiden Planer	LB	6-1	212	RFr.	Lincoln, Neb.	Lincoln East	
+49	Zander Wolf	RB	6-1	207	RFr.	Scotia, Neb.	Central Valley	
+51	Logan Booth	LB	5-11	231	Jr.	Ames, Neb.	Logan View	
+55	Alex Maxwell	OL	6-4	305	Jr.	Lynnwood, Wash.	Meadowdale	
+63	Jake Schetinski	OL	6-4	285	Jr.	White Bear Lake, Minn.	Mahtomedi	
+74	Eddie Garcia	OL	6-3	315	So.	Marshall, Minn.	Marshall	
+75	Tyler Nebelung	OL	6-5	330	Jr.	Ramsey, Minn.	Anoka	
+76	Brock Ward	OL	6-4	310	Jr.	Appleton, Wis.	Appleton East	
+78	Roman Ordoñez	OL	6-6	305	Jr.	El Centro, Calif.	Holtville	
+80	Greg Schafer	WR	5-19	171	RFr.	Cottonwood, Minn.	Lakeview	
+81	Colin Maher	WR	6-2	185	Jr.	San Diego, Calif.	Burleson	
+83	Lincoln Benson	TE	6-3	244	Jr.	St. Cloud, Minn.	St. Cloud Tech	
+84	Tryg Auten	WR	6-1	186	RFr.	Sioux Falls, S.D.	Sioux Falls Washington	
+85	Matt Willis	TE	6-4	221	So.	Goodyear, Ariz.	Desert Edge	
+88	Jake Anderson	WR	6-2	187	Jr.	Prior Lake, Minn.	Prior Lake	
+89	Erik Vedoy	TE	6-5	255	RFr.	Blaine, Minn.	Spring Lake Park	
+91	Jon Thornton	DL	6-4	290	Jr.	Davenport, Iowa	Davenport West	Iowa Central C.C.
+92	Treverran Mack	DL	6-0	279	Jr.	Eastvale, Calif.	Eastvale Roosevelt	
+95	Jojo Kloeppel	DL	6-3	258	Jr.	Jordan, Minn.	Jordan	
+96	Joe Buelow	DL	6-0	261	Jr.	Maple Grove, Minn.	Maple Grove	
+97	Jason Samec	DL	6-3	269	Sr.	Stillwater, Minn.	St. Thomas Academy	University of South Dakota
+99	Avery Johnson	DL	6-4	239	Jr.	Lomira, Wis.	Lomira	
+00 Omar Abdi	WR	6-2	187	RFr.	Marshall, Minn.	Marshall	
+00 Payton Allen	DL	6-2	277	Fr.	Racine, Wis.	Case	
+00 Nick Barrett	DL	6-1	214	Fr.	Cannon Falls, Minn.	Cannon Falls	
+00 Julius Brown	DL	6-0	329	So.	Pittsburgh, Pa.	Woodland Hills	Bluefield State (W. Va.)
+00 Jackson Christenson	DB	6-2	189	Fr.	Forest Lake, Minn.	Forest Lake	
+00 Dakota Coon	DL	6-3	249	Fr.	Fremont, Neb.	Fremont	
+00 Josiah Cowan-Beck	OL	6-3	310	Jr.	Chico, Calif.	Oroville	Butte College
+00 Jameson Cozad	DL	6-3	304	Jr.	Moorhead, Minn.	Moorhead	North Dakota State School of Science
+00 Jaylen Davis	LB	5-10	212	RFr.	Omaha, Neb.	Omaha Benson	
+00 Mekhai Davis	LB	6-0	208	Fr.	Omaha, Neb.	Omaha Bryan	
+00 Cam Enright	DB	6-3	199	RFr.	Redwood Falls, Minn.	Redwood Valley	
+00 Jerid Fearing	TE	6-2	211	Fr.	Coon Rapids, Minn.	Coon Rapids	
+00 Roman Garcia	OL	6-3	295	Fr.	Faribault, Minn.	Faribault	
+00 Steven Henry	OL	6-4	296	Fr.	West Bend, Wis.	West Bend East	
+00 Caden Hojer	DL	6-6	246	Fr.	Oldham, S.D.	Oldham-Ramona-Rutland	
+00 Jacob Honstetter	RB	6-0	211	Jr.	Fenton, Mich.	Clarkston	East Los Angeles College
+00 Maliek Igiehon	DB	6-0	182	RFr.	Las Vegas, Nev.	Clark	Wayne State
+00 Gabe Kamann	OL	6-4	291	RFr.	Waconia, Minn.	Waconia	
+00 Michael Kern	OL	6-5	266	Fr.	West Bend, Wis.	West Bend East	
+00 Drew Kluender	QB	6-5	210	Fr.	Moville, Iowa	Woodbury Central	
+00 Malachi Kohls	DL	6-5	264	RFr.	Mankato, Minn.	Minnesota Valley Lutheran	
+00 Dreu Kolbeck	OL	6-5	293	Fr.	Sheldon, Iowa	Sheldon	
+00 MaCoy Krick	WR	6-1	210	RFr.	Springfield, Minn.	Springfield	
+00 Ryan Kronbach	WR	6-3	174	Fr.	Janesville, Minn.	Janesville-Waldorf-Pemberton	
+00 Daniel Lemi	DB	5-10	150	Fr.	Omaha, Neb.	Omaha Central	
+00 Mak Lia	DB	6-1	191	Fr.	Worthington, Minn.	Worthington	
+00 Ki Lucas	RB	5-11	211	RFr.	Omaha, Neb.	Pearland (Texas)	
+00 Kaden Lunsford	DB	6-3	215	Fr.	Peoria, Ariz.	Sunrise Mountain	
+00 Alex Mansanger	OL	6-4	265	Fr.	Waconia, Minn.	Waconia	
+00 Kevin McGee	RB	6-0	205	Fr.	Omaha, Neb.	Omaha Central	
+00 Stevie McMath	WR	5-11	181	RFr.	Olivia, Minn.	BOLD	
+00 Kale Mensink	LB	6-1	201	RFr.	Spring Valley, Minn.	Kingsland	
+00 Thomon Milligan	DB	5-10	192	Fr.	Laveen, Ariz.	Cesar Chavez	
+00 T.J. Mitchell	LB	6-4	210	Fr.	Appleton, Minn.	Lac qui Parle Valley	
+00 Logan Ness	DB	6-4	163	Fr.	Coon Rapids, Minn.	Coon Rapids	
+00 Wyatt Oak	QB	6-2	211	So.	West Covina, Calif.	West Covina	Pasadena City College
+00 Daniel Obwaya	DL	6-1	294	Sr.	Blaine, Minn.	Blaine	Minnesota State
+00 Josh Oehm	QB	6-1	195	Jr.	Lincoln, Neb.	Waverly	Northwestern College (Iowa)
+00 David Ola-Kazeem	WR	6-1	169	RFr.	Cottage Grove, Minn.	Park High	
+00 Bennett Pierson	OL	6-6	348	Fr.	Mora, Minn.	Mora	
+00 Will Priest	RB	5-10	189	RFr.	Rosemount, Minn.	Rosemount	
+00 Keshaun Reynolds	DB	5-9	175	Sr.	Moreno Valley, Calif.	Orange Vista	Missouri Valley College
+00 Isaiah Rheaume	OL	6-3	324	Jr.	Folsom, Calif.	Folsom	American River College
+00 Musa Sanneh	WR	6-5	173	Fr.	Richfield, Minn.	Richfield	
+00 Trever Schauer	WR	6-3	202	Fr.	Lester Prairie	Lester Prairie	
+00 Corbin Schroeder	OL	6-4	285	Fr.	Cannon Falls, Minn.	Cannon Falls	
+00 Dylan Schultz	DL	6-4	298	Fr.	Medina, Minn.	Wayzata	
+00 Connor Shelton	DB	6-1	155	RFr.	Lincoln, Neb.	Lincoln East	
+00 Sam Shepersky	LB	6-0	211	Fr.	Cannon Falls, Minn.	Cannon Falls	
+00 Mambu Sonie	DL	6-2	262	RFr.	Burnsville, Minn.	Burnsville	
+00 Wendell Tchalassi	DB	6-0	160	Fr.	Omaha, Neb.	Omaha North	
+00 Evan Thompson	OL	6-4	275	Fr.	Sleepy Eye, Minn.	Sleepy Eye	
+00 Zach Vance	RB	6-0	211	Fr.	North Liberty, Iowa	Clear Creek-Amana	
+00 Elliott Viland	DB	5-10	187	Fr.	Faribault, Minn.	Faribault Bethlehem Academy	
+00 Melvin Wallace	DL	6-0	220	Fr.	Lino Lakes, Minn.	Centennial	
+00 Shaun Walrath	RB	6-3	197	Fr.	Sauk Rapids, Minn.	Sauk Rapids-Rice	
+00 Jonathan Wamsley	RB	6-3	223	Jr.	Shakopee, Minn.	Shakopee	Crown College
+00 Harrison Weber	DL	6-1	249	RFr.	Gretna, Neb.	Gretna	
+00 Jamari Williams	LB	5-9	209	Fr.	Lincoln, Neb.	Lincoln Southwest	
+00 Brody Willis	DB	6-4	159	Fr.	Goodyear, Ariz.	Desert Edge

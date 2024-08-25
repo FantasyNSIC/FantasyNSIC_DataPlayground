@@ -1,4 +1,4 @@
-1	Fynn Ridgeway	RB	6-1	190	R-Fr.	Hastings, Mont. / Whitefish HS
+1	Fynn Ridgeway	RB	6-1	190	R-Fr.	Whitefish, Mont. / Whitefish HS
 2	Caleb Munger	DB	5-11	170	R-Jr.	Omaha, Neb. / Millard North
 3	Brady Perryman	WR	5-11	170	Jr.	Cottage Grove, Minn. / Park of Cottage Grove
 4	Carter Birrenkott	WR	6-4	225	Jr.	West Fargo, N.D. / West Fargo
@@ -6,7 +6,7 @@
 6	Gage Florence	WR	5-10	185	Jr.	Sawyer, N.D. / Velva
 7	Adam Kallenbach	DB	6-1	170	Jr.	Jamestown, N.D. / Jamestown
 8	McKale Pierson	DB	5-11	175	Jr.	Glyndon, Minn. / Dilworth-Glyndon-Felton
-9	Tate Gustafson	LB	6-1	195	Jr.	7Fargo, N.D. / West Fargo Sheyenne
+9	Tate Gustafson	LB	6-1	195	Jr.	Fargo, N.D. / West Fargo Sheyenne
 10	Tommy Falk	QB	6-1	205	Sr.	Jamestown, N.D. / Jamestown
 11	Madden Thorson	WR	5-11	185	So.	Harvey, N.D. / Harvey
 12	Kolby Vander?Wal	LB	6-0	210	Sr.	Argusville, N.D. / Northern Cass
@@ -15,7 +15,6 @@
 15	Jack Strand	QB	6-5	220	Jr.	Bloomer, Wis. / Bloomer
 16	Grant Warkenthien	QB	5-11	180	So.	West Fargo, N.D. / West Fargo Sheyenne
 17	Carson Elbert	WR	6-4	205	Jr.	Norwalk, Iowa / Martendale St. Mary's
-18	Lucas Slack	QB	6-1	193	R-Fr.	Harrisburg, S.D. / Brandon Valley HS
 19	Louis Sobiech	WR	6-1	195	So.	Little Falls, Minn. / Little Falls
 20	Jack Johnson	DB	6-0	185	R-Fr.	Blaine, Minn. / Blaine HS
 21	Kennan Stowers	DB	5-10	180	So.	New Richmond, Wis. / New Richmond
@@ -32,32 +31,54 @@
 32	Micah Runion	DB	5-10	190	R-Fr.	Cottage Grove, Minn. / Park High School
 33	Clayton Kosel	RB	5-9	184	R-Fr.	Echo, Minn. / Lakeview HS
 34	Brayden Brosz	DB	6-0	168	R-Fr.	Bismarck, N.D. / Bismarck Century HS
+35	Josh Balstad	LB	6-1	212	R-Fr.	West Fargo, N.D. / West Fargo HS
 36	Noah Karels	FB	6-1	225	Sr.	Waverly, Minn. / Buffalo
 37	Evan Miles	DB	6-2	180	So.	Oregon, Wis / Oregon HS
 38	Devin Beach	LB	6-2	185	So.	Jamestown, N.D. / Jamestown
 39	Ryan Routhieaux	DB	6-1	170	R-Fr.	Casco, Wis. / Luxemburg-Casco HS
-40	Jaxen Johnson	WR	6-4	200	So.	Walhalla, N.D. / North Border
-41	Josh Balstad	LB	6-1	212	R-Fr.	West Fargo, N.D. / West Fargo HS
+40	Hunter MacGillivray	DB	5-9	176	Fr.	Prior Lake, Minn. / Prior Lake HS
+40	Seth Newbern	DB	6-0	185	Fr.	Plymouth, Minn. / Robbinsdale Armstrong HS
+41	JD Czech	TE	6-2	240	Gr.	Chippewa Falls, Wis. / Chippewa Falls HS
 42	Sebastian Amorrortu	K	5-8	180	Jr.	Minnetonka, Minn. / North Minneapolis
-43	Bo ChwalaHear	LB	5-10	210	Jr.	Stanley, Wis. / Stanley-Boyd
-44	Fox KnutsonHear	LB	6-1	200	So.	Medina, Minn. / Wayzata
+43	Bo Chwala	LB	5-10	210	Jr.	Stanley, Wis. / Stanley-Boyd
+44	Fox Knutson	LB	6-1	200	So.	Medina, Minn. / Wayzata
 45	Mitchell Jezierski	LB	6-1	216	Jr.	Rogers, Minn. / Rogers
-46	Jacob Schroeder	K	5-10	170	Jr.	Sioux City, Iowa / Sioux City East
+46	Kaden Christmann	LB	6-0	198	Fr.	Fargo, N.D. / Fargo Shanley HS
+46	Wyatt Piehl	LB	6-1	211	Fr.	Mandan, N.D. / Mandan High School
 47	Josiah Behm	LB	6-2	225	Sr.	Appleton, Wis. / Fox Valley Lutheran
 48	Micah Herbel	LS	5-10	215	Jr.	Fertile, Minn. / Fertile-Beltrami
 49	Nolan Imhoff	LS	6-2	210	R-Fr.	Frederic, Wis. / Saint Croix Falls
 50	Dylan Bartsch	LB	6-0	209	R-Fr.	Rugby, N.D. / Rugby High School
 51	Jacob Brosius	LB	6-2	235	Jr.	Fargo, N.D. / North
 52	Henry Smith	LB	6-1	205	R-Fr.	Golden Valley, Minn. / Robinsdale Armstrong High School
+53	Brayden Staples	LB	6-1	195	Fr.	Alexandria, Minn. / Alexandria Area HS
+53	Brody Friend	DB	6-1	185	Fr.	Dilworth, Minn. / Dilworth-Glyndon-Felton HS
 54	Keagan Christy	LB	6-2	224	So.	Wisconsin Rapids, Wis. / Wisconsin Rapids Lincoln
 55	Justice Noel	DL	6-4	250	Sr.	Fargo, N.D. / Davies
+56	Manny Wilson	OL	6-1	267	Fr.	Plymouth, Minn. / Wayzata HS
+56	Grant Erickson	OL	6-3	301	Fr.	Norwood Young America, Minn. / Central HS
+57	Luke Rogen	OL	6-2	268	Fr.	West Fargo, N.D. / Shanley HS
+57	Josh Dudgeon	OL	6-3	269	Fr.	Dilworth, Minn. / Dilworth-Glyndon-Felton HS
 58	Brady Olson	OL	6-5	235	So.	Thief River Falls, Minn. / Thief River Falls
-63	Trenten Bertelsen	OL	6-3	238	So.	Dickinson, N.D. / Dickinson Trinity
+59	Jaxson Barrett	WR	5-7	165	Fr.	Prior Lake, Minn. / Prior Lake HS
+59	Ty Burgoon	WR	5-11	170	Fr.	Circle Pines, Minn. / Centennial
+60	Nathaniel Fundator	WR	6-2	184	Fr.	Willowbrook, Ill. / Hinsdale South HS
+60	Gavin Lill	WR	6-0	178	Fr.	Bismarck, N.D. / Bismarck Century HS
+61	Payton Longmeyer	WR	5-10	174	Fr.	Glenwood, Iowa / Glenwood HS
+61	Denzel Sutton	WR	5-10	183	Fr.	Thorp, Wis. / Thorp HS
+62	Peyton Young	WR	6-0	170	Fr.	Rapid City, S.D. / St. Thomas More HS
+62	Joe Rose	TE	6-4	238	Fr.	Fargo, N.D. / Fargo North HS
+63	Kaden Molden	TE	6-3	268	Fr.	Appleton, Minn. / Lac Qui Parle Valley
 64	Dallen Ernst	OL	6-5	244	R-Fr.	Breckenridge, Minn. / Breckenridge HS
 65	Ryan Butler	OL	6-5	270	So.	Minnetrista, Minn. / Mound-Westonka
-66	Treyton Bammert-Mueller	OL	6-5	257	Jr.	Cottage Grove, Minn. / Park of Cottage Grove
-67	Adam Adeboye	OL	6-2	307	So.	Brooklyn Park, Minn. / Park Center
+66	Trenten Bertelsen	OL	6-3	238	So.	Dickinson, N.D. / Dickinson Trinity
+67	Jackson Hynek	DL	6-2	209	Fr.	Stanley, N.D. / Stanley HS
+67	Carson Jewett	DL	6-2	263	Fr.	Stillwater, Minn. / Hill-Murray HS
 68	Brennan Sellheim	OL	6-2	300	So.	West Fargo, N.D. / West Fargo Sheyenne
+69	Max Watson	K/P	5-11	165	Fr.	Fargo, N.D. / Fargo North HS
+69	Brayden Spears	K/P	5-10	181	Fr.	Thief River Falls, Minn. / Thief River Falls
+70	Sawyer Rumohr	DL	6-3	251	Fr.	Alexandria, Minn. / Alexandria Area HS
+70	Adam Schierholz	DL	6-2	241	Fr.	Hartley, Iowa / Hartley-Melvin-Sanborn HS
 71	Jake Schneider	OL	6-4	280	Sr.	Stanley, Wis. / Stanley-Boyd
 72	Joseph Meier	OL	6-4	247	R-Fr.	Mayer, Minn. / Watertown-Mayer HS
 73	Tyler Martin	OL	6-4	302	Sr.	Moorhead, Minn. / Moorhead
@@ -66,18 +87,30 @@
 76	Owen Barthel	OL	6-4	280	Jr.	St. Michael, Minn. / St. Michael-Albertville
 77	Brooks O'Brien	OL	6-4	265	Jr.	St. Michael, Minn. / St. Michael-Albertville
 78	Nick Haugrud	OL	6-2	275	So.	Pelican Rapids, Minn. / Pelican Rapids
+79	Timmy Guler	DB	5-11	207	Fr.	Pelican Rapids, Minn. / Pelican Rapids HS
+79	Drew Hofstad	DB	5-11	182	Fr.	Starkweather, N.D. / Devils Lake HS
+80	Brady Borgen	WR	6-2	180	Sr.	Ada, Minn. / Ada-Borup HS
 81	Peyton Arndt	WR	5-10	180	R-Fr.	Bismarck, N.D. / Bismarck Century HS
 82	Jacob Vetter	TE	6-4	200	Sr.	Hawley, Minn. / Hawley HS
 83	Zachary Moore	P	6-0	160	Sr.	Las Vegas, Nev. / Palo Verde
 84	Denver Piechowski	DL	6-1	195	So.	Fargo, N.D. / Davies
 85	Brody Headley	WR	5-10	170	So.	Bowman, N.D. / Bowman Central
-86	Zach Dahl	DL	6-2	235	R-Fr.	Farmington, Minn. / Farmington HS
+85	Jacqui Fitzpatrick	WR	6-3	205	Jr.	Moorhead, Minn. / Moorhead HS
+85	Tony Leal	TE	6-5	235	Fr.	West Fargo, N.D. / West Fargo HS
+86	Hunter Corbin	DL	6-2	260	Fr.	Mandan, N.D. / Mandan HS
+86	Treyton Hoffert	DL	6-4	195	Fr.	Fargo, N.D. / Fargo South HS
 87	Nate Graham	DL	6-5	215	So.	Plymouth, Minn. / Wayzata
 88	Alec White	DL	6-3	240	Sr.	Wauwatosa, Wis. / Wauwatosa West
 89	Jordan Marty	TE	6-2	245	Sr.	Cambridge, Wis. / Cambridge
 90	Denver Sheets	DL	6-3	250	Sr.	Williston, N.D. / Williston
+91	Will Martin	DL	6-1	230	Fr.	Detroit Lakes, Minn. / Detroit Lakes HS
+91	Mason Neitzel	DL	6-2	225	Fr.	Waconia, Minn. / Mayer Lutheran HS
+92	Zach Dahl	DL	6-2	235	R-Fr.	Farmington, Minn. / Farmington HS
+93	Malik Winfield	DL	6-1	226	Fr.	Big Lake, Minn. / Buffalo HS
+93	Malik Traore	DL	6-4	256	Fr.	Grand Forks, N.D. / Red River HS
 94	Andrew Spandiary	DL	6-1	250	Jr.	Chicago, Ill. / Notre Dame College Prep
-95	Ben Nelson	DL	6-1	239	R-Fr.	Kasson, Minn. / Kasson Mantorville HS
+95	Keegan DeYoung	RB	5-10	195	Fr.	Tea, S.D. / Tea Area HS
+95	Isaiah Favors	RB	6-0	185	Fr.	Dakota Dunes, S.D. / Bishop Heelan Catholic HS
 97	Ashton Tjaden	DL	6-3	250	So.	Beresford, S.D. / Beresford
 98	Ashton Sayre	DL	6-4	265	So.	Alexandria, Minn. / Alexandria Area HS
 99	Jaiden Chrisman	DL	6-5	285	Jr.	Grand Island, Neb. / Grand Island

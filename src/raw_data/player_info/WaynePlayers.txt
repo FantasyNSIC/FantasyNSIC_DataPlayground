@@ -1,74 +1,96 @@
 1	Gerale Flye	DB	5-11	190	Sr.	Irving, Texas / Irving MacArthur HS
-2	Bennett Dannenbring	QB	6-1	205	Rf.	Sioux Falls, S.D. / O'Gorman HS
+2	Bennett Dannenbring	QB	6-0	200	Rf.	Sioux Falls, S.D. / O'Gorman HS
 3	Kendrick Watkins-Hogue	WR	6-0	180	R-So.	Dubuque, Iowa / Dubuque Senior HS
 4	Nick Bohn	QB	6-1	215	Sr.	Bennington, Neb. / Bennington HS / Central Missouri
-5	Alex Kowalczyk	LB	5-11	220	Jr.	Sioux Falls, S.D. / O'Gorman HS
+5	Alex Kowalczyk	LB	5-11	220	Sr.	Sioux Falls, S.D. / O'Gorman HS
+5	Nolan Maahs	QB	6-2	180	Fr.	Waverly, Neb. / Waverly HS
 6	Jadon Johnson	WR	6-1	200	Sr.	Lake Charles, La. / St. Louis Catholic HS
 7	Marzion Cosby	DB	5-11	190	Jr.	Peoria, Ariz. / Northern Arizona Univ. / Centennial HS
-8	Stanley Bryant	WR	6-2	185	So.	Naples, Fla. / Southern Illinois / Naples HS
+8	Clyde Hinton	DB	6-1	215	So.	Plattsmouth, Neb. / Plattsmouth HS
+9	Brady McGill	QB	6-3	190	Fr.	Omaha, Neb. / Roncalli Catholic HS
 9	Adrien Pidgeon	DB	5-10	185	Sr.	Las Vegas, Nev. / Mayville State (N.D.) / Canyon Springs HS
 10	DJ McPherson	WR	6-1	185	Jr.	Union City, Calif. / James Logan HS / Diablo Valley College (Calif.)
-11	Delshawn Petrosky	DB	6-1	190	Jr.	Youngstown, Ohio / Walsh (Ohio) / Chaney HS
-12	Mitchell Andersen	DB	5-9	175	So.	Bennington, Neb. / Bennington HS
-13	Dante Lawson	DB	6-1	190	Sr.	Clovis, Calif. / Buchanan HS / Reedley College (Calif.)
+11	Delshawn Petrosky	DB	6-1	180	Jr.	Youngstown, Ohio / Walsh (Ohio) / Chaney HS
+12	Mitchell Andersen	DB	5-10	175	So.	Bennington, Neb. / Bennington HS
+13	Kaden Johnson	LB	6-1	210	R-So.	La Vista, Neb. / Papillion-La Vista HS / South Dakota State
 14	Dilan Krause	QB	6-0	190	Jr.	Elkhorn, Neb. / Elkhorn South HS
-15	Keaton Bonderson	WR	6-0	170	Rf.	LeMars, Iowa / Gehlen Catholic HS
+15	Keaten Bonderson	WR	6-0	190	Rf.	LeMars, Iowa / Gehlen Catholic HS
 16	Colton Andrews	WR	6-1	185	Jr.	Omaha, Neb. / Southwest Minnesota State / Millard West HS
+17	Cartez Cook	DB	5-9	175	Fr.	Fridley, Minn. / Fridley HS
 17	Trevor Marshall	WR	6-2	220	Jr.	Gretna, Neb. / Gretna HS
 18	Ashten Schmaderer	WR	6-1	195	Sr.	Benninton, Neb. / Bennington HS
-19	Boston Hensley	K/P	5-10	165	So.	Council Bluffs, Iowa / Lewis Central HS
-20	Robert Bishop?Jr.	DB	6-2	195	Jr.	Riverside, Calif. / Nebraska-Kearney / Norco HS
+19	Boston Hensley	K	5-11	180	So.	Council Bluffs, Iowa / Lewis Central HS
+20	Kahmel Johnson	DB	6-1	190	Fr.	Jacksonville, Fla. / Riverside HS
 21	Joe Morrison	DB	6-1	175	So.	Jacksonville, Fla. / Riverside HS
-22	Dawson Forgy	RB	5-11	190	Jr.	Winterset, Iowa / Winterset HS
-23	Keith Wright?Jr.	DB	6-1	200	Jr.	Longview, Texas / Emporia State / Kilgore CC / Pine Tree HS
+22	Dawson Forgy	RB	5-11	200	Jr.	Winterset, Iowa / Winterset HS
+22	Javonte Walker	DB	5-11	190	Fr.	Omaha, Neb. / Millard South HS
+23	Jayden Allen	DB	5-11	185	Rf.	Fountain, Colo. / Iowa Western CC / Fort Carson HS
 24	Jacob Byrd	DB	6-0	195	Sr.	Sioux Falls, S.D. / O'Gorman HS
 25	Tyler LeClair	LB	6-2	225	Sr.	Bennington, Neb. / Bennington HS
-26	Kaden Johnson	LB	6-2	210	R-So.	La Vista, Neb. / Papillion-La Vista HS / South Dakota State
+26	EJ Davis	DB	5-10	185	Fr.	Orlando, Fla. / Timber Creek HS
 27	Sam Rallis	DB	6-0	190	Jr.	Council Bluffs, Iowa / St. Albert HS
 28	Latravious Boyd	RB	6-1	200	So.	Orlando, Fla. / Jones HS
-29	Sean Cruz?Jr.	DB	6-1	200	So.	Evanston, Ill. / Township HS
-30	Brayden Chaney	DB	5-10	180	So.	Omaha, Neb. / Gretna HS
+29	Joey Benjamin	WR	5-10	170	Fr.	Yutan, Neb. / Yutan HS
+30	Brayden Chaney	DB	6-0	180	So.	Omaha, Neb. / Gretna HS
 31	Jaxon Johnson	DL	6-4	260	Sr.	Bancroft, Neb. / Bancroft-Rosalie HS
-32	Jason Jones	RB	6-2	200	Rf.	Crestview, Fla. / Crestview HS
-33	Luke Fenton	K/P	5-11	190	So.	Omaha, Neb. / Omaha Creighton Prep HS / South Dakota State
+32	Jason Jones	RB	6-1	200	Rf.	Crestview, Fla. / Crestview HS
+33	Luke Fenton	P	6-0	175	So.	Omaha, Neb. / Omaha Creighton Prep HS / South Dakota State
+33	Akeem Knox	RB	6-0	200	Fr.	Kissimmee, Fla. / Poinciana HS
+33	Dayne Mauk	LB	6-2	220	Fr.	Grimes, Iowa / Dallas Center-Grimes HS
 34	Tate Hinrichs	LB	6-0	200	Jr.	Omaha, Neb. / Millard South HS
-35	Jacoby Hurst	DB	6-0	195	Jr.	Papillion, Neb. / Papillion LaVista HS
-36	Clyde Hinton	DB	6-1	215	So.	Plattsmouth, Neb. / Plattsmouth HS
-38	Hudson Cunnings	LB	6-0	200	Rf.	Fremont, Neb. / Fremont HS
-39	Trace Anderson	K	6-2	195	R-Fr.	Holdrege, Neb. / Holdrege HS
-40	J'Dyn Bullion	LB	6-0	255	Rf.	Bellevue, Neb. / Bellevue West HS
-41	Maliek Igiehon	DB	6-1	185	Rf.	Las Vegas, Nev. / Ed W. Clark HS
+35	Parker Dunn	P	5-11	180	Fr.	Omaha, Neb. / Millard West HS
+35	Royceon Skogerboe	WR	5-11	190	Fr.	Papillion, Neb. / Papillion-LaVista South HS
+36	Izaiah Jackson	DB	6-0	180	Fr.	Palmetto, Fla. / Palmetto HS
+37	Zach Smid	LB	6-0	200	Fr.	Grimes, Iowa / Dowling Catholic HS
+38	Caden Roethler	RB	6-0	200	Fr.	West Bend, Iowa / Bishop Garrigan HS
+39	Britton Kemling	DB	5-11	190	So.	Aurora, Neb. / Aurora HS / Peru State College
+40	Anthony Heithoff	DB	5-10	190	Fr.	Omaha, Neb. / Skutt Catholic HS
+41	Spencer Easland	DB	6-1	180	Fr.	Pierre, S.D. / Riggs HS
+42	Kaleb Panowicz	LB	5-11	205	Fr.	Omaha, Neb. / Millard South HS
+43	Brennan Hayes	RB	5-10	195	Fr.	Creston, Iowa / Creston HS
 44	Dexter Larsen	LB	5-10	215	Sr.	Blair, Neb. / Blair HS
 45	Isaac Robinson	LB	6-0	200	Jr.	Elkhorn, Neb. / Elkhorn HS
-47	Jes Krcil	LB	6-1	210	Rf.	Carlisle, Iowa / Carlisle HS
-48	Jackson Bos	DE	6-2	220	Rf.	Norfolk, Neb. / Norfolk HS
+47	Jes Krcil	LB	6-2	230	Rf.	Carlisle, Iowa / Carlisle HS
+48	Jackson Bos	DE	6-2	240	Rf.	Norfolk, Neb. / Norfolk HS
 49	Alex Schall	LB	6-2	215	Sr.	Kearney, Neb. / Kearney HS
-51	Austin McNulty	DE	6-4	215	Rf.	Sioux Falls, S.D. / Tri-Valley HS
-52	Luke Lambert	DL	6-3	275	So.	Greenwood, Neb. / Ashland-Greenwood HS
+51	Austin McNulty	DE	6-3	225	Rf.	Sioux Falls, S.D. / Tri-Valley HS
+52	Luke Lambert	DL	6-2	270	So.	Greenwood, Neb. / Ashland-Greenwood HS
+53	Jaden Wilsey	DL	6-0	250	Fr.	Ashland, Neb. / Ashland-Greenwood HS
 55	Jake Stier	OL	6-3	280	Jr.	Bennington, Neb. / Bennington HS
-57	Jake Lukis	DL	6-0	270	So.	Gretna, Neb. / Gretna HS
+56	Andrew Robinson?III	DL	6-0	250	Fr.	Waterloo, Iowa / Columbus Catholic HS
 58	Chase Anderson	OL	6-0	285	So.	Gretna, Neb. / Gretna HS
-60	TJ Griffin	DL	6-2	285	Jr.	Bellevue, Neb. / Nebraska-Kearney / Bellevue West HS
-61	Myles Dais	DL	6-2	270	Rf.	Indianapolis, Ind. / St. Francis (Ind.) / Scecina Memorial HS
+59	Tye Henry	DL	6-2	235	Fr.	Victoria, Australia / Catholic Regional College Sydenham
+60	Gavin Ulrich	DL	6-3	280	Fr.	Blair, Neb. / Blair HS
+61	Myles Dais	DL	6-2	275	Jr.	Indianapolis, Ind. / St. Francis (Ind.) / Scecina Memorial HS
+62	John Devery	OL	6-4	285	Fr.	Iowa City, Iowa / Regina HS
+63	Jac Van?Wyhe	OL	6-3	300	Rf.	Rock Rapids, Iowa / Iowa Western CC / Central Lyon HS
 64	Chris Graham?Jr.	OL	6-2	290	Jr.	Omaha, Neb. / Omaha Burke HS
-66	Trent Rasmussen	OL	6-4	270	Jr.	Rockville, Neb. / Centura HS
-67	Wyatt Ogle	OL	6-2	295	So.	Blair, Neb. / Blair HS
-68	Nolan Ulrich	OL	6-4	295	Jr.	Blair, Neb. / Blair HS
-73	Tierel Tompkins	OL	6-4	300	Jr.	Cedar Falls, Iowa / Cedar Falls HS
+65	Caleb Klein	OL	6-3	275	Fr.	Omaha, Neb. / Millard North HS
+68	Nolan Ulrich	OL	6-4	300	Jr.	Blair, Neb. / Blair HS
+70	Logan Nemmers	OL	6-4	320	Fr.	Wesley, Iowa / Bishop Garrigan HS
+71	Eli Hintz	OL	6-4	270	Rf.	Battle Creek, Neb. / Battle Creek HS
+72	Easton Poppe	OL	6-4	300	Fr.	Brandon, S.D. / Brandon Valley HS
+73	Tierel Tompkins	OL	6-4	300	Sr.	Cedar Falls, Iowa / Cedar Falls HS
+74	Quinten Fuller	OL	6-2	260	Fr.	Creston, Iowa / Creston HS
 75	Alec Blevins	OL	6-4	290	So.	Bellevue, Neb. / Papillion-LaVista HS
+76	Luke Vander?Weide	OL	6-3	280	Fr.	Sioux City, Iowa / East HS
 77	Will Washenberger	OL	6-3	300	Jr.	Sioux Falls, S.D. / O'Gorman HS / Sioux Falls
-78	Barrett Luce	OL	6-4	280	Rf.	Omaha, Neb. / Millard South HS
+78	Barrett Luce	OL	6-2	300	Rf.	Omaha, Neb. / Millard South HS
 79	Jett Janssen	OL	6-4	280	Sr.	Lincoln, Neb. / East HS
-80	Alex Phelps	WR	6-0	170	Rf.	Wayne, Neb. / Wayne HS
+80	Alex Phelps	WR	5-11	170	Rf.	Wayne, Neb. / Wayne HS
+81	Andrew Theisen	WR	6-0	180	Fr.	Dubuque, Iowa / Dubuque Senior HS
+82	Curtis Witte	WR	6-0	200	Fr.	Council Bluffs, Iowa / Lewis Central HS
 83	Lane VanderWal	WR	6-3	230	Sr.	Volga, S.D. / Sioux Valley HS
 84	Cory Hollinger	TE	6-4	240	So.	Stromsburg, Neb. / Cross County HS / South Dakota
+85	AJ Crownover	TE	6-3	245	Fr.	West Des Moines, Iowa / Valley HS
 86	Trey Miller	TE	6-3	230	Jr.	Weston, Neb. / Bishop Neumann HS
-87	Dane Petersen	TE	6-4	230	So.	Elkhorn, Neb. / Elkhorn HS
+87	Dane Petersen	TE	6-4	250	So.	Elkhorn, Neb. / Elkhorn HS
 88	Shea Gossett	WR	6-1	195	Jr.	Fremont, Neb. / Archbishop Bergan Catholic HS
-89	Tanner Houck	TE	6-4	215	Rf.	Elkhorn, Neb. / Elkhorn HS
+89	Tanner Houck	TE	6-2	235	So.	Elkhorn, Neb. / Elkhorn HS
 91	James Frank	DL	6-3	240	So.	Lincoln, Neb. / Pius X HS
-93	Eli Hintz	DL	6-5	230	Rf.	Battle Creek, Neb. / Battle Creek HS
-96	Jacob Ottis	DL	6-1	255	Rf.	Battle Creek, Neb. / Battle Creek HS
+92	Trent Patton	DL	6-1	230	Fr.	Malvern, Iowa / Glenwood HS
+93	Trent Rasmussen	DL	6-4	275	Jr.	Rockville, Neb. / Centura HS
+94	Keegan Nystrom	DL	6-2	260	Fr.	Waterloo, Iowa / West HS
 97	Carter Sitzman	DL	6-4	260	So.	Lincoln, Neb. / Lincoln Christian HS
-98	Kaden Sutton	DL	6-1	300	Jr.	Adel, Iowa / Iowa State / Adel-Desoto-Minburn HS
+98	Kaden Sutton	DL	6-1	280	Jr.	Adel, Iowa / Iowa State / Adel-Desoto-Minburn HS
 99	Drake Peed	DT	6-1	270	Jr.	Elk Point, S.D. / Elk Point-Jefferson HS

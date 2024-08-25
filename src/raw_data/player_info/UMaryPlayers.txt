@@ -1,67 +1,99 @@
-1	Kevin Butler	DB	5-9	160	Jr.	Orlando, Fla.	Eastern Kentucky
-2	Tyrone Marshall	WR	6-1	205	Gr.	Los Angeles, Calif.	Narbonne HS / Montana State
-3	Jakob Petry	LB	6-0	190	Sr.	Henderson, Nev.	Foothill HS
-5	Andrew Trandahl	RB	5-8	175	So.	New Richmond, Wis.	New Richmond HS
-6	Malaki Sik	WR	6-3	194	R-Fr.	Williston, N.D.	Williston HS
-7	Jaxon Young	WR	6-1	175	Jr.	Las Vegas, Nev.	Durango HS
-8	Jaxon Feller	WR	5-9	175	Jr.	Surrey, N.D.	Bishop Ryan HS
-9	Andrew Green	LB	5-11	215	R-Fr.	Fargo, N.D.	Oak Grove HS
+1	Lucky Avinger	RB	6-1	210	Sr.	Long Beach, CA	
+1	Kevin Butler	ATH	5-9	165	Jr.	Orlando, Fla.	Eastern Kentucky
+2	Jaxon Feller	WR	5-9	175	Jr.	Surrey, N.D.	Bishop Ryan HS
+2	Tyrone Marshall?Jr.	WR	6-1	205	Gr.	Los Angeles, Calif.	Narbonne HS / Montana State University
+3	Jakob Petry	LB	6-0	200	Sr.	Henderson, Nev.	Foothill HS
+5	Andrew Trandahl	RB	5-8	185	So.	New Richmond, Wis.	New Richmond HS
+6	Amir Bankhead	RB	5-10	190	Sr.	Palmdale, Calif.	Paraclete HS / Antelope Valley CC
+6	Gavin Frye	QB	5-10	191	Fr.	Mound, MN	Holy Family Catholic HS
+7	Jaxon Young	WR	6-1	180	Jr.	Las Vegas, Nev.	Durango HS
+8	Treyten Horstman	DB	6-1	185	So.	Mesa, Ariz.	Valley Christian HS
+9	Andrew Green	LB	6-0	225	R-Fr.	Fargo, N.D.	Oak Grove HS
+9	Kalani Washington	WR	5-9	185	Sr.	Compton, CA	
 10	Sofian Massoud	QB	6-2	205	Jr.	Harlem, N.Y.	Houston / Hampton
-11	Mujeeb Rufai	WR	6-2	210	Sr.	Portland, Ore.	University of Idaho
-13	Amir Bankhead	RB	5-9	190	Sr.	Palmdale, Calif.	Paraclete HS / Antelope Valley CC
+11	Mujeeb Rufai	WR	6-2	225	Sr.	Portland, Ore.	University of Idaho
+12	Jordan Polo?Soloman	QB	6-0	205	Sr.	Kalihi, HI	
+13	Malaki Sik	WR	6-3	200	R-Fr.	Williston, N.D.	Williston HS
+14	Mustapha Yekini	QB	6-2	195	Fr.	Reed Deer, Alberta, Canada	
+15	Tuakoi Mahe	LB	5-10	220	Fr.	Hayward, CA	Chabot College
 16	Jeremiah Moore	RB	5-9	202	So.	Gilbert, Ariz.	Chandler HS
-18	Ryan Piepgras	WR	6-4	197	So.	Foreston, Minn.	Foley HS
-19	Brayden Iverson	WR	6-0	180	So.	Las Vegas, Nev.	Durango HS
-23	Kevin Powell	K/P	5-10	170	Sr.	Bremerton, Wash.	Bremerton HS
-25	Mason Phillips	LB	6-2	235	Jr.	Gilbert, Ariz.	Casteel HS
-26	Payton McGregor	WR	5-7	160	R-Fr.	West Fargo, N.D.	West Fargo HS
-27	Antwon Jenkins?Jr.	DB	6-0	175	R-Fr.	Laveen, Ariz.	Ceasar Chavez HS
-30	Sean Robinson	DB	5-10	185	R-Fr.	Maplewood, Minn.	Cretin Durham Hall
+17	Quin Hafner	QB	6-2	190	Fr.	Bismarck, ND	Bismarck HS
+17	Jack Stouffer	DB	6-1	205	Fr.	Park City, UT	
+18	Ryan Piepgras	LB	6-4	230	So.	Foreston, Minn.	Foley HS
+19	Brayden Iverson	WR	6-0	195	So.	Las Vegas, Nev.	Durango HS
+20	Tanner Nelson	DB	5-11	180	Jr.	Hunnington Beach, CA	
+21	Eli Heinrich	LB	5-10	210	Jr.	Kindred, N.D.	Kindred HS
+22	Bryce Tate	DB	6-1	175	Jr.	Phoenix, Ariz.	McClintock HS/Riverside City College
+23	Kevin Powell	K/P	6-0	185	Sr.	Bremerton, Wash.	Bremerton HS
+24	Justus Breston	DB	5-11	178	Jr.	Atlanta, GA	
+25	Mason Phillips	LB	6-3	240	Jr.	Gilbert, Ariz.	Casteel HS
+26	Jeremiah Robinson	DB	5-11	160	Jr.	Merced, CA	
+27	Antwon Jenkins?Jr.	DB	6-1	190	So.	Laveen, Ariz.	Ceasar Chavez HS
+28	Maleik Bradford	DB	5-10	180	Jr.	Fort Worth, TX	Coalinga College
+29	Sam Logoai	LB	6-1	200	Jr.	Nu?uuli, American Samoa	
+30	Sean Robinson	DB	5-11	185	R-Fr.	Maplewood, Minn.	Cretin Durham Hall
+30	Nick Waale	RB	5-8	188	Fr.	Dilworth, MN	DGF HS
 31	Carl Henry	RB	5-10	207	So.	Bismarck, N.D.	Legacy HS
-32	Matty Horne	LB	6-2	192	Sr.	Fremont, Calif.	Elk Grove HS / Sierra College
-33	Bryce Tate	DB	6-0	175	Jr.	Phoenix, Ariz.	McClintock HS/Riverside City College
-34	Tim Grisso	DB	5-11	181	R-Fr.	Wasilla, Alaska	Wasilla HS
-37	Christopher Federico	LB	5-11	225	So.	Henderson, Nev.	Silverado HS
-38	John West	DB	5-9	150	So.	Glendale, Ariz.	Deer Valley HS
-39	Abram Jopp	DB	6-0	160	So.	Mayer, Minn.	Mayer Lutheran HS
-40	Andres Finlayson	LB	6-0	215	Jr.	Gilbert, Ariz.	Williams Field HS
-42	Christian Arteaga	LB/TE	6-0	221	So.	Corcoran, Minn.	St. Louis Park HS
-43	Treyten Horstman	DB	6-0	185	So.	Mesa, Ariz.	Valley Christian HS
+32	Matty Horne	DB	6-4	192	Sr.	Fremont, Calif.	Elk Grove HS / Sierra College
+32	Carter Seime	QB	5-10	180	Fr.	Big Lake, AK	Houston HS
+33	Chris Taylor	RB	5-11	228	Jr.	Fort Worth, TX	
+34	Max Larson	DB	5-11	195	R-Fr.	Wasilla, AK	Wasilla HS
+34	Braylon Rach	RB	5-10	220	Fr.	Perham, MN	Perham HS
+35	Luke Dockter	LB	6-2	225	Fr.	Bismarck, ND	Bismarck HS
+36	Cochese Bradshaw	DB	6-3	195	Jr.	Crenshaw, CA	
+38	Isaac Emmel	DB	6-0	190	Fr.	Bismarck, ND	Shiloh Christian HS
+38	John West	DB	5-9	160	So.	Glendale, Ariz.	Deer Valley HS
+39	Abram Jopp	DB	6-2	190	So.	Mayer, Minn.	Mayer Lutheran HS
+40	Andres Finlayson	LB	6-0	225	Jr.	Gilbert, Ariz.	Williams Field HS
+41	Xavier Breckenridge	RB	5-11	215	Fr.	Billings, MT	Billings Central Catholic HS
+42	Christian Arteaga	LB	6-0	255	So.	Corcoran, Minn.	St. Louis Park HS
 44	Maxwell Larson	LS/TE	6-4	240	R-Fr.	Wasilla, Alaska	Wasilla HS
-46	Dominic Mazzulla	TE	6-0	230	So.	Thornton, Colo.	Holy Family HS
+45	Christian Jangula	K/P	6-0	190	Fr.	Bismarck, ND	Century HS
+46	Dominic Mazzulla	TE/FB	6-0	245	So.	Thornton, Colo.	Holy Family HS
 47	Lane Caraballo	TE	6-3	220	So.	Wildrose, N.D.	Divide County HS
 48	Ryan Woroniecki	LB	6-1	211	Gr.	Hebron, N.D.	Richardton-Taylor HS
-50	Cameron Brusven	LB	6-0	205	R-Fr.	Plentywood, Mont.	Plentywood HS
-53	Nica Shelton	LB	6-2	209	R-Fr.	Las Vegas, Nev.	Centennial HS
+49	Christopher Federico	LB	5-11	240	So.	Henderson, Nev.	Silverado HS
+51	Javon Maxey	DL	6-1	235	Fr.	Gilbert, AZ	Williamsfield HS
+53	Cameron Brusven	LB	6-0	215	R-Fr.	Plentywood, Mont.	Plentywood HS
 54	Cayden Floyd	LB	6-3	210	So.	Buffalo, S.D.	Harding County HS
-56	Eli Heinrich	LB	5-10	210	Jr.	Kindred, N.D.	Kindred HS
+55	Leo Togia	OL	6-2	340	Jr.	Nu?uuli, American Samoa	
 57	Henry Florida	LB	5-11	210	So.	Watford City, N.D.	Watford City HS
-60	Owen Gress	OL	6-0	288	R-Fr.	Mandan, N.D.	Mandan HS
-61	Gage Hochhalter	OL	6-2	270	R-Fr.	Berthold, N.D.	Lewis & Clark HS
-62	Chris Frazier	OL	6-1	280	R-Fr.	Omaha, Neb.	Millard North HS
-63	Elliot Kooiker	OL	6-3	271	So.	Waukon, Iowa	Waukon HS
+58	Naveer Singh?Kaile	DL	6-1	252	Fr.	Everett, WA	Lake Stevens HS
+60	Owen Gress	OL	6-0	300	R-Fr.	Mandan, N.D.	Mandan HS
+62	Chris Frazier?Jr	OL	6-1	280	R-Fr.	Omaha, Neb.	Millard North HS
+63	Elliot Kooiker	OL	6-3	305	So.	Waukon, Iowa	Waukon HS
+64	Syeed Alkhatib	OL	6-5	301	Fr.	Gilbert, AZ	Williamsfield HS
 64	Jayden Sherwin	OL	6-0	265	R-Fr.	Bismarck, N.D.	Bismarck HS
-65	Carter Smith	OL	6-2	298	Jr.	Bismarck, N.D.	Legacy HS
-66	Donzell Howard	DL	5-11	245	Sr.	Florence, Ariz.	Casteel HS
-67	Liam Bannon	OL	6-1	290	Gr.	Glendale, Ariz.	Apollo HS
-68	Mika Fuamatu	OL	6-3	315	Sr.	Litchfield Park, Ariz.	Millennium HS
+65	Carter Smith	OL	6-3	315	Jr.	Bismarck, N.D.	Legacy HS
+66	Donzell Howard	DL	5-11	265	Sr.	Florence, Ariz.	Casteel HS
+67	Liam Bannon	OL	6-1	300	Gr.	Glendale, Ariz.	Apollo HS
+68	Mika Fuamatu	OL	6-3	320	Sr.	Litchfield Park, Ariz.	Millennium HS
 69	Grant Collins	DL	5-11	260	Sr.	Peoria, Ariz.	Liberty HS
-70	Bryce Cain	OL	6-7	293	R-Fr.	Fargo, N.D.	West Fargo Sheyenne, HS
-71	Henri Supenski	OL	6-2	275	So.	Papillion, Neb.	Papillion La Vista South HS
-72	Jaydon Coley	OL	6-4	277	Jr.	Moorhead, Minn.	Moorhead HS
+70	Bryce Cain	OL	6-7	320	R-Fr.	Fargo, N.D.	West Fargo Sheyenne, HS
+71	Henri Supenski	OL	6-2	293	So.	Papillion, Neb.	Papillion La Vista South HS
+72	Jaydon Coley	OL	6-4	300	Jr.	Moorhead, Minn.	Moorhead HS
 73	Melvin Hudson	OL	6-4	288	Sr.	Locust Grove, Ga.	Locust Grove HS
-74	Ian Oberfeld	OL	6-2	280	R-Fr.	Pierz, Minn,	Pierz Healy HS
-76	Carter Svobodny	OL	6-2	255	R-Fr.	Duluth, Minn.	Duluth East
-82	Ramsey Morrell	TE	6-2	220	R-Fr.	Mahtomedi, Minn.	Mahtomedi HS
-83	Luke Bodine	TE	6-2	210	R-Jr.	Plymouth, Minn.	Wayzata HS
-84	Ethan Heinrich	WR	6-2	210	So.	Chandler, Ariz.	Valley Christian HS
-85	Sean Saise	WR	6-3	175	So.	Chico, Calif.	Butte CC
-88	Karsyn Jablonski	WR	6-1	165	So.	Mandan, N.D,	Mandan HS
-90	Josh Obisui	DL	6-3	240	Sr.	Worcester, Mass.	Doherty Memorial / College of the Canyons
-91	Travis Biery	DL	6-1	240	So.	Sauk Rapids, Minn.	Sauk Rapids-Rice HS
-92	Steven Kennedy	DL	6-1	260	So.	Gilbert, Ariz.	Perry HS
-93	Caden Green	DL	6-2	300	Gr.	Rocklin, Calif.	Rocklin HS / Sierra College
-95	Ian Kopf	DL	6-4	240	Jr.	Walla Walla, Wash.	Walla Walla HS
+74	Ian Oberfeld	OL	6-2	290	R-Fr.	Pierz, Minn,	Pierz Healy HS
+75	Joseph Star	OL	6-3	295	Jr.	Coalinga, CA	West Hills Coalinga
+76	Carter Svobodny	OL	6-3	280	R-Fr.	Duluth, Minn.	Duluth East HS
+79	Noah Watson	OL	6-3	292	Fr.	Gilbert, AZ	Perry HS
+80	Trevor Pope	WR	6-3	186	R-Jr.	Tracy, CA	
+81	Keyton McGregor	WR	6-2	170	Fr.	West Fargo, ND	West Fargo HS
+82	Ramsey Morrell	TE	6-2	245	R-Fr.	Mahtomedi, Minn.	Mahtomedi HS
+83	Luke Bodine	TE	6-3	235	R-Jr.	Plymouth, Minn.	Wayzata HS
+84	Ethan Heinrich	TE	6-3	220	So.	Chandler, Ariz.	Valley Christian HS
+85	Sean Saise	WR	6-3	180	So.	Chico, Calif.	Butte CC
+86	Max Larson	TE	6-5	250	Fr.	Wasilla, AK	Wasilla HS
+87	Keiji Suggs	WR	6-2	165	Fr.	Chaska, MN	Holy Family Catholic HS
+88	Karsyn Jablonski	WR	6-1	175	So.	Mandan, N.D,	Mandan HS
+90	Josh Obisui	DL	6-4	250	Sr.	Worcester, Mass.	Doherty Memorial / College of the Canyons
+91	Travis Biery	DL	6-1	270	So.	Sauk Rapids, Minn.	Sauk Rapids-Rice HS
+92	Steven Kennedy	DL	6-1	305	So.	Gilbert, Ariz.	Perry HS
+94	Sam Schreiber	TE	6-3	235	Fr.	Mukwonago, WI	Chesterton Academy of Milwaukee
+95	Ian Kopf	DL	6-4	295	Jr.	Walla Walla, Wash.	Walla Walla HS
 96	Vegas George	DL	6-1	231	So.	Bismarck, N.D.	Legacy HS
 97	Brody Neill	DL	6-2	230	R-Fr.	Rapid City, S.D.	Rapid City Central HS
+98	Caden Green	DL	6-2	300	Gr.	Rocklin, Calif.	Rocklin HS / Sierra College
+98	Jack Henninger	K	6-5	200	Fr.	Sequim, WA	Sequim HS
 99	Adam Knowles	DL	6-1	260	So.	Gilbert, Ariz.	Perry HS
+00  Jaylen Martin	DB	6-3	180	Sr.	Los Angeles, CA	

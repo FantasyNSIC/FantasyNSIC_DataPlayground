@@ -1,70 +1,101 @@
-0	Sam Pitz	TE	6-6	245	Gr.	Appleton, Wis. / Appleton West H.S.		
-4	Andrew Klopp	LB	6-3	230	Gr.	Baldwin, Wis. / Baldwin-Woodville H.S.		
-7	Cole Ewald	WR	6-2	205	R-Sr.	Hopkins, Minn. / St. Louis Park H.S.	Upper Iowa	
-8	Brian Konz	DE	6-4	240	Gr.	Burlington, Wis. / Burlington H.S.		
-9	Jacob Eggert	QB	6-2	195	R-So.	Mankato, Minn. / Mankato East H.S.		
-9	Joey Krouse	DB	5-11	190	R-Fr.	Savage, Minn. / Prior Lake H.S.		
-10	Jacob Mogensen	DB	5-10	190	Sr.	Waukesha, Wis. / Elkhorn H.S.		
-10	Alex Riley	RB	6-0	205	R-Fr.	Waconia, Minn. / Waconia H.S.		
-11	DaShaun Ames	WR	6-1	200	R-Jr.	Cumberland, Wis. / Cumberland H.S.		
-12	Kyle Walljasper	QB	6-1	240	R-Jr.	Fond du Lac, Wis. / Fond du Lac H.S.		
-15	Alex Sylvester	DB	5-11	180	R-Jr.	Green Bay, Wis. / Bay Port H.S.		
-16	AJ Boarman	QB	6-4	205	R-Fr.	Minneapolis, Minn. / Academy of Holy Angels H.S.				
-18	Ben Vallafskey	RB	5-11	185	So.	Appleton, Wis. / Appleton West H.S.		
-19	Tyler Collien	WR	6-0	195	R-Jr.	Fond du Lac, Wis. / Fond du Lac H.S.		
-19	Jonathan Shrum	DB	5-11	190	R-Fr.	Farmington, Minn. / Farmington H.S.		
-20	Eyoel Desalegn	DB	6-0	175	R-Jr.	Las Vegas, Nev. / Spring Valley H.S.		
-21	Brady Herbst	LB	6-4	222	Sr.	Superior, Wis. / Superior H.S.		
-22	Mac Strand	LB	6-0	229	Sr.	Appleton, Wis. / Xavier H.S.		
-23	Daniel Mitchell	RB	5-10	193	Sr.	Las Vegas, Nev. / Arbor View H.S.		
-25	Kenny Stevenson	DB	6-2	190	R-Jr.	San Diego, Calif. / SMSU		
-26	Najeh Mitchell	RB	5-10	170	R-Fr.	De Pere, Wis. / West De Pere H.S.		
-27	Royasen Mokiao	LB	6-0	221	R-So.	Las Vegas, Nev. / Shadow Ridge H.S.		
-28	Zach Wallace	DB	5-10	205	R-Jr.	Burlington, Wis. / Burlington H.S.		
-29	Preston McQueen	DB	6-3	175	R-Fr.	Henderson, Nev. / Coronado H.S.		
-31	Aidyn Vondra	DB	5-9	190	R-Fr.	Brodhead, Wis. / Brodhead H.S.		
-32	Jarrett Bennett	DB	5-11	190	R-So.	St. Michael, Minn. / St. Michael-Albertville H.S.		
-33	Nathan Litke	TE	6-0	220	R-So.	Spring Lake Park, Minn. / Spring Lake Park H.S.		
-35	Nick Ojile	TE	6-2	223	R-So.	Blaine, Minn. / Spring Lake Park H.S.		
-37	Trace Bowman	TE	6-5	260	R-Fr.	Prior Lake, Minn. / Prior Lake H.S.		
-38	David Gauderman	DE	6-3	225	R-Fr.	Wittenberg, Wis. / Wittenberg-Birnamwood H.S.		
-40	Ross Rivord	LB	6-2	230	R-So.	Superior, Wis. / Superior H.S.		
-41	Caden Healy	ILB	6-4	190	R-Fr.	Athens, Wis. / Colby H.S.		
-42	Luke Humbert	LB	6-2	220	R-Jr.	Cold Spring, Minn. / Rocori H.S.		
-43	Landon Carter	DE	6-3	226	Sr.	Lakeville, Minn. / Lakeville North H.S.		
-45	Logan Kobus	P	6-6	230	Sr.	Green Bay, Wis. / Pulaski H.S.		
-47	Nate Branch	TE	6-3	222	R-Fr.	Palatine, Ill. / Palatine, H.S.		
-48	Luke Danielski	LB	6-3	235	R-Jr.	Waukesha, Wis. / Kettle Moraine H.S.		
-50	Gavin Skelton	LB	6-2	223	R-Jr.	Aurora, Minn. / Mesabi East H.S.		
-51	Jayce Walrath	LB	6-2	235	R-So.	Rice, Minn. / Sauk Rapids-Rice H.S.		
-52	Blake Gode	OLB	6-4	250	R-So.	Lakeville, Minn. / Lakeville North H.S.		
-53	Jakob Aarsvold	LB	6-6	230	R-Jr.	Rochester, Minn. / Kasson-Mantorville H.S.		
-56	Drew Hennessey	DE	6-3	242	Gr.	Highland, Wis. / Highland H.S.		
-57	Carter Loesch	DE	6-3	245	Jr.	Sauk Rapids, Minn. / Sauk Rapids-Rice H.S.		
-58	Ty Neils	LB	6-2	205	So.	Mankato, Minn. / Mankato West H.S.		
-60	Ethan Jauquet	OL	6-4	290	R-Jr.	Muskego, Wis. / Muskego H.S.		
-62	Jake Raines	OL	6-1	275	R-Jr.	St. Paul, Minn. / Woodbury H.S.		
-63	Leo Smalley	OL	6-2	285	So.	Chaska, Minn. / Chaska H.S.		
-64	Zach Johnson	OL	6-4	290	So.	St. Louis Park, Minn. / St. Louis Park H.S.		
-67	Liam Fahey	OL	6-2	295	Gr.	Sobieski, Wis. / Pulaski H.S.		
-69	Justin Hull	OL	6-3	305	Gr.	West Chicago, Ill. / St. Charles East H.S.		
-70	Wesley Sauvao	OL	6-3	295	So.	Henderson, Nev. / Liberty H.S.		
-71	Aiden Williams	OL	6-6	295	Gr.	Anchorage, Alaska / East Anchorage H.S.		
-73	Ethan Sam	OL	6-4	285	So.	Plainfield, Ill. / Plainfield North H.S.		
-75	Tait Kongsjord	OL	6-5	285	R-So.	Talmoon, Minn. / Deer River H.S.		
-77	Carter Geerts	OL	6-3	290	R-Fr.	Rochester, Minn. / Byron H.S.		
-78	Joey Grillo	OL	6-4	295	R-Jr.	Burnsville, Minn. / Lakeville North H.S.		
-81	Curtis Cox	PK	6-1	185	Gr.	Dodgeville, Wis. / Mineral Point H.S.		
-82	Jimmy Durocher	WR	6-2	185	Sr.	St. Charles, Ill. / St. Charles North	UW-Platteville	
-83	Alex Schramm	WR	5-11	171	R-So.	Willmar, Minn. / Willmar H.S.		
-84	Ryder Patterson	WR	5-10	185	R-Fr.	Lakeville, Minn. / Lakeville South H.S.		
-85	Joel Forgacs	TE	6-4	250	Gr.	Livonia, Mich. / Livonia Churchill H.S.		
-88	Chuck Gilbert?III	WR	6-3	190	R-Fr.	Bloomington, Minn. / Academy of Holy Angels H.S.		
-89	Joey Flaherty	WR	6-2	190	R-Fr.	Oak Creek, Wis. / Oak Creek H.S.		
-89	Tayvion McCoy	WR	6-0	180	R-Fr.	Inver Grove Heights, Minn. / Simley H.S.		
-90	Mason Wilson	DT	6-4	261	R-So.	Oakdale, Minn. / Stillwater H.S.		
-91	Jacob Kaszuba	DE	6-5	250	Sr.	Neenah, Wis. / Neenah HS	Northern State	
-93	John Barrow	DE	6-2	310	R-Fr.	Minneapolis, Minn. / Robbinsdale Cooper H.S.		
-94	Cassius Rohadfox	DT	6-1	287	R-Jr.	Sheboygan, Wis. / Sheboygan North H.S.		
-95	Allen Pearson?Jr.	DT	6-0	290	Fr.	Maplewood, Minn. / Tartan H.S.		
-98	Drew Henson	K/P	6-6	200	R-Fr.	Owatonna, Minn. / Owatonna H.S.
+0	Sam Pitz	TE	6-6	245	Gr.	Appleton, Wis.	Appleton West H.S.	
+1	Lonell Boyd?Jr.	DB	5-10	195	Gr.	St. Louis, Mo.	Christian Brothers H.S.	Morningside University
+2	Kenny Stevenson	DB	6-2	190	R-Jr.	San Diego, Calif.	Lincoln H.S.	SMSU
+3	Cole Ewald	WR	6-2	205	R-Sr.	Hopkins, Minn.	St. Louis Park H.S.	Upper Iowa
+4	Derrick Johnson	RB	6-0	200	R-So.	Austin, Texas	Lake Travis H.S.	South Dakota State
+4	Andrew Klopp	LB	6-3	230	Gr.	Baldwin, Wis.	Baldwin-Woodville H.S.	
+5	Joey Flaherty	WR	6-2	190	R-Fr.	Oak Creek, Wis.	Oak Creek H.S.	
+6	Ben Vallafskey	RB	5-11	185	So.	Appleton, Wis.	Appleton West H.S.	
+7	Jonathan Shrum	DB	5-11	190	R-Fr.	Farmington, Minn.	Farmington H.S.	
+8	Eyoel Desalegn	DB	6-0	175	R-Jr.	Las Vegas, Nev.	Spring Valley H.S.	
+9	Jacob Eggert	QB	6-2	195	R-So.	Mankato, Minn.	Mankato East H.S.	
+9	Joey Krouse	DB	5-11	190	R-Fr.	Savage, Minn.	Prior Lake H.S.	
+10	Jacob Mogensen	DB	5-10	190	Sr.	Waukesha, Wis.	Elkhorn H.S.	
+10	Alex Riley	RB	6-0	205	R-Fr.	Waconia, Minn.	Waconia H.S.	
+11	DaShaun Ames	WR	6-1	200	R-Jr.	Cumberland, Wis.	Cumberland H.S.	
+12	Jackson Berg	DB	6-0	185	Fr.	Eau Claire	Altoona H.S	
+12	Kyle Walljasper	QB	6-1	240	R-Jr.	Fond du Lac, Wis.	Fond du Lac H.S.	
+13	Carter Bowe	DB	5-10	175	Fr.	Chippewa Falls, Wis.	Chippewa Falls H.S	
+13	Austin Randall	QB	6-0	190	Fr.	Waconia, Minn.	Waconia H.S	
+14	Isaiah Hampton	DB	6-1	175	R-So.	Las Vegas, Nev.	Liberty H.S.	
+15	Alex Sylvester	DB	5-11	180	R-Jr.	Green Bay, Wis.	Bay Port H.S.	
+16	AJ Boarman	QB	6-4	205	R-Fr.	Minneapolis, Minn.	Academy of Holy Angels H.S.	
+17	Chuck Gilbert?III	WR	6-3	190	R-Fr.	Bloomington, Minn.	Academy of Holy Angels H.S.	
+18	Jimmy Durocher	WR	6-2	185	Sr.	St. Charles, Ill.	St. Charles North	UW-Platteville
+18	Alex Schramm	DB	5-11	171	R-So.	Willmar, Minn.	Willmar H.S.	
+19	Tyler Collien	WR	6-0	195	R-Jr.	Fond du Lac, Wis.	Fond du Lac H.S.	
+20	Jarrett Bennett	DB	5-11	190	R-So.	St. Michael, Minn.	St. Michael-Albertville H.S.	
+20	Tanner Schmidt	WR	5-11	180	Fr.	Stillwater, Minn.	Stillwater H.S	
+21	Brady Herbst	LB	6-4	222	Sr.	Superior, Wis.	Superior H.S.	
+22	Mac Strand	LB	6-0	229	Sr.	Appleton, Wis.	Xavier H.S.	
+23	Daniel Mitchell	RB	5-10	193	Sr.	Las Vegas, Nev.	Arbor View H.S.	
+24	Aidyn Vondra	DB	5-9	190	R-Fr.	Brodhead, Wis.	Brodhead H.S.	
+25	Brock Unger	CB	5-9		Jr.	New Richmond, Wis.	New Richmond H.S.	Minnesota State Track and Field
+26	Ben Lindley	RB	6-0	185	Fr.	Waunakee, Wis.	Waunakee H.S	
+27	Tyrone McCoy	DB	6-2	185	Jr.	Las Vegas, Nevada	Centennial H.S.	Santa Barbara CC
+28	Zach Wallace	DB	5-10	205	R-Jr.	Burlington, Wis.	Burlington H.S.	
+29	Preston McQueen	DB	6-3	175	R-Fr.	Henderson, Nev.	Coronado H.S.	
+30	Terae Dunn	DB	5-11		Fr.	Chaska, Minn.	Eden Prairie H.S	
+31	Luke Dehnicke	TE	6-3		Fr.	Andover, Minn.	Andover H.S	
+32	Francis O'Malley	TE	6-0	235	Fr.	Montevideo, Minn.	Montevideo Senior H.S	
+33	Nathan Litke	TE	6-0	220	R-So.	Spring Lake Park, Minn.	Spring Lake Park H.S.	
+34	Nate Branch	TE	6-3	222	R-Fr.	Palatine, Ill.	Palatine, H.S.	
+35	Nick Ojile	TE	6-2	223	R-So.	Blaine, Minn.	Spring Lake Park H.S.	
+36	Sam Wenzel	TE	6-6	220	Fr.	Elk Mound, Wis.	Elk Mound H.S	
+37	Jake Bova	DB	6-2	175	Fr.	Waunakee, Wis.	Waunakee H.S	
+38	David Gauderman	DE	6-3	225	R-Fr.	Wittenberg, Wis.	Wittenberg-Birnamwood H.S.	
+39	Drew Henson	K/P	6-6	200	R-Fr.	Owatonna, Minn.	Owatonna H.S.	
+40	Ross Rivord	LB	6-2	230	R-So.	Superior, Wis.	Superior H.S.	
+41	Caden Healy	LB	6-4	210	R-Fr.	Athens, Wis.	Colby H.S.	
+42	Luke Humbert	LB	6-2	220	R-Jr.	Cold Spring, Minn.	Rocori H.S.	
+43	Landon Carter	DE	6-3	226	Sr.	Lakeville, Minn.	Lakeville North H.S.	
+44	Jack Ploeckelman	DB	6-0	190	Fr.	Muskego, Wis.	Muskego H.S	
+45	Logan Kobus	P	6-6	230	Sr.	Green Bay, Wis.	Pulaski H.S.	
+46	Ean Ackley	LB	6-1	215	Fr.	Madison, Wis.	Sun Prairie West H.S	
+47	Matt Marusich	DB	6-1	190	Fr.	Barrington, Ill.	BarringtonH.S	
+48	Luke Danielski	LB	6-3	235	R-Sr.	Waukesha, Wis.	Kettle Moraine H.S.	
+49	Trent Nitek	DB	6-1	160	Fr.	Holcombe, Wis.	Lake Holcombe H.S	
+50	Gavin Skelton	LB	6-2	223	R-Jr.	Aurora, Minn.	Mesabi East H.S.	
+51	Jayce Walrath	LB	6-2	235	R-So.	Rice, Minn.	Sauk Rapids-Rice H.S.	
+52	Blake Gode	OLB	6-4	250	R-So.	Lakeville, Minn.	Lakeville North H.S.	
+53	Jakob Aarsvold	LB	6-6	230	R-Jr.	Rochester, Minn.	Kasson-Mantorville H.S.	
+54	Zachary Bentler	DL	6-4	240	Fr.	Two Harbors, Minn.	Two Harbors H.S	
+55	Allen Pearson?Jr.	DT	6-0	290	Fr.	Maplewood, Minn.	Tartan H.S.	
+56	Drew Hennessey	DE	6-3	242	Gr.	Highland, Wis.	Highland H.S.	
+57	Carter Loesch	DE	6-3	245	Jr.	Sauk Rapids, Minn.	Sauk Rapids-Rice H.S.	
+58	Ty Neils	LB	6-2	205	So.	Mankato, Minn.	Mankato West H.S.	
+59	Matthew Heinen	LB	6-1	210	Fr.	Champlin, Minn.	Champlin Park H.S	
+60	Ethan Jauquet	OL	6-4	290	R-Jr.	Muskego, Wis.	Muskego H.S.	
+61	Dylan Christie	OL	6-5	260	Fr.	Saint Croix Falls, Wis.	Saint Croix Falls High School	
+62	Jake Raines	OL	6-1	275	R-Jr.	St. Paul, Minn.	Woodbury H.S.	
+64	Zach Johnson	OL	6-4	290	R-Fr.	St. Louis Park, Minn.	St. Louis Park H.S.	
+65	David Lundstrom	OL	6-4	295	Fr.	Duluth, Minn.	Duluth East H.S	
+66	Tait Anderberg	OL	6-7	265	Fr.	Lakeville, Minn.	Lakeville North H.S	
+67	Liam Fahey	OL	6-2	295	Gr.	Sobieski, Wis.	Pulaski H.S.	
+67	Stanley Smith	DL	6-3	220	Fr.	Green Bay, Wis.	Notre Dame Academy	
+68	Max Stuhlmacher	OL	6-3	270	Fr.	Fox Point, Wis.	Nicolet H.S	
+69	Justin Hull	OL	6-3	305	Gr.	West Chicago, Ill.	St. Charles East H.S.	
+71	Aiden Williams	OL	6-6	295	6th	Anchorage, Alaska	East Anchorage H.S.	
+73	Ethan Sam	OL	6-4	285	R-Fr.	Plainfield, Ill.	Plainfield North H.S.	
+74	Leo Smalley	OL	6-2	285	R-Fr.	Chaska, Minn.	Chaska H.S.	
+75	Tait Kongsjord	OL	6-5	285	R-So.	Talmoon, Minn.	Deer River H.S.	
+76	Jae'Shaun Thomas	OL	6-4	285	Fr.	Milwaukee, Wis.	Catholic Memorial H.S	
+77	Carter Geerts	OL	6-3	290	R-Fr.	Rochester, Minn.	Byron H.S.	
+78	Joey Grillo	OL	6-4	295	R-So.	Burnsville, Minn.	Lakeville North H.S.	
+80	Peyton Menzel	WR	6-0	180	Fr.	Hermantown, Minn.	Hermantown H.S	
+81	Curtis Cox	PK	6-1	185	Gr.	Dodgeville, Wis.	Mineral Point H.S.	
+82	Catcher Langeness	WR	5-10	170	Fr.	New Richmond, Wis.	New Richmond H.S	
+83	Nick Kihn	WR	5-10		Fr.	Sussex, Wis.	Sussex Hamilton H.S	
+84	Ryder Patterson	WR	5-10	185	R-Fr.	Lakeville, Minn.	Lakeville South H.S.	
+85	Joel Forgacs	TE	6-4	250	Gr.	Livonia, Mich.	Livonia Churchill H.S.	
+86	Ben Fritsch	WR	6-0	180	Fr.	Port Washington, Wis.	Port Washington H.S	
+87	Trace Bowman	TE	6-5	260	R-Fr.	Prior Lake, Minn.	Prior Lake H.S.	
+88	Isaac Steinke	TE	6-5	215	Fr.	Fall Creek, Wis.	Fall Creek H.S	
+89	David Emerich	WR	5-8	170	Fr.	Waunakee, Wis.	Waunakee H.S	
+90	Mason Wilson	DT	6-4	261	R-So.	Oakdale, Minn.	Stillwater H.S.	
+91	Jacob Kaszuba	DE	6-5	250	Sr.	Neenah, Wis.	Neenah HS	Northern State
+92	Trey Bixby	DL	6-4	250	Fr.	Eden Prairie, Minn.	Eden Prairie H.S.	University of Minnesota
+93	John Barrow	DT	6-2	310	R-Fr.	Minneapolis, Minn.	Robbinsdale Cooper H.S.	
+94	Cassius Rohadfox	DT	6-1	287	R-Jr.	Sheboygan, Wis.	Sheboygan North H.S.	
+95	Matt Weerts	DE	6-1	237	Jr.	Batavia, Ill.	Batavia H.S.	North Dakota State
+97	Mark Rendl	DL	6-3	225	Fr.	Wyoming, Minn.	Forest Lake H.S	
