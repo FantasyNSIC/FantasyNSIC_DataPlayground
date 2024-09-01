@@ -18,7 +18,7 @@ def update_waiver_priority(league_id):
         results = cur.fetchall()
 
         # Sort records by fewest losses, then by wins, then by points scored
-        sorted_records = sorted(results, key=lambda x: (-x[2], x[1], x[3]))
+        sorted_records = sorted(results, key=lambda x: (-x[2], x[1], x[3], -x[4]))
 
         # Create JSON and update waiver priority.
         new_priority = [{"priority": i, "user_team_id": record[0]} for i, record in enumerate(sorted_records, start=1)]
