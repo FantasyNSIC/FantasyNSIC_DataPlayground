@@ -1,0 +1,21 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Boyd,Latravious 7 141 0 141 2 95 20.1
+Forgy,Dawson 12 81 1 80 0 30 6.7
+Bohn,Nick 3 31 0 31 0 13 10.3
+Jones,Jason 2 5 1 4 0 5 2.0
+Dannenbring,Bennett 1 0 0 0 0 0 0.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Bohn,Nick 7 14 113 3 1 47 0
+Dannenbring,Bennett 1 3 80 1 0 80 0
+
+Receiving Rec. Yds TD Long.
+Bonderson,Keaten 1 80 1 80
+Marshall,Trevor 2 44 0 47
+Witte,Curtis 1 29 1 29
+Watkins-Hogue,Kendrick 2 24 1 21
+Johnson,Jadon 2 16 1 11
+McPherson,DJ 0 0 0 0
+Andrews,Colton 0 0 0 0
+Knox,Akeem 0 0 0 0
+Phelps,Alex 0 0 0 0

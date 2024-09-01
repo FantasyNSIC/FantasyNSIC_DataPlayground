@@ -1,29 +1,16 @@
-INSERT INTO player_stats_{current_week} (
-    player_id,
-    rush_att,
-    rush_yds,
-    rush_avg,
-    rush_td,
-    pass_comp,
-    pass_att,
-    pass_yds,
-    pass_td,
-    pass_int,
-    recieve_rec,
-    recieve_yds,
-    recieve_td)
-VALUES (
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s,
-    %s);
+UPDATE player_stats_{current_week}
+SET 
+    rush_att = %s,
+    rush_yds = %s,
+    rush_avg = %s,
+    rush_td = %s,
+    pass_comp = %s,
+    pass_att = %s,
+    pass_yds = %s,
+    pass_td = %s,
+    pass_int = %s,
+    recieve_rec = %s,
+    recieve_yds = %s,
+    recieve_avg = %s,
+    recieve_td = %s
+WHERE player_id = %s;

@@ -1,19 +1,19 @@
 Rushing Att. Gain Loss Net TD Lg. Avg.
-Trandahl,Andrew 13 32 4 28 0 9 2.2
-Bankhead,Amir 6 25 0 25 0 6 4.2
-Massoud,Sofian 7 23 10 13 0 11 1.9
-Moore,Jeremiah 5 14 3 11 0 6 2.2
+Bankhead,Amir 11 36 2 34 0 11 3.1
+Trandahl,Andrew 8 27 0 27 0 8 3.4
+Massoud,Sofian 6 22 13 9 0 11 1.5
+Avinger,Lucky 2 1 0 1 0 1 0.5
+Mahe,Tuakoi 1 0 1 -1 0 0 -1.0
 
 Passing Cmp Att. Yds. TD INT Long Sack
-Massoud,Sofian 11 13 92 1 0 18 2
-Forknell,Jesse 6 7 52 0 0 17 0
+Massoud,Sofian 21 25 178 1 1 68 1
 
 Receiving Rec. Yds TD Long.
-Rufai,Mujeeb 5 52 1 18
-Dyson,Traivon 5 46 0 17
-Bodine,Luke 2 15 0 9
-Young,Jaxon 1 11 0 11
-Gapen,Collin 1 9 0 9
-Arteaga,Christian 1 8 0 8
-Trandahl,Andrew 1 3 0 3
-Moore,Jeremiah 1 0 0 0
+Jablonski,Karsyn 1 68 1 68
+Bankhead,Amir 4 43 0 17
+Rufai,Mujeeb 4 30 0 16
+Trandahl,Andrew 6 29 0 22
+Larson,Maxwell 1 6 0 6
+Young,Jaxon 2 5 0 4
+Butler,Kevin 0 0 0 0
+Washington,Kalani 3 -3 0 0

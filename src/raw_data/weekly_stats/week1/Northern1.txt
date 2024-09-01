@@ -1,0 +1,22 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Kraft,Hank 11 71 3 68 0 42 6.2
+Smith,Noah 5 33 1 32 0 16 6.4
+Britt,Daniel 8 37 17 20 0 24 2.5
+Block,Wyatt 6 16 0 16 0 8 2.7
+Haskins?Jr.,Stanley 8 15 2 13 0 5 1.6
+Schloe,Jacob 0 0 0 0 0 0 0.0
+Hackel,Colton 2 0 2 -2 0 0 -1.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Britt,Daniel 8 11 60 0 1 16 1
+Hackel,Colton 0 2 0 0 1 0 0
+
+Receiving Rec. Yds TD Long.
+Branson,Tanner 2 25 0 16
+Giesler,Gavin 2 16 0 15
+Van?Landingham,Jacob 2 9 0 5
+Haskins?Jr.,Stanley 1 9 0 9
+Kraft,Hank 1 1 0 1
+Wiley,Ty 0 0 0 0
+Scott,Julian 0 0 0 0
+Smith,Noah 0 0 0 0

@@ -86,7 +86,9 @@ def main(week_num, team_name):
         line = line.replace('NaN', '0.0')
         line = line.split()
         # Calculate recieve_avg
-        recieve_avg = round(float(line[3]) / int(line[2]), 1)
+        recieve_avg = 0.0
+        if int(line[2]) != 0:
+            recieve_avg = round(float(line[3]) / int(line[2]), 1)
         newEntry = [
             line[1],    # first_name
             line[0],    # last_name
