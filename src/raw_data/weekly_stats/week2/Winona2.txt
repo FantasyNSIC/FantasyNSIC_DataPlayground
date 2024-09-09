@@ -1,0 +1,22 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Gavin,Ty 6 36 0 36 0 18 6.0
+Pringle,Quentin 9 30 0 30 0 7 3.3
+Hendred,Cair'ron 4 29 0 29 1 18 7.3
+Holcomb,Cayden 3 17 4 13 0 11 4.3
+Flottmeyer,Jackson 2 10 0 10 0 9 5.0
+Stenstrom,Cole 6 4 19 -15 0 4 -2.5
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Stenstrom,Cole 20 38 295 1 2 63 3
+Flottmeyer,Jackson 1 1 12 0 0 12 0
+
+Receiving Rec. Yds TD Long.
+Campbell,Sylvere 5 130 1 56
+Curtin,Jim 3 81 0 63
+Holcomb,Cayden 4 43 0 28
+Skelly,Kaleb 3 21 0 14
+Gavin,Ty 4 17 0 6
+Pringle,Quentin 1 12 0 12
+Knoll,Easton 1 3 0 3
+Geurink,Colton 0 0 0 0
+Durst,James 0 0 0 0

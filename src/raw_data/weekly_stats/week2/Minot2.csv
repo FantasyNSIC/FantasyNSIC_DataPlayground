@@ -1,0 +1,9 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Erik,Palmquist,10,89,8.9,2,,,,,,0,0,0.0,0
+Evan,Lovett,16,37,2.3,0,,,,,,,,,
+Carson,Chrisman,6,34,5.7,0,3,6,32,0,0,,,,
+Tyler,Stonebraker,8,28,3.5,0,,,,,,,,,
+Sam,Buckhanan,4,14,3.5,0,,,,,,,,,
+Devan,Daniels,3,1,0.3,0,,,,,,,,,
+Aiden,George,,,,,,,,,,3,32,10.7,0
+Johnny,Bellino,,,,,,,,,,0,0,0.0,0

@@ -1,0 +1,23 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Ridgeway,Fynn 7 33 2 31 0 19 4.4
+Brandt,Tyson 4 13 1 12 0 7 3.0
+Imdieke,Luke 1 1 0 1 0 1 1.0
+O'Brien,Brooks 0 0 0 0 0 0 0.0
+Strand,Jack 8 5 27 -22 0 4 -2.8
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Strand,Jack 21 46 300 2 2 58 3
+Falk,Tommy 1 2 2 0 0 2 0
+
+Receiving Rec. Yds TD Long.
+Florence,Gage 7 114 0 27
+Perryman,Brady 4 109 1 58
+Ridgeway,Fynn 4 36 1 15
+Thorson,Madden 3 21 0 10
+Elbert,Carson 2 17 0 14
+Imdieke,Luke 1 3 0 3
+Johnson,Kelly 1 2 0 2
+Wiersma,Owen 0 0 0 0
+Brandt,Tyson 0 0 0 0
+Czech,JD 0 0 0 0
+Borgen,Brady 0 0 0 0

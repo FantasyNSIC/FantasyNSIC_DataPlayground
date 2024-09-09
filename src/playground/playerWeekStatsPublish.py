@@ -63,9 +63,12 @@ def main(week_num, team_name):
             sql_temp = query.read()
         sql = sql_temp.format(current_week=current_week)
         for index, row in stats_df.iterrows():
-            cur.execute("SELECT player_id FROM player_stats_2023 WHERE player_id = %s", (row['player_id'],))
-            if cur.fetchone() is None:
-                cur.execute(sql, tuple(row))
+            cur.execute("SELECT player_id FROM player_stats_week_%s WHERE player_id = %s", (week_num, row['player_id'],))
+            if cur.fetchone() is not None:
+                cur.execute(sql, (row['rush_att'], row['rush_yds'], row['rush_avg'], row['rush_td'],
+                            row['pass_comp'], row['pass_att'], row['pass_yds'], row['pass_td'],
+                            row['pass_int'], row['recieve_rec'], row['recieve_yds'], row['recieve_avg'],
+                            row['recieve_td'], row['player_id']))
                 print(f"Player added to weekly stats: {row['player_id']}")
             else:
                 print(f"Player already in weekly stats: {row['player_id']}")
