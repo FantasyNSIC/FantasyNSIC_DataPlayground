@@ -1,0 +1,21 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Richardson,Jaylin 20 137 6 131 0 33 6.6
+Hornacek,Daniel 4 46 0 46 1 20 11.5
+Washington,Jaylon 3 18 0 18 0 12 6.0
+Styer,Reed 5 20 8 12 0 10 2.4
+Ellison,Troy 1 4 0 4 1 4 4.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Styer,Reed 14 25 91 0 1 14 1
+
+Receiving Rec. Yds TD Long.
+Ryan,Carter 3 20 0 8
+Washington,Jaylon 2 16 0 13
+Ellison,Troy 2 15 0 14
+Hornacek,Daniel 1 9 0 9
+Udoibok,Peter 2 8 0 9
+Enke,Drew 1 6 0 6
+Corrigan,Russell 1 6 0 6
+Reynolds,Julius 1 6 0 6
+Dixon,Ricky 1 5 0 5
+Richardson,Jaylin 0 0 0 0

@@ -1,0 +1,22 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Lampkin,Rashad 6 26 0 26 0 16 4.3
+Grand,Max 4 13 2 11 0 9 2.8
+Epperson,Jarod 6 11 1 10 0 6 1.7
+Scholten,Thomas 3 7 6 1 0 7 0.3
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Bearth,Evan 8 17 92 0 0 31 2
+Scholten,Thomas 12 18 55 0 1 12 1
+Scholten,Sam 0 1 0 0 0 0 0
+
+Receiving Rec. Yds TD Long.
+Huber,Isaiah 5 53 0 31
+Bauer,Canyon 5 37 0 17
+Minor,Max 2 26 0 21
+Epperson,Jarod 4 21 0 12
+Francis,Matt 1 8 0 8
+Johnston,Austin 1 6 0 6
+Scholten,Sam 1 1 0 1
+Fisher,Jack 0 0 0 0
+Pecina,Jake 0 0 0 0
+Grand,Max 1 -5 0 0

@@ -1,0 +1,18 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Dean,Camden 7 72 0 72 1 22 10.3
+Rudningen,Dylan 10 42 0 42 0 9 4.2
+Grzybowski,Matt 10 31 0 31 0 7 3.1
+Tann?III,Carlson 3 16 0 16 0 8 5.3
+Nash,Christian 4 11 1 10 0 6 2.5
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Dean,Camden 18 25 297 4 1 43 0
+
+Receiving Rec. Yds TD Long.
+Slykhuis,Carter 8 178 1 43
+Brown?Jr.,Hank 2 67 2 36
+Leonard,Mark 1 20 0 20
+Yohnke,Travis 3 14 1 6
+Janis,Christian 2 13 0 12
+Taylor,Jaelon 1 5 0 5
+Rudningen,Dylan 1 0 0 0
