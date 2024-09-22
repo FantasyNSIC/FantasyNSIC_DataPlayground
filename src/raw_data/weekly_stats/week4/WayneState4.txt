@@ -1,0 +1,20 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Knox,Akeem 11 34 2 32 0 10 2.9
+Boyd,Latravious 5 17 0 17 0 6 3.4
+Forgy,Dawson 3 4 0 4 0 2 1.3
+Jones,Jason 1 1 0 1 0 1 1.0
+Petersen,Dane 0 0 0 0 0 0 0.0
+Bohn,Nick 10 34 49 -15 0 12 -1.5
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Bohn,Nick 17 30 208 4 0 52 4
+
+Receiving Rec. Yds TD Long.
+Watkins-Hogue,Kendrick 7 103 2 52
+Bonderson,Keaten 2 37 1 33
+Boyd,Latravious 1 26 1 26
+Schmaderer,Ashten 3 22 0 11
+Knox,Akeem 2 18 0 14
+Marshall,Trevor 1 5 0 5
+Johnson,Jadon 0 0 0 0
+McPherson,DJ 1 -3 0 0

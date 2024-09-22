@@ -1,0 +1,13 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Carl,Henry,5,36,7.2,0,,,,,,0,0,0.0,0
+Andrew,Trandahl,3,2,0.7,0,,,,,,0,0,0.0,0
+Amir,Bankhead,1,1,1.0,0,,,,,,,,,
+Solomon,Polo,Jordan,8,8,0,Jordan,4,7,22,0,,,,
+Lucky,Avinger,2,-2,-1.0,0,,,,,,,,,
+Jeremiah,Moore,5,-4,-0.8,0,,,,,,1,-2,-2.0,0
+Sofian,Massoud,10,-41,-4.1,0,10,20,78,0,2,,,,
+Mujeeb,Rufai,,,,,,,,,,8,82,10.2,0
+Jaxon,Young,,,,,,,,,,3,11,3.7,0
+Luke,Bodine,,,,,,,,,,2,9,4.5,0
+Malaki,Sik,,,,,,,,,,0,0,0.0,0
+Sean,Saise,,,,,,,,,,0,0,0.0,0

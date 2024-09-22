@@ -1,0 +1,22 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Henry,Carl 5 36 0 36 0 20 7.2
+Trandahl,Andrew 3 5 3 2 0 5 0.7
+Bankhead,Amir 1 1 0 1 0 1 1.0
+Polo Solomon,Jordan 4 8 8 0 0 8 0.0
+Avinger,Lucky 2 0 2 -2 0 0 -1.0
+Moore,Jeremiah 5 4 8 -4 0 2 -0.8
+Massoud,Sofian 10 14 55 -41 0 12 -4.1
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Massoud,Sofian 10 20 78 0 2 31 7
+Polo Solomon,Jordan 4 7 22 0 1 9 0
+
+Receiving Rec. Yds TD Long.
+Rufai,Mujeeb 8 82 0 31
+Young,Jaxon 3 11 0 5
+Bodine,Luke 2 9 0 5
+Trandahl,Andrew 0 0 0 0
+Sik,Malaki 0 0 0 0
+Henry,Carl 0 0 0 0
+Saise,Sean 0 0 0 0
+Moore,Jeremiah 1 -2 0 0
