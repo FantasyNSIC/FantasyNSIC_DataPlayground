@@ -1,0 +1,23 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Henry,Carl 6 20 1 19 0 11 3.2
+Avinger,Lucky 4 13 0 13 0 5 3.3
+Moore,Jeremiah 3 13 0 13 0 7 4.3
+Young,Jaxon 1 9 0 9 0 9 9.0
+Trandahl,Andrew 3 5 0 5 0 4 1.7
+Rufai,Mujeeb 1 5 0 5 0 5 5.0
+Butler,Kevin 1 3 0 3 0 3 3.0
+Yekini,Mustapha 1 2 0 2 0 2 2.0
+Washington,Kalani 1 2 0 2 0 2 2.0
+Massoud,Sofian 6 12 16 -4 0 9 -0.7
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Massoud,Sofian 20 28 128 1 1 24 3
+
+Receiving Rec. Yds TD Long.
+Bodine,Luke 6 89 1 24
+Trandahl,Andrew 5 24 0 10
+Rufai,Mujeeb 3 8 0 6
+Young,Jaxon 4 7 0 10
+Moore,Jeremiah 2 0 0 0
+Taylor,Chris 0 0 0 0
+Saise,Sean 0 0 0 0

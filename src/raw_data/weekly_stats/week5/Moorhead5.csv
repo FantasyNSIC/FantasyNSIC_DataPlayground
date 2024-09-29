@@ -1,0 +1,12 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Fynn,Ridgeway,3,3,1.0,0,,,,,,3,23,7.7,0
+Jake,Schneider,0,0,0.0,0,,,,,,,,,
+Luke,Imdieke,1,-1,-1.0,0,,,,,,7,30,4.3,1
+Tyson,Brandt,2,-1,-0.5,0,,,,,,1,12,12.0,0
+Jack,Strand,10,-2,-0.2,0,47,67,475,5,1,,,,
+Carson,Elbert,,,,,,,,,,9,135,15.0,1
+Gage,Florence,,,,,,,,,,12,102,8.5,0
+Brady,Perryman,,,,,,,,,,7,92,13.1,1
+Madden,Thorson,,,,,,,,,,6,66,11.0,2
+Kelly,Johnson,,,,,,,,,,1,11,11.0,0
+JD,Czech,,,,,,,,,,1,4,4.0,0

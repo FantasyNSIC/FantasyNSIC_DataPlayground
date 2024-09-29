@@ -1,0 +1,11 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Jarod,Epperson,12,101,8.4,1,,,,,,2,-3,-1.5,0
+Max,Grand,4,23,5.8,0,,,,,,2,5,2.5,0
+Gunnar,Hensley,5,14,2.8,0,24,36,311,4,3,,,,
+Austin,Johnston,1,9,9.0,0,,,,,,4,30,7.5,0
+Corbin,Wirkus,0,0,0.0,0,,,,,,,,,
+Jack,Fisher,,,,,,,,,,8,115,14.4,1
+Isaiah,Huber,,,,,,,,,,4,110,27.5,2
+Max,Minor,,,,,,,,,,3,50,16.7,1
+Sam,Scholten,,,,,,,,,,1,4,4.0,0
+Manny,Struck,,,,,,,,,,0,0,0.0,0

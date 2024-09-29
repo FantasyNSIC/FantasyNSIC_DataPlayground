@@ -1,0 +1,18 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Ben,Vallafskey,7,124,17.7,1,,,,,,1,-1,-1.0,0
+Ben,Lindley,10,63,6.3,1,,,,,,,,,
+Alex,Riley,6,38,6.3,0,,,,,,0,0,0.0,0
+Daniel,Mitchell,6,28,4.7,0,,,,,,,,,
+Aiden,Williams,1,11,11.0,1,,,,,,,,,
+Catcher,Langeness,1,9,9.0,0,,,,,,0,0,0.0,0
+AJ,Boarman,2,6,3.0,0,1,2,11,0,0,,,,
+Jacob,Eggert,1,5,5.0,1,3,4,60,1,0,,,,
+Ryder,Patterson,1,4,4.0,0,,,,,,,,,
+David,Emerich,1,3,3.0,0,,,,,,1,11,11.0,0
+Kyle,Walljasper,4,-22,-5.5,0,5,6,147,2,0,,,,
+Austin,Randall,,,,,0,1,0,0,0,,,,
+DaShaun,Ames,,,,,,,,,,3,138,46.0,2
+Chuck,Gilbert III,,,,,,,,,,1,53,53.0,1
+Sam,Pitz,,,,,,,,,,2,9,4.5,0
+Cole,Ewald,,,,,,,,,,1,8,8.0,0
+Nick,Ojile,,,,,,,,,,0,0,0.0,0

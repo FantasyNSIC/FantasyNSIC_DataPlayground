@@ -1,0 +1,29 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Vallafskey,Ben 7 124 0 124 1 61 17.7
+Lindley,Ben 10 67 4 63 1 44 6.3
+Riley,Alex 6 38 0 38 0 21 6.3
+Mitchell,Daniel 6 28 0 28 0 8 4.7
+Williams,Aiden 1 11 0 11 1 11 11.0
+Langeness,Catcher 1 9 0 9 0 9 9.0
+Boarman,AJ 2 11 5 6 0 11 3.0
+Eggert,Jacob 1 5 0 5 1 5 5.0
+Patterson,Ryder 1 4 0 4 0 4 4.0
+Emerich,David 1 3 0 3 0 3 3.0
+Walljasper,Kyle 4 0 22 -22 0 0 -5.5
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Walljasper,Kyle 5 6 147 2 0 66 2
+Eggert,Jacob 3 4 60 1 0 53 0
+Boarman,AJ 1 2 11 0 0 11 1
+Randall,Austin 0 1 0 0 0 0 0
+
+Receiving Rec. Yds TD Long.
+Ames,DaShaun 3 138 2 66
+Gilbert?III,Chuck 1 53 1 53
+Emerich,David 1 11 0 11
+Pitz,Sam 2 9 0 7
+Ewald,Cole 1 8 0 8
+Riley,Alex 0 0 0 0
+Ojile,Nick 0 0 0 0
+Langeness,Catcher 0 0 0 0
+Vallafskey,Ben 1 -1 0 0

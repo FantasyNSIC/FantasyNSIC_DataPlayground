@@ -1,0 +1,17 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Gavin,Ty 13 52 2 50 1 17 3.8
+Hendred,Cair'ron 12 48 1 47 1 11 3.9
+Stenstrom,Cole 8 15 9 6 0 8 0.8
+Curtin,Jim 1 5 0 5 0 5 5.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Stenstrom,Cole 13 23 196 1 1 44 3
+
+Receiving Rec. Yds TD Long.
+Campbell,Sylvere 5 87 0 38
+Curtin,Jim 3 61 0 44
+Johnson,Ty 2 31 0 22
+Sikma,Joe 2 17 1 9
+Skelly,Kaleb 0 0 0 0
+Gavin,Ty 1 0 0 0
+Pringle,Quentin 0 0 0 0

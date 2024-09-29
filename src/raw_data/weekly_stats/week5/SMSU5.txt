@@ -1,0 +1,26 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Honstetter,Jacob 11 23 9 14 0 8 1.3
+Wolf,Zander 6 11 3 8 0 6 1.3
+McMath,Stevie 1 4 0 4 0 4 4.0
+Krogman,Kendon 7 22 20 2 0 19 0.3
+Carver,Mason 1 0 0 0 0 0 0.0
+Taylor,Treay 2 0 5 -5 0 0 -2.5
+Kluender,Drew 8 5 24 -19 0 5 -2.4
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Krogman,Kendon 7 19 58 0 1 22 3
+Kluender,Drew 3 10 15 0 0 7 6
+
+Receiving Rec. Yds TD Long.
+Honstetter,Jacob 2 28 0 22
+Auten,Tryg 3 27 0 13
+Anderson,Jake 1 5 0 5
+Ola-Kazeem,David 1 4 0 4
+Abdi,Omar 1 4 0 4
+Wamsley,Jonathan 1 4 0 4
+Schafer,Greg 1 1 0 1
+Eddington,Cade 0 0 0 0
+Willis,Matt 0 0 0 0
+Taylor,Treay 0 0 0 0
+Walrath,Shaun 0 0 0 0
+McMath,Stevie 0 0 0 0

@@ -1,0 +1,19 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Epperson,Jarod 12 101 0 101 1 34 8.4
+Grand,Max 4 24 1 23 0 12 5.8
+Hensley,Gunnar 5 30 16 14 0 11 2.8
+Johnston,Austin 1 9 0 9 0 9 9.0
+Wirkus,Corbin 0 0 0 0 0 0 0.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Hensley,Gunnar 24 36 311 4 3 75 1
+
+Receiving Rec. Yds TD Long.
+Fisher,Jack 8 115 1 46
+Huber,Isaiah 4 110 2 75
+Minor,Max 3 50 1 34
+Johnston,Austin 4 30 0 13
+Grand,Max 2 5 0 3
+Scholten,Sam 1 4 0 4
+Struck,Manny 0 0 0 0
+Epperson,Jarod 2 -3 0 3
