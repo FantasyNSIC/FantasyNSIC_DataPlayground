@@ -1,0 +1,17 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Moore,Jeremiah 4 22 0 22 0 10 5.5
+Trandahl,Andrew 9 19 3 16 0 6 1.8
+Henry,Carl 8 12 5 7 0 6 0.9
+Massoud,Sofian 5 14 15 -1 0 8 -0.2
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Massoud,Sofian 17 30 102 1 1 20 3
+
+Receiving Rec. Yds TD Long.
+Rufai,Mujeeb 3 36 0 15
+Henry,Carl 2 20 0 17
+Trandahl,Andrew 4 18 0 14
+Jablonski,Karsyn 3 17 1 10
+Bodine,Luke 3 10 0 8
+Young,Jaxon 1 5 0 5
+Moore,Jeremiah 1 -4 0 0

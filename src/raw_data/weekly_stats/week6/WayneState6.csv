@@ -1,0 +1,12 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Akeem,Knox,20,113,5.7,1,,,,,,1,10,10.0,0
+Nick,Bohn,15,102,6.8,1,10,17,95,0,0,,,,
+Brennan,Hayes,6,68,11.3,2,,,,,,,,,
+Colton,Andrews,1,3,3.0,0,,,,,,,,,
+Kendrick,Watkins-Hogue,,,,,,,,,,2,42,21.0,0
+Jadon,Johnson,,,,,,,,,,2,26,13.0,0
+Ashten,Schmaderer,,,,,,,,,,1,13,13.0,0
+Dane,Petersen,,,,,,,,,,2,4,2.0,0
+Trevor,Marshall,,,,,,,,,,1,1,1.0,0
+Trey,Miller,,,,,,,,,,0,0,0.0,0
+Curtis,Witte,,,,,,,,,,1,-1,-1.0,0

@@ -1,0 +1,20 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Wolf,Zander 2 2 0 2 0 2 1.0
+Honstetter,Jacob 8 2 2 0 0 1 0.0
+Kluender,Drew 8 16 34 -18 0 8 -2.3
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Kluender,Drew 10 26 86 0 1 27 4
+
+Receiving Rec. Yds TD Long.
+Maher,Colin 1 27 0 27
+Eddington,Cade 1 14 0 14
+McMath,Stevie 2 10 0 8
+Ola-Kazeem,David 2 9 0 5
+Willis,Matt 1 9 0 9
+Schafer,Greg 1 6 0 6
+Wolf,Zander 1 6 0 6
+Vedoy,Erik 1 5 0 5
+Anderson,Jake 0 0 0 0
+Cherry,Octavis 0 0 0 0
+Auten,Tryg 0 0 0 0

@@ -1,0 +1,18 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Flottmeyer,Jackson 17 100 13 87 0 24 5.1
+Buri,Josh 9 81 1 80 1 51 8.9
+Hendred,Cair'ron 7 65 3 62 0 41 8.9
+Gavin,Ty 8 57 0 57 1 14 7.1
+Pringle,Quentin 3 2 0 2 0 1 0.7
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Flottmeyer,Jackson 13 18 107 1 0 29 2
+Sikma,Joe 1 1 25 1 0 25 0
+
+Receiving Rec. Yds TD Long.
+Campbell,Sylvere 6 77 1 29
+Holcomb,Cayden 3 28 1 25
+Sikma,Joe 2 16 0 11
+Densmore,Maurice 2 10 0 9
+Gavin,Ty 1 1 0 1
+Mann,Jonathan 0 0 0 0

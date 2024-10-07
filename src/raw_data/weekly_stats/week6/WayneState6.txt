@@ -1,0 +1,18 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Knox,Akeem 20 119 6 113 1 17 5.7
+Bohn,Nick 15 104 2 102 1 17 6.8
+Hayes,Brennan 6 68 0 68 2 44 11.3
+Andrews,Colton 1 3 0 3 0 3 3.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Bohn,Nick 10 17 95 0 0 36 0
+
+Receiving Rec. Yds TD Long.
+Watkins-Hogue,Kendrick 2 42 0 36
+Johnson,Jadon 2 26 0 17
+Schmaderer,Ashten 1 13 0 13
+Knox,Akeem 1 10 0 10
+Petersen,Dane 2 4 0 2
+Marshall,Trevor 1 1 0 1
+Miller,Trey 0 0 0 0
+Witte,Curtis 1 -1 0 0
