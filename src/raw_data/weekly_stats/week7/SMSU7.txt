@@ -1,0 +1,20 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Schafer,Greg 1 18 0 18 0 18 18.0
+Wolf,Zander 6 18 0 18 0 8 3.0
+Honstetter,Jacob 7 17 0 17 0 6 2.4
+Krogman,Kendon 14 41 33 8 0 19 0.6
+Taylor,Treay 2 8 0 8 0 8 4.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Krogman,Kendon 12 17 96 1 0 22 7
+Oak,Wyatt 0 1 0 0 0 0 0
+
+Receiving Rec. Yds TD Long.
+Wolf,Zander 2 30 0 22
+Auten,Tryg 2 24 0 18
+Abdi,Omar 2 20 0 11
+Anderson,Jake 2 6 0 3
+Honstetter,Jacob 1 6 0 6
+Maher,Colin 2 5 1 3
+McMath,Stevie 1 5 0 5
+Schafer,Greg 0 0 0 0

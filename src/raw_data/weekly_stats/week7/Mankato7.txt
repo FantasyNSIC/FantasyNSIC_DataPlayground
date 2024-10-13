@@ -1,0 +1,18 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Backer,Sam 19 130 0 130 0 15 6.8
+Ekern,Hayden 16 76 17 59 2 24 3.7
+Vasser,Christian 12 35 12 23 0 12 1.9
+May,Neal 2 12 0 12 0 6 6.0
+Howard,Jeremiah 1 9 0 9 0 9 9.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Ekern,Hayden 10 17 168 1 1 65 1
+
+Receiving Rec. Yds TD Long.
+Emanuel,Isaiah 1 65 0 65
+Guyett,Grant 3 48 0 27
+Backer,Sam 2 20 0 16
+Anger,Tony 1 11 0 11
+Hagen,Gabe 1 10 1 10
+Watson,TreShawn 1 9 0 9
+May,Neal 1 5 0 5

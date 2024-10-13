@@ -1,0 +1,20 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Epperson,Jarod 22 160 9 151 0 40 6.9
+Lampkin,Rashad 10 61 0 61 1 32 6.1
+Hensley,Gunnar 4 50 0 50 1 32 12.5
+Huber,Isaiah 1 0 2 -2 0 0 -2.0
+Kenny,Ryan 1 0 2 -2 0 0 -2.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Hensley,Gunnar 9 17 93 0 0 46 0
+
+Receiving Rec. Yds TD Long.
+Epperson,Jarod 3 64 0 46
+Lampkin,Rashad 1 14 0 14
+Johnston,Austin 1 7 0 7
+Francis,Matt 1 6 0 6
+Huber,Isaiah 2 3 0 2
+Scholten,Sam 0 0 0 0
+Fisher,Jack 0 0 0 0
+Minor,Max 0 0 0 0
+Haynes,Jaxon 1 -1 0 0

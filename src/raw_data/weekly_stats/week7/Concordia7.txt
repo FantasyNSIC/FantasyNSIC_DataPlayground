@@ -1,0 +1,19 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Richardson,Jaylin 22 88 2 86 2 16 3.9
+Compton,Jackson 5 30 0 30 0 12 6.0
+Harris,Parkees 5 11 1 10 0 4 2.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Compton,Jackson 22 34 267 1 0 37 0
+
+Receiving Rec. Yds TD Long.
+Washington,Jaylon 8 92 1 32
+Enke,Drew 5 77 0 37
+Udoibok,Peter 3 36 0 25
+Stoffel,EJ 1 19 0 19
+Reynolds,Julius 1 16 0 16
+Ryan,Carter 1 12 0 12
+Harris,Parkees 1 9 0 9
+Hardy,Jay 1 8 0 8
+Richardson,Jaylin 0 0 0 0
+Corrigan,Russell 1 -2 0 0
