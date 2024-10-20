@@ -1,0 +1,22 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Riley,Alex 10 87 2 85 1 29 8.5
+Johnson,Derrick 5 47 0 47 0 29 9.4
+Vallafskey,Ben 4 13 0 13 0 4 3.3
+Ames,DaShaun 1 0 1 -1 0 0 -1.0
+Mitchell,Daniel 1 0 1 -1 0 0 -1.0
+Eggert,Jacob 4 2 16 -14 0 2 -3.5
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Eggert,Jacob 20 35 247 2 4 56 3
+Hull,Justin 1 1 6 0 0 6 0
+
+Receiving Rec. Yds TD Long.
+Durocher,Jimmy 5 134 1 56
+Ames,DaShaun 6 63 1 19
+Pitz,Sam 6 37 0 12
+Gilbert?III,Chuck 2 10 0 5
+Shrum,Jonathan 1 6 0 6
+Johnson,Derrick 1 3 0 3
+Vallafskey,Ben 0 0 0 0
+Ojile,Nick 0 0 0 0
+Patterson,Ryder 0 0 0 0

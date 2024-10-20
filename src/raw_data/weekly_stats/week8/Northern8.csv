@@ -1,0 +1,13 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Daniel,Britt,5,71,14.2,1,11,18,126,1,0,,,,
+Noah,Smith,10,69,6.9,0,,,,,,,,,
+Wyatt,Block,10,66,6.6,0,,,,,,3,52,17.3,0
+Hank,Kraft,4,43,10.8,1,,,,,,2,19,9.5,1
+Colton,Hackel,5,26,5.2,1,2,5,54,0,1,,,,
+Matt,Larson,2,2,1.0,0,,,,,,,,,
+Tanner,Branson,,,,,,,,,,2,37,18.5,0
+Ty,Wiley,,,,,,,,,,3,37,12.3,0
+Jacob,Van Landingham,,,,,,,,,,2,21,10.5,0
+Cade,Kaiser,,,,,,,,,,1,14,14.0,0
+Julian,Scott,,,,,,,,,,0,0,0.0,0
+Jack,Oedekoven,,,,,,,,,,0,0,0.0,0

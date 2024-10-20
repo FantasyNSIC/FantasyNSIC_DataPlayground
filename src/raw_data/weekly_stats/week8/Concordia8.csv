@@ -1,0 +1,8 @@
+first_name,last_name,rush_att,rush_yds,rush_avg,rush_td,pass_comp,pass_att,pass_yds,pass_td,pass_int,recieve_rec,recieve_yds,recieve_avg,recieve_td
+Jaylin,Richardson,36,198,5.5,2,,,,,,1,30,30.0,0
+Jackson,Compton,9,30,3.3,0,17,29,213,2,0,,,,
+Jaylon,Washington,5,-4,-0.8,0,,,,,,5,31,6.2,0
+Drew,Enke,,,,,,,,,,7,111,15.9,2
+Julius,Reynolds,,,,,,,,,,3,36,12.0,0
+Peter,Udoibok,,,,,,,,,,1,5,5.0,0
+Carter,Ryan,,,,,,,,,,0,0,0.0,0
