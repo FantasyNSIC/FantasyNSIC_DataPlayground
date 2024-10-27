@@ -1,0 +1,17 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Hendred,Cair'ron 11 66 2 64 0 41 5.8
+Stenstrom,Cole 9 40 8 32 2 23 3.6
+Pringle,Quentin 10 20 2 18 0 4 1.8
+Gavin,Ty 6 11 2 9 0 5 1.5
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Stenstrom,Cole 12 23 150 1 1 31 4
+
+Receiving Rec. Yds TD Long.
+Holcomb,Cayden 3 66 0 31
+Gavin,Ty 5 35 0 11
+Pringle,Quentin 1 24 0 24
+Densmore,Maurice 2 23 1 13
+Hendred,Cair'ron 1 2 0 2
+Sikma,Joe 0 0 0 0
+Geurink,Colton 0 0 0 0

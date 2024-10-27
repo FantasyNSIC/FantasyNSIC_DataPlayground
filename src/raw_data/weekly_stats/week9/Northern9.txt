@@ -1,0 +1,19 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Block,Wyatt 22 104 2 102 2 14 4.6
+Kraft,Hank 12 101 0 101 0 27 8.4
+Britt,Daniel 7 75 0 75 2 23 10.7
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Britt,Daniel 15 28 131 1 1 14 0
+Ellard,Tom 1 1 1 0 0 1 0
+
+Receiving Rec. Yds TD Long.
+Branson,Tanner 4 38 0 12
+Van?Landingham,Jacob 5 38 1 14
+Fritton,Collin 2 18 0 11
+Block,Wyatt 2 18 0 11
+Wiley,Ty 1 10 0 10
+Kaiser,Cade 1 9 0 9
+Schwartz,Trevor 1 1 0 1
+Kraft,Hank 0 0 0 0
+Kraft,Zach 0 0 0 0

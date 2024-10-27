@@ -1,0 +1,24 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Connors,DaNari 12 27 7 20 0 10 1.7
+Schafer,Greg 2 10 0 10 0 8 5.0
+Krogman,Kendon 14 36 27 9 0 9 0.6
+Stearns,Nathan 1 9 0 9 0 9 9.0
+Wamsley,Jonathan 2 7 0 7 0 5 3.5
+Walrath,Shaun 1 4 0 4 0 4 4.0
+McMath,Stevie 1 0 0 0 0 0 0.0
+Oak,Wyatt 5 13 28 -15 0 13 -3.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Oak,Wyatt 9 15 116 1 1 41 4
+Krogman,Kendon 4 10 81 0 1 38 5
+
+Receiving Rec. Yds TD Long.
+Maher,Colin 3 91 1 41
+McMath,Stevie 1 38 0 38
+Ola-Kazeem,David 2 25 0 22
+Anderson,Jake 2 18 0 13
+Auten,Tryg 2 13 0 7
+Stearns,Nathan 1 7 0 7
+Connors,DaNari 2 5 0 5
+Schafer,Greg 0 0 0 0
+Wamsley,Jonathan 0 0 0 0
