@@ -1,0 +1,17 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Block,Wyatt 16 76 2 74 1 22 4.6
+Britt,Daniel 11 64 23 41 0 16 3.7
+Kraft,Hank 3 16 0 16 0 7 5.3
+Hackel,Colton 2 4 0 4 0 3 2.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Britt,Daniel 15 26 182 1 1 48 2
+
+Receiving Rec. Yds TD Long.
+Van?Landingham,Jacob 3 58 0 48
+Fritton,Collin 6 54 0 21
+Branson,Tanner 2 30 1 20
+Block,Wyatt 2 18 0 11
+Oedekoven,Jack 1 13 0 13
+Kraft,Hank 1 9 0 9
+Kaiser,Cade 0 0 0 0

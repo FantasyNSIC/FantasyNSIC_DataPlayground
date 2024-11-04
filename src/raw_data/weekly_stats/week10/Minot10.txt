@@ -1,0 +1,15 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Chrisman,Carson 25 139 3 136 3 17 5.4
+Daniels,Devan 14 94 3 91 1 37 6.5
+Lovett,Evan 20 86 1 85 0 11 4.3
+Palmquist,Erik 3 20 0 20 1 15 6.7
+Buckhanan,Sam 1 8 0 8 0 8 8.0
+Stonebraker,Tyler 1 7 0 7 0 7 7.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Chrisman,Carson 4 11 40 0 0 18 0
+
+Receiving Rec. Yds TD Long.
+Noriega,Jonathan 3 22 0 10
+Pinello,Josh 1 18 0 18
+George,Aiden 0 0 0 0

@@ -1,0 +1,15 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Imdieke,Luke 2 19 0 19 0 14 9.5
+Strand,Jack 5 23 12 11 1 13 2.2
+Ridgeway,Fynn 3 2 2 0 0 2 0.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Strand,Jack 31 46 344 5 2 38 1
+
+Receiving Rec. Yds TD Long.
+Elbert,Carson 6 116 1 38
+Perryman,Brady 4 74 2 31
+Florence,Gage 7 63 2 23
+Thorson,Madden 5 52 0 24
+Imdieke,Luke 8 30 0 7
+Ridgeway,Fynn 1 9 0 9

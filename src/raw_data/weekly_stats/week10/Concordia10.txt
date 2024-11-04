@@ -1,0 +1,20 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Richardson,Jaylin 23 104 0 104 1 15 4.5
+Hornacek,Daniel 2 11 0 11 0 6 5.5
+Compton,Jackson 2 5 9 -4 0 5 -2.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Compton,Jackson 15 28 123 0 2 16 1
+
+Receiving Rec. Yds TD Long.
+Enke,Drew 4 49 0 15
+Udoibok,Peter 2 21 0 16
+Ellison,Troy 3 20 0 11
+Reynolds,Julius 1 9 0 9
+Stoffel,EJ 1 8 0 8
+Washington,Jaylon 2 7 0 5
+Hardy,Jay 1 7 0 7
+Hornacek,Daniel 1 2 0 2
+Richardson,Jaylin 0 0 0 0
+Ryan,Carter 0 0 0 0
+Corrigan,Russell 0 0 0 0

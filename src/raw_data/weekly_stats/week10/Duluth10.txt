@@ -1,0 +1,16 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Walljasper,Kyle 26 247 11 236 5 70 9.1
+Riley,Alex 9 45 0 45 0 11 5.0
+Johnson,Derrick 7 23 3 20 0 13 2.9
+Ames,DaShaun 2 16 0 16 0 9 8.0
+Patterson,Ryder 1 5 0 5 0 5 5.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Walljasper,Kyle 8 10 184 1 1 74 1
+Ames,DaShaun 1 1 29 0 0 29 0
+
+Receiving Rec. Yds TD Long.
+Pitz,Sam 6 132 1 74
+Durocher,Jimmy 2 50 0 29
+Ames,DaShaun 1 31 0 31
+Ojile,Nick 0 0 0 0
