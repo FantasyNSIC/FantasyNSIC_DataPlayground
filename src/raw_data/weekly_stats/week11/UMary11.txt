@@ -1,0 +1,20 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Trandahl,Andrew 9 45 0 45 0 21 5.0
+Henry,Carl 11 48 9 39 0 18 3.5
+Moore,Jeremiah 5 17 9 8 0 16 1.6
+Iverson,Brayden 1 0 2 -2 0 0 -2.0
+Polo?Solomon,Jordan 8 24 42 -18 0 12 -2.3
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Polo?Solomon,Jordan 24 34 204 2 2 38 3
+
+Receiving Rec. Yds TD Long.
+Jablonski,Karsyn 4 60 0 38
+Young,Jaxon 3 57 0 34
+Rufai,Mujeeb 6 36 1 16
+Henry,Carl 5 24 1 11
+Bodine,Luke 2 18 0 12
+Heinrich,Ethan 1 5 0 5
+Trandahl,Andrew 3 4 0 4
+Sik,Malaki 0 0 0 0
+Moore,Jeremiah 0 0 0 0

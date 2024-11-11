@@ -1,0 +1,16 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Bohn,Nick 12 99 2 97 0 31 8.1
+Boyd,Latravious 15 100 5 95 1 27 6.3
+Knox,Akeem 16 55 0 55 2 18 3.4
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Bohn,Nick 18 35 159 0 2 29 0
+
+Receiving Rec. Yds TD Long.
+Watkins-Hogue,Kendrick 5 53 0 29
+Miller,Trey 2 38 0 22
+Boyd,Latravious 4 27 0 8
+Schmaderer,Ashten 2 20 0 16
+Johnson,Jadon 3 19 0 7
+Knox,Akeem 2 2 0 2
+Petersen,Dane 0 0 0 0

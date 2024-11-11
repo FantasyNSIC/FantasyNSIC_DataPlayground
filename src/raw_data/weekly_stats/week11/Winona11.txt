@@ -1,0 +1,18 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Buri,Josh 8 56 2 54 0 16 6.8
+Pringle,Quentin 13 33 0 33 0 6 2.5
+Hendred,Cair'ron 12 33 2 31 2 9 2.6
+Gavin,Ty 3 13 0 13 0 13 4.3
+Stenstrom,Cole 3 6 5 1 0 6 0.3
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Stenstrom,Cole 18 28 344 2 1 54 1
+
+Receiving Rec. Yds TD Long.
+Campbell,Sylvere 7 142 0 46
+Sikma,Joe 5 67 1 27
+Densmore,Maurice 2 62 1 54
+Holcomb,Cayden 2 50 0 35
+Pringle,Quentin 1 23 0 23
+Geurink,Colton 1 0 0 0
+Buri,Josh 0 0 0 0

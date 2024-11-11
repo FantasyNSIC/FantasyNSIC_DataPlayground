@@ -1,0 +1,18 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Epperson,Jarod 18 205 3 202 2 62 11.2
+Kenny,Ryan 3 7 1 6 0 6 2.0
+Bauer,Canyon 1 3 0 3 0 3 3.0
+Blount,Breylon 1 3 0 3 0 3 3.0
+Hensley,Gunnar 4 7 5 2 0 6 0.5
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Hensley,Gunnar 16 25 271 1 0 75 0
+
+Receiving Rec. Yds TD Long.
+Fisher,Jack 6 99 0 51
+Epperson,Jarod 1 75 0 75
+Bauer,Canyon 2 43 0 44
+Johnston,Austin 4 27 0 12
+Minor,Max 1 11 0 11
+Remmert,Jacob 1 10 1 10
+Huber,Isaiah 1 6 0 6

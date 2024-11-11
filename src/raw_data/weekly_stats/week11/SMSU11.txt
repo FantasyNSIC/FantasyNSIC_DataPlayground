@@ -1,0 +1,24 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+Oehm,Josh 13 43 20 23 0 12 1.8
+Honstetter,Jacob 2 5 0 5 0 4 2.5
+Schafer,Greg 1 1 0 1 0 1 1.0
+Auten,Tryg 1 1 0 1 0 1 1.0
+Anderson,Jake 1 0 1 -1 0 0 -1.0
+Krogman,Kendon 1 0 3 -3 0 0 -3.0
+
+Passing Cmp Att. Yds. TD INT Long Sack
+Oehm,Josh 9 26 151 2 1 42 3
+Krogman,Kendon 1 1 6 0 0 6 0
+
+Receiving Rec. Yds TD Long.
+Auten,Tryg 3 51 1 31
+Walrath,Shaun 1 42 1 42
+Schafer,Greg 1 21 0 21
+Ola-Kazeem,David 1 17 0 17
+Maher,Colin 2 14 0 7
+Stearns,Nathan 1 6 0 6
+Honstetter,Jacob 1 6 0 6
+Anderson,Jake 0 0 0 0
+Willis,Matt 0 0 0 0
+Wolf,Zander 0 0 0 0
+McMath,Stevie 0 0 0 0
