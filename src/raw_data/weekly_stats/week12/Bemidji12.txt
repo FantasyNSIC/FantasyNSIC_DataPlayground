@@ -1,0 +1,14 @@
+Rushing Att. Gain Loss Net TD Lg. Avg.
+McGath,Sam 18 85 21 64 1 12 3.6
+Washington,Jayden 13 70 8 62 0 14 4.8
+Gronski,Jarrett 10 48 3 45 0 13 4.5
+Incaprera,Justin 4 35 0 35 0 21 8.8
+
+Passing Cmp Att. Yds. TD INT Long Sack
+McGath,Sam 10 19 114 1 1 31 1
+
+Receiving Rec. Yds TD Long.
+Peters,Brice 2 60 0 31
+Lehman,Drayton 6 55 1 22
+Baron,Joey 2 13 0 8
+Miller,Kaleb 0 0 0 0
